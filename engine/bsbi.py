@@ -5,15 +5,15 @@ import heapq
 import math
 import re
 
-from index import InvertedIndexReader, InvertedIndexWriter
-from util import IdMap, merge_and_sort_posts_and_tfs
-from compression import VBEPostings
+from engine.index import InvertedIndexReader, InvertedIndexWriter
+from engine.util import IdMap, merge_and_sort_posts_and_tfs
+from engine.compression import VBEPostings
 from tqdm import tqdm
 
 import nltk
-from mpstemmer import MPStemmer
-from nlp_id.stopword import StopWord
-from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
+# from mpstemmer import MPStemmer
+# from nlp_id.stopword import StopWord
+# from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 
