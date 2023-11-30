@@ -198,11 +198,12 @@
 
     {% if results %}
     <p>Time : {{time}}</p>
-    <b style="padding-left: 50px; padding-right: 50px; color: #646464;">Web Results</b>
+    <b style="padding-left: 50px; padding-right: 50px; color: #393939;">Web Results</b>
     {% for result in results %}
     <div style="padding-left: 50px; padding-right: 50px;">
-        <h3 style="color: blue;"><a href="{{ result.1 }}">{{ result.doc }}</a></h3>
+        <h3 style="color: blue;"><a href="/files/{{ result.folder_id }}/{{ result.file_name }}">{{ result.doc }}</a></h3>
         <h3 style="color: green;">{{ result.score }}</h3>
+        <h4 style="color: gray;">{{ result.text }}</h4>
     </div><br><br>
     {% endfor %}
     {% endif %}

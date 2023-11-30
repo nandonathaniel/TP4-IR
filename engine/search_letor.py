@@ -9,7 +9,7 @@ class SearchLetor:
                                 postings_encoding=VBEPostings,
                                 output_dir='engine/index')
         self.BSBI_instance.load()
-        self.letor = LambdaMart()
+        # self.letor = LambdaMart()
     
     def ranking(self, query, k=10):
         print("Query  : ", query)
@@ -29,8 +29,8 @@ class SearchLetor:
 
     def rankingReturn(self, query, k=10):
         start_time = time.time()
-        tf_idf_result = self.BSBI_instance.retrieve_tfidf(query, k=50)
-        reranked_with_letor = self.letor.rerank_letor(query, [t[1] for t in tf_idf_result])
+        reranked_with_letor = self.BSBI_instance.retrieve_tfidf(query, k=20)
+        # reranked_with_letor = self.letor.rerank_letor(query, [t[1] for t in tf_idf_result])
 
         results_list = []
         for (score, doc) in reranked_with_letor[:k]:
