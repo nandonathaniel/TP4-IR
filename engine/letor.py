@@ -3,8 +3,8 @@ import random
 
 import lightgbm as lgb
 import numpy as np
-from mpstemmer import MPStemmer
-from nlp_id.stopword import StopWord
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
 from scipy.spatial.distance import cosine
 from gensim.models import LsiModel
 from gensim.corpora import Dictionary
@@ -40,8 +40,11 @@ class LambdaMart:
             max_depth = -1,
         )
 
-        self.stemmer = MPStemmer()
-        self.stop_word_remover = StopWord()
+        nltk.download('punkt')
+        self.stemmer = PorterStemmer()
+
+        nltk.download('stopwords')
+        self.stop_words_set = set(stopwords.words('english'))
 
         # train
         self.load_documents('qrels-folder/train_docs.txt')
@@ -59,11 +62,20 @@ class LambdaMart:
     
     def _preprocess_line(self, line: str):
 
-        line_without_stopwords = self.stop_word_remover.remove_stopword(line)
-        terms = re.findall(r'\w+', line_without_stopwords)
-        stemmed_terms = [self.stemmer.stem(term.lower()) for term in terms]
+        tokens = re.findall(r'\w+', line)
 
-        return stemmed_terms
+        stemmed_tokens = [
+            self.stemmer.stem(token) if token else ''
+            for token in tokens
+        ]
+
+        removed_stop_words = [
+            token
+            for token in stemmed_tokens
+            if token not in self.stop_words_set
+        ]
+        
+        return removed_stop_words
 
     def load_documents(self, file_path: str):
         with open(file_path, 'r', encoding='utf-8') as file:
