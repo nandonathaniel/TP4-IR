@@ -1,0 +1,1 @@
+η = 1 − q C q H = 1 − T C T H ( 4 ) . ( \ displaystyle \ eta = 1 - ( \ frac ( q_ ( C ) ) ( q_ ( H ) ) ) = 1 - ( \ frac ( T_ ( C ) ) ( T_ ( H ) ) ) \ qquad ( 4 ) . )

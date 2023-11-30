@@ -1,0 +1,1 @@
+Sigma70 region 1.1 Identifiers Symbol Sigma70_r1_1 Pfam PF03979 InterPro IPR007127 ( show ) Available protein structures : Pfam structures PDB RCSB PDB ; PDBe ; PDBj PDBsum structure summary

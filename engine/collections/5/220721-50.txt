@@ -1,0 +1,1 @@
+Var ⁡ ( Z ) = ( 1 − δ ) 2 Var ⁡ ( X ) + 2 δ ( 1 − δ ) Cov ⁡ ( X , Y ) + δ 2 Var ⁡ ( Y ) ( \ displaystyle \ operatorname ( Var ) ( Z ) = ( 1 - \ delta ) ^ ( 2 ) \ operatorname ( Var ) ( X ) + 2 \ delta ( 1 - \ delta ) \ operatorname ( Cov ) ( X , Y ) + \ delta ^ ( 2 ) \ operatorname ( Var ) ( Y ) )

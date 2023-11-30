@@ -1,0 +1,1 @@
+K , the ebullioscopic constant , which is dependent on the properties of the solvent . It can be calculated as K = RT M / ΔH , where R is the gas constant , and T is the boiling temperature of the pure solvent ( in K ) , M is the molar mass of the solvent , and ΔH is the heat of vaporization per mole of the solvent .

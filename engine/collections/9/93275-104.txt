@@ -1,0 +1,1 @@
+e = 3.1 ( S y 1 ) 5 8 ( 1 E ′ ) 1 2 ( 1 v ) 1 4 ( 1 ρ ) 1 8 ( \ displaystyle e = 3.1 \ left ( ( \ frac ( S_ ( \ text ( y ) ) ) ( 1 ) ) \ right ) ^ ( \ frac ( 5 ) ( 8 ) ) \ left ( ( \ frac ( 1 ) ( E ' ) ) \ right ) ^ ( \ frac ( 1 ) ( 2 ) ) \ left ( ( \ frac ( 1 ) ( v ) ) \ right ) ^ ( \ frac ( 1 ) ( 4 ) ) \ left ( ( \ frac ( 1 ) ( \ rho ) ) \ right ) ^ ( \ frac ( 1 ) ( 8 ) ) )

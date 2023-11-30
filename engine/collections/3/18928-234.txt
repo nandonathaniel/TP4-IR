@@ -1,0 +1,1 @@
+A P + B P + C P + D P ≥ A C + B D . ( \ displaystyle AP + BP + CP + DP \ geq AC + BD . )

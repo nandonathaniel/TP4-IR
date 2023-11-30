@@ -1,0 +1,1 @@
+Z ( ω ) = − j ( 1 C ) ( ω ω 2 − ω 0 2 ) , ( \ displaystyle Z ( \ omega ) = - j \ left ( ( \ frac ( 1 ) ( C ) ) \ right ) \ left ( ( \ frac ( \ omega ) ( \ omega ^ ( 2 ) - \ omega _ ( 0 ) ^ ( 2 ) ) ) \ right ) \ , , )

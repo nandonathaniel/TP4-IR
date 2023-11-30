@@ -1,0 +1,1 @@
+g ( E ) = ∑ A ∑ n , l ∑ m l , m s g n , l , m l , m s ⟩ A ( E ) ( \ displaystyle g \ left ( E \ right ) = \ sum _ ( \ mathrm ( A ) ) \ sum _ ( n , l ) \ sum _ ( m_ ( l ) , m_ ( s ) ) ( g_ ( n , l , m_ ( l ) , m_ ( s ) \ rangle ) ^ ( \ mathrm ( A ) ) \ left ( E \ right ) ) )

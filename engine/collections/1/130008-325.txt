@@ -1,0 +1,1 @@
+A rational approximation of error for the finite sum of their series of interest . For example , the error , f i ( n + 1 ) ( \ displaystyle f_ ( i ) ( n + 1 ) ) , ( for n odd , and i = 1 , 2 , 3 ) for the series :

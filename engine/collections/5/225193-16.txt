@@ -1,0 +1,1 @@
+spiral : when it grows only on one edge , and revolves as it grows ; it is always sinistral in dextral shells .

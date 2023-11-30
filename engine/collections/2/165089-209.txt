@@ -1,0 +1,1 @@
+∑ n = 0 ∞ a n ( \ displaystyle \ sum _ ( n = 0 ) ^ ( \ infty ) \ left a_ ( n ) \ right )

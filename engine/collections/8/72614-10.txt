@@ -1,0 +1,1 @@
+The byte keyword is used to declare a field that can hold an 8 - bit signed two 's complement integer . This keyword is also used to declare that a method returns a value of the primitive type byte .

@@ -1,0 +1,1 @@
+Active Directory structures are arrangements of information about objects . The objects fall into two broad categories : resources ( e.g. , printers ) and security principals ( user or computer accounts and groups ) . Security principals are assigned unique security identifiers ( SIDs ) .

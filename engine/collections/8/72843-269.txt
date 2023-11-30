@@ -1,0 +1,1 @@
+A set of AArch64 atomic read - write instructions .

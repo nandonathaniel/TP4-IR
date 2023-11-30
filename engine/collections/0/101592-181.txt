@@ -1,0 +1,1 @@
+R1 - Answer waiting call and disconnect current call . R2 - Answer waiting call and place current call on hold / or swap between calls .

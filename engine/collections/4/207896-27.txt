@@ -1,0 +1,1 @@
+where a and b are not both equal to zero . The two versions can be converted from one to the other by moving the constant term to the other side of the equal sign .

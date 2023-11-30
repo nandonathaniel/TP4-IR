@@ -1,0 +1,1 @@
+Tectonics : GPS enables direct fault motion measurement of earthquakes . Between earthquakes GPS can be used to measure crustal motion and deformation to estimate seismic strain buildup for creating seismic hazard maps .

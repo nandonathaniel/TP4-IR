@@ -1,0 +1,1 @@
+Usually a configuration flag is set in each player 's firmware at the factory . This flag holds the region number that the machine is allowed to play . Region - free players are DVD players shipped without the ability to enforce regional lockout ( usually by means of a chip that ignores any region coding ) , or without this flag set .

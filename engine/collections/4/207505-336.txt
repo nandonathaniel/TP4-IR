@@ -1,0 +1,1 @@
+⟨ φ 1 ( x 1 ) ⋯ φ n ( x n ) ⟩ = ∫ e − S φ 1 ( x 1 ) ⋯ φ n ( x n ) D φ ∫ e − S D φ . ( \ displaystyle \ left \ langle \ phi _ ( 1 ) ( x_ ( 1 ) ) \ cdots \ phi _ ( n ) ( x_ ( n ) ) \ right \ rangle = ( \ frac ( \ displaystyle \ int e ^ ( - S ) \ phi _ ( 1 ) ( x_ ( 1 ) ) \ cdots \ phi _ ( n ) ( x_ ( n ) ) \ , D \ phi ) ( \ displaystyle \ int e ^ ( - S ) \ , D \ phi ) ) \ , . )

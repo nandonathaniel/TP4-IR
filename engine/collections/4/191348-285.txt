@@ -1,0 +1,1 @@
+More generally , the result of a cross product may be either a vector or a pseudovector , depending on the type of its operands ( vectors or pseudovectors ) . Namely , vectors and pseudovectors are interrelated in the following ways under application of the cross product :

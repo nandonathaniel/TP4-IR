@@ -1,0 +1,1 @@
+Unlike Point - to - Point connections listed above , IEEE 1394 is able to host several signals on the same wire , with the data delivered and shown on the destination set . It is also fully bi-directional , with its full bandwidth used in one direction or the other , or split directions up to its maximum .

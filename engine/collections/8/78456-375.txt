@@ -1,0 +1,1 @@
+74x381 4 - bit arithmetic logic unit / function generator , generate and propagate outputs 20 SN74LS381A

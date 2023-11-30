@@ -1,0 +1,1 @@
+κ = − F y 2 F x x + 2 F x F y F x y − F x 2 F y y ( F x 2 + F y 2 ) 3 / 2 . ( \ displaystyle \ kappa = ( \ frac ( - F_ ( y ) ^ ( 2 ) F_ ( xx ) + 2F_ ( x ) F_ ( y ) F_ ( xy ) - F_ ( x ) ^ ( 2 ) F_ ( yy ) ) ( ( F_ ( x ) ^ ( 2 ) + F_ ( y ) ^ ( 2 ) ) ^ ( 3 / 2 ) ) ) . )

@@ -1,0 +1,1 @@
+Animation . Rib cage is not shown , except for 10th rib , 11th rib and 12th rib .

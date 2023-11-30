@@ -1,0 +1,1 @@
+# = indicates a record has not been accepted , or there is some sort of irregularity with a result

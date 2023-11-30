@@ -1,0 +1,1 @@
+It can also be shown that this lattice is distributive , i.e. that lcm distributes over gcd and , dually , that gcd distributes over lcm :

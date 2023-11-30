@@ -1,0 +1,1 @@
+Mail Conversation View in the Mail app features navigation improvements . When an email is open in Mail app , the `` back '' button in the left corner of the screen shows the number of unread emails in the mailbox you opened the email in ( Similar to the Messages app ) .

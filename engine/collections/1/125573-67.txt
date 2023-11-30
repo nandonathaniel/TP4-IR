@@ -1,0 +1,1 @@
+If the top electrode is large and smooth enough , the electric field at its surface may never get high enough even at the peak voltage to cause air breakdown , and air discharges will not occur . Some entertainment coils have a sharp `` spark point '' projecting from the torus to start discharges .

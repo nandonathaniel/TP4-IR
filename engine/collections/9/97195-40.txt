@@ -1,0 +1,1 @@
+The glass electrode ( and other ion selective electrodes ) should be calibrated in a medium similar to the one being investigated . For instance , if one wishes to measure the pH of a seawater sample , the electrode should be calibrated in a solution resembling seawater in its chemical composition , as detailed below .

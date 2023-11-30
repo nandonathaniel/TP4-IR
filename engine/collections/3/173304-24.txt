@@ -1,0 +1,1 @@
+Market capitalization must be greater than or equal to $6.1 billion USD

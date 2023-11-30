@@ -1,0 +1,1 @@
+A and B P ( A ∩ B ) = P ( A B ) P ( B ) = P ( B A ) P ( A ) P ( A ∩ B ) = P ( A ) P ( B ) if A and B are independent ( \ displaystyle ( \ begin ( aligned ) P ( A \ cap B ) & = P ( A B ) P ( B ) = P ( B A ) P ( A ) \ \ P ( A \ cap B ) & = P ( A ) P ( B ) \ qquad ( \ mbox ( if A and B are independent ) ) \ \ \ end ( aligned ) ) )

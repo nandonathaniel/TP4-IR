@@ -1,0 +1,1 @@
+The time based approach simply puts a specified amount of time between frames . The major drawback of this is that new gaps can be introduced or old gaps can be lost due to external influences .

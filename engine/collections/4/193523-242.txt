@@ -1,0 +1,1 @@
+P − q A = m r  ̇ 1 − ( r  ̇ c ) 2 ( \ displaystyle \ mathbf ( P ) - q \ mathbf ( A ) = ( \ frac ( m ( \ dot ( \ mathbf ( r ) ) ) ) ( \ sqrt ( 1 - \ left ( ( \ frac ( \ dot ( \ mathbf ( r ) ) ) ( c ) ) \ right ) ^ ( 2 ) ) ) ) \ , )

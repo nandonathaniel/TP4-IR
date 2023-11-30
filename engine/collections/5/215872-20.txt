@@ -1,0 +1,1 @@
+AD FS requires an AD DS infrastructure , although its federation partner may not .

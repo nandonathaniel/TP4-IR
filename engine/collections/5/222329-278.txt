@@ -1,0 +1,1 @@
+μ n f = μ b f ( 1 + 2.5 ∅ e + ρ p V B d p 2 72 δ ( T × 10 − 10 × ∅ − 0.002 T − 0.284 ) ) ( \ displaystyle \ mu _ ( nf ) = \ mu _ ( bf ) ( \ Biggl ( ) 1 + 2.5 \ varnothing _ ( e ) + ( \ frac ( \ rho _ ( p ) V_ ( B ) ( d_ ( p ) ) ^ ( 2 ) ) ( 72 \ delta ( T \ times 10 ^ ( - 10 ) \ times \ varnothing ^ ( - 0.002 T - 0.284 ) ) ) ) ( \ Biggr ) ) )

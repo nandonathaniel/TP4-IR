@@ -1,0 +1,1 @@
+B ( ζ ) = e − ζ ⋅ K , R ( θ ) = e θ ⋅ J . ( \ displaystyle B ( ( \ boldsymbol ( \ zeta ) ) ) = e ^ ( - ( \ boldsymbol ( \ zeta ) ) \ cdot \ mathbf ( K ) ) \ , , \ quad R ( ( \ boldsymbol ( \ theta ) ) ) = e ^ ( ( \ boldsymbol ( \ theta ) ) \ cdot \ mathbf ( J ) ) \ , . )

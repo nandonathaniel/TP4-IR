@@ -1,0 +1,1 @@
+Different CPU - to - device communication methods , such as memory mapping , do not affect the direct memory access ( DMA ) for a device , because , by definition , DMA is a memory - to - device communication method that bypasses the CPU .

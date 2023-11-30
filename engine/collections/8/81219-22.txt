@@ -1,0 +1,1 @@
+Color schemes can also contain different shades of a single color ; for example , a color scheme that mixes different shades of green , ranging from very light ( almost white ) to very dark .

@@ -1,0 +1,1 @@
+Optional disambiguation When the name is ambiguous , append disambiguation information in parentheses . The date of launching can be used if there are several ships with the same name : Santa Maria ( ship ) compared to Santa Maria

@@ -1,0 +1,1 @@
+Two utilities , rent is four times the dice value if one utility is owned , but ten times if both are owned . Hotels and houses can not be built on utilities or stations . Some country editions have a fixed rent for utilities ; for example , the Italian editions has a L. 2,000 ( $20 ) rent if one utility is owned , or L. 10,000 ( $100 ) if both are owned .

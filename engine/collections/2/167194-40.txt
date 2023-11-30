@@ -1,0 +1,1 @@
+V s t = V s n ( \ displaystyle V_ ( st ) = V_ ( s ) ( \ sqrt ( n ) ) )

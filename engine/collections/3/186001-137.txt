@@ -1,0 +1,1 @@
+Traditional EVM is not intended for non-discrete ( continuous ) effort . In traditional EVM standards , non-discrete effort is called `` level of effort '' ( LOE ) . If a project plan contains a significant portion of LOE , and the LOE is intermixed with discrete effort , EVM results will be contaminated . This is another area of EVM research .

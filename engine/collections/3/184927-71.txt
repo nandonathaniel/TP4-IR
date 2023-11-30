@@ -1,0 +1,1 @@
+This relaxation model was introduced by and named after the physicist Peter Debye ( 1913 ) . It is characteristic for dynamic polarization with only one relaxation time .

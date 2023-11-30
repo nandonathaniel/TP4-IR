@@ -1,0 +1,1 @@
+Pr θ , φ ( u ( X ) < Y < v ( X ) ) = γ for all ( θ , φ ) . ( \ displaystyle ( \ Pr ) _ ( \ theta , \ varphi ) ( u ( X ) < Y < v ( X ) ) = \ gamma ( \ text ( for all ) ) ( \ theta , \ varphi ). \ , )

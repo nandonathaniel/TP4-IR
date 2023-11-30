@@ -1,0 +1,1 @@
+workflow is the process of creating cycles of sequential and parallel tasks that must be accomplished in the WCMS . For example , one or many content creators can submit a story , but it is not published until the copy editor cleans it up and the editor - in - chief approves it .

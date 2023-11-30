@@ -1,0 +1,1 @@
+In most cases , an index is used to quickly locate the data record ( s ) from which the required data is read . In other words , the index is only used to locate data records in the table and not to return data .

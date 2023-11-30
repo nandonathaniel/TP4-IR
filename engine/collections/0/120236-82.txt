@@ -1,0 +1,1 @@
+J = L + S . ( \ displaystyle \ mathbf ( J ) = \ mathbf ( L ) + \ mathbf ( S ) . )

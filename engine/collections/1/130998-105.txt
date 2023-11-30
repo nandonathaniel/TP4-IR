@@ -1,0 +1,1 @@
+In other words , in terms of one 's physical intuition , the theorem simply states that the sum of the changes in a quantity over time ( such as position , as calculated by multiplying velocity times time ) adds up to the total net change in the quantity . Or to put this more generally :

@@ -1,0 +1,1 @@
+Android 4.4 640 × 360 Himax HX7309 LCoS display 5 - megapixel camera , capable of 720p video recording Wi - Fi 802.11 b / g Bluetooth 16 GB storage ( 12 GB available ) Texas Instruments OMAP 4430 SoC 1.2 Ghz Dual ( ARMv7 ) 1 GB RAM 3 axis gyroscope 3 axis accelerometer 3 axis magnetometer ( compass ) Ambient light sensing and proximity sensor Bone conduction audio transducer

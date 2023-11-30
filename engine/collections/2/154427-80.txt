@@ -1,0 +1,1 @@
+As such , the curl operator maps continuously differentiable functions f : R → R to continuous functions g : R → R. In fact , it maps C functions in R to C functions in R .

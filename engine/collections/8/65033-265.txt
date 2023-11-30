@@ -1,0 +1,1 @@
+Model Speed ( GHz ) L2 Cache ( MB ) FSB ( MHz ) TDP ( W )

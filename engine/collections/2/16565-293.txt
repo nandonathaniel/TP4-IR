@@ -1,0 +1,1 @@
+PRE existed in HTML Internet Draft 1.2 , and was standardized in HTML 2.0 ; still current .

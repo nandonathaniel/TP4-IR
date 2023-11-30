@@ -1,0 +1,1 @@
+m = v 4 − 24 v 2 − 25 48 , k = v 2 , F ( m , k ) = v 5 + 47 v 48 ( \ displaystyle m = ( \ tfrac ( v ^ ( 4 ) - 24v ^ ( 2 ) - 25 ) ( 48 ) ) , \ ; k = v ^ ( 2 ) , \ ; F ( m , k ) = ( \ tfrac ( v ^ ( 5 ) + 47v ) ( 48 ) ) )

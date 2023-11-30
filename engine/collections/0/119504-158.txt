@@ -1,0 +1,1 @@
+That is , a repeating decimal with repeat length n is equal to the quotient of the repeating part ( as an integer ) and 10 - 1 .

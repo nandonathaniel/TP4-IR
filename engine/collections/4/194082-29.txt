@@ -1,0 +1,1 @@
+C O P c o o l i n g = Q c o l d Q h o t − Q c o l d = T c o l d T h o t − T c o l d ( \ displaystyle COP_ ( cooling ) = ( \ frac ( Q_ ( cold ) ) ( Q_ ( hot ) - Q_ ( cold ) ) ) = ( \ frac ( T_ ( cold ) ) ( T_ ( hot ) - T_ ( cold ) ) ) )

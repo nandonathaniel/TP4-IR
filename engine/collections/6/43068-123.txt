@@ -1,0 +1,1 @@
+We look at these numbers as polynomials in x , where x = 2 , to get ,

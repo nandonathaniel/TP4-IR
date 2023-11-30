@@ -1,0 +1,1 @@
+reflections in a plane combined with 90 ° rotation about an axis perpendicular to the plane : 3 axes , 2 per axis , together 6 ; equivalently , they are 90 ° rotations combined with inversion ( x is mapped to − x ) : the rotations correspond to those of the cube about face - to - face axes

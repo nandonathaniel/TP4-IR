@@ -1,0 +1,1 @@
+Improved spell checker ( grammar and homonym checking ) Desktop shortcuts for multiple users ( profiles ) on Windows Asynchronous DNS resolver on Mac and Linux

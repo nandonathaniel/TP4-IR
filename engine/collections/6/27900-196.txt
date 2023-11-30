@@ -1,0 +1,1 @@
+Garbage collection , as this form of automatic memory management introduces memory overhead .

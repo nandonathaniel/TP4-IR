@@ -1,0 +1,1 @@
+Water activity values are obtained by either a resistive electrolytic , a capacitance or a dew point hygrometer .

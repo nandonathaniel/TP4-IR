@@ -1,0 +1,1 @@
+r  ̈ Moon = G m Earth r Moon , Earth − 2 r ^ Moon , Earth ( \ displaystyle \ mathbf ( \ ddot ( r ) ) _ ( \ text ( Moon ) ) = Gm_ ( \ text ( Earth ) ) r_ ( ( \ text ( Moon ) ) , ( \ text ( Earth ) ) ) ^ ( - 2 ) ( \ hat ( \ mathbf ( r ) ) ) _ ( ( \ text ( Moon ) ) , ( \ text ( Earth ) ) ) )

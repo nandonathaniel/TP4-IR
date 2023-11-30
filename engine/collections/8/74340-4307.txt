@@ -1,0 +1,1 @@
+An attacker can collect or modify data in sessions protected by SSL / TLS protocols . This same bug was also reported on iOS 7.0. 4 and iOS 7.0. 5 for the iPhone 5C and 5S . For the iPhone 3GS and the iPod Touch 4th generation , iOS 6.1. 6 was released to fix this issue since iOS 7 is not compatible with these devices ( see iOS 7. x ) .

@@ -1,0 +1,1 @@
+sin ⁡ θ i = n 2 n 1 sin ⁡ θ t ( \ displaystyle \ sin \ theta _ ( i ) = ( \ frac ( n_ ( 2 ) ) ( n_ ( 1 ) ) ) \ sin \ theta _ ( t ) ) .

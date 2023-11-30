@@ -1,0 +1,1 @@
+Chips collected from previous betting rounds ( Starting pot ) Previous action in the current betting round ( Trail ) A call from the player making the raise

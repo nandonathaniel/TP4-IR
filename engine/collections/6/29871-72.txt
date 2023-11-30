@@ -1,0 +1,1 @@
+When the principal axes of a quadric are aligned with the reference frame ( always possible for a quadric ) , a general equation of the quadric in three dimensions is given by

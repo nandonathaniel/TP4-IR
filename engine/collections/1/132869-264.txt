@@ -1,0 +1,1 @@
+Chipset : Intel G31 Express Chipset .

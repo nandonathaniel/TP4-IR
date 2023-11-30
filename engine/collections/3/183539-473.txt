@@ -1,0 +1,1 @@
+The columns R32 , S16 , E8 , F4 , CG , and NC respectively stand for the Round of 32 , Sweet Sixteen , Elite Eight , Final Four , Championship Game , and National Champion .

@@ -1,0 +1,1 @@
+Longer spans for the same structural depth Load - balancing results in lower in - service deflections , which allows spans to be increased ( and the number of supports reduced ) without adding to structural depth .

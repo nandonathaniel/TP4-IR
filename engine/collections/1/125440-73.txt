@@ -1,0 +1,1 @@
+− b 2 a + i − Δ 2 a and − b 2 a − i − Δ 2 a , ( \ displaystyle ( \ frac ( - b ) ( 2a ) ) + i ( \ frac ( \ sqrt ( - \ Delta ) ) ( 2a ) ) \ quad ( \ text ( and ) ) \ quad ( \ frac ( - b ) ( 2a ) ) - i ( \ frac ( \ sqrt ( - \ Delta ) ) ( 2a ) ) , )

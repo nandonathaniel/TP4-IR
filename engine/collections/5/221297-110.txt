@@ -1,0 +1,1 @@
+e = 2 α h μ 0 c 0 = 2 α h ε 0 c 0 . ( \ displaystyle e = ( \ sqrt ( \ frac ( 2 \ alpha h ) ( \ mu _ ( 0 ) c_ ( 0 ) ) ) ) = ( \ sqrt ( 2 \ alpha h \ varepsilon _ ( 0 ) c_ ( 0 ) ) ) . )

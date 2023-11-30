@@ -1,0 +1,1 @@
+Fixed an issue where Firefox hangs or crashes on startup .

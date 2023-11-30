@@ -1,0 +1,1 @@
+Population estimates are rounded to the nearest hundred .

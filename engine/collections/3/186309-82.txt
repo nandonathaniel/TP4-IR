@@ -1,0 +1,1 @@
+deg ⁡ f = lim x → ∞ x f ′ ( x ) f ( x ) ( \ displaystyle \ deg f = \ lim _ ( x \ to \ infty ) ( \ frac ( xf ' ( x ) ) ( f ( x ) ) ) ) ;

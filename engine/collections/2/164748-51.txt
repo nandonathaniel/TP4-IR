@@ -1,0 +1,1 @@
+A very similar calculation shows that the arc length of a curve expressed in cylindrical coordinates is

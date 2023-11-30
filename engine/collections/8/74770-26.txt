@@ -1,0 +1,1 @@
+If there are interruptions which both increase and decrease the target score , then the net effect on the target could be either an increase or decrease , depending on which interruptions were bigger .

@@ -1,0 +1,1 @@
+Another representation of similar formulas , but using normal vectors instead of latitude / longitude to describe the positions , is found by means of 3D vector algebra , i.e. utilizing the dot product , cross product , or a combination :

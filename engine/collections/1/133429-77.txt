@@ -1,0 +1,1 @@
+K = a + b b − a ( s − b ) ( s − a ) ( s − b − c ) ( s − b − d ) , ( \ displaystyle K = ( \ frac ( a + b ) ( b-a ) ) ( \ sqrt ( ( s-b ) ( s-a ) ( s-b-c ) ( s-b-d ) ) ) , )

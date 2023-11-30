@@ -1,0 +1,1 @@
+Works with iCloud Drive and third - party cloud file providers .

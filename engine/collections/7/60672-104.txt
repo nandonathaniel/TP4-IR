@@ -1,0 +1,1 @@
+i ( t ) = I P sin ⁡ ( ω t ) d i ( t ) d t = I P ω cos ⁡ ( ω t ) v ( t ) = L I P ω cos ⁡ ( ω t ) ( \ displaystyle ( \ begin ( aligned ) i ( t ) & = I_ ( \ mathrm ( P ) ) \ sin ( \ omega t ) \ \ ( \ frac ( di ( t ) ) ( dt ) ) & = I_ ( \ mathrm ( P ) ) \ omega \ cos ( \ omega t ) \ \ v ( t ) & = LI_ ( \ mathrm ( P ) ) \ omega \ cos ( \ omega t ) \ end ( aligned ) ) )

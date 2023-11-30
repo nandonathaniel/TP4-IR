@@ -1,0 +1,1 @@
+Redo log files , recording all changes to the database -- used to recover from an instance failure . Often , a database stores these files multiple times for extra security in case of disk failure . Identical redo log files are associated in a `` group '' .

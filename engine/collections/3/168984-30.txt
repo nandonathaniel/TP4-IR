@@ -1,0 +1,1 @@
+Telnet is a client - server protocol , based on a reliable connection - oriented transport . Typically , this protocol is used to establish a connection to Transmission Control Protocol ( TCP ) port number 23 , where a Telnet server application ( telnetd ) is listening . Telnet , however , predates TCP / IP and was originally run over Network Control Program ( NCP ) protocols .

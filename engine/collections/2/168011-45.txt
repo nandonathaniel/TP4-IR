@@ -1,0 +1,1 @@
+y 2 − y 1 x 2 − x 1 = Δ y Δ x , ( \ displaystyle ( y_ ( 2 ) - y_ ( 1 ) \ over x_ ( 2 ) - x_ ( 1 ) ) = ( \ Delta y \ over \ Delta x ) , )

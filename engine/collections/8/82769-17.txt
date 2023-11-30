@@ -1,0 +1,1 @@
+In polymer physics , the radius of gyration is used to describe the dimensions of a polymer chain . The radius of gyration of a particular molecule at a given time is defined as :

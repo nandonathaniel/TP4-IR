@@ -1,0 +1,1 @@
+Macro parameter substitution is strictly by name : at macro processing time , the value of a parameter is textually substituted for its name . The most famous class of bugs resulting was the use of a parameter that itself was an expression and not a simple name when the macro writer expected a name . In the macro :

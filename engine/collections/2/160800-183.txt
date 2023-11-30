@@ -1,0 +1,1 @@
+tan ⁡ A + tan ⁡ B + tan ⁡ C + tan ⁡ D cot ⁡ A + cot ⁡ B + cot ⁡ C + cot ⁡ D = tan ⁡ A tan ⁡ B tan ⁡ C tan ⁡ D . ( \ displaystyle ( \ frac ( \ tan ( A ) + \ tan ( B ) + \ tan ( C ) + \ tan ( D ) ) ( \ cot ( A ) + \ cot ( B ) + \ cot ( C ) + \ cot ( D ) ) ) = \ tan ( A ) \ tan ( B ) \ tan ( C ) \ tan ( D ) . )

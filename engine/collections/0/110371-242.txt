@@ -1,0 +1,1 @@
+Puppet : Visits the ice cream truck and appears with an ice cream cone .

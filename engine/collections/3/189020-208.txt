@@ -1,0 +1,1 @@
+Divisibility properties can be determined in two ways , depending on the type of the divisor .

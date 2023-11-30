@@ -1,0 +1,1 @@
+( ∂ ln ⁡ ( Ω ) ∂ x ) E = β X + ( ∂ X ∂ E ) x ( \ displaystyle \ left ( ( \ frac ( \ partial \ ln \ left ( \ Omega \ right ) ) ( \ partial x ) ) \ right ) _ ( E ) = \ beta X+ \ left ( ( \ frac ( \ partial X ) ( \ partial E ) ) \ right ) _ ( x ) \ , )

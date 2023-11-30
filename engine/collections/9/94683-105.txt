@@ -1,0 +1,1 @@
+A ( 1 + A a cos ( ω a t + p a ) ) cos ( ω t + p ) ( \ displaystyle A ( \ bigl ( ) 1 + A_ ( a ) \ cos \ , ( \ omega _ ( a ) t + p_ ( a ) ) ( \ bigr ) ) \ cos \ , ( \ omega t + p ) )

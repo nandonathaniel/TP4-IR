@@ -1,0 +1,1 @@
+Adds support for a new , redesigned Remote app which mimics the functionality of the Siri Remote .

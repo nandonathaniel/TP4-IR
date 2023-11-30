@@ -1,0 +1,1 @@
+So if the loop gain A β ( \ displaystyle A \ beta \ , ) is greater than one , R i f ( \ displaystyle R_ ( if ) \ , ) will be negative . The circuit acts like a `` negative linear resistor '' over a limited range , with I -- V curve having a straight line segment through the origin with negative slope ( see graphs ) . It has both negative differential resistance and is active

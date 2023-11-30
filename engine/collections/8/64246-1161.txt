@@ -1,0 +1,1 @@
+Save percentage is the percentage of shots on goal that a goaltender stops . It is calculated by dividing the number of saves by the number of shots on goal .

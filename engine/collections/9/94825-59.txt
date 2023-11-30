@@ -1,0 +1,1 @@
+It is convenient , however , to define the degree of the zero polynomial to be negative infinity , − ∞ , ( \ displaystyle - \ infty , ) and introduce the arithmetic rules

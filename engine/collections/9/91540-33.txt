@@ -1,0 +1,1 @@
+5 MHz 10 MHz 20 MHz

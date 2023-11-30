@@ -1,0 +1,1 @@
+⊕ ⊻ ⊕ ( \ displaystyle \ oplus \ ! \ , ) \ oplus \ ! \ , ⊻ ( \ displaystyle \ veebar \ ! \ , ) \ veebar \ ! \ , exclusive or xor propositional logic , Boolean algebra The statement A ⊕ B is true when either A or B , but not both , are true . A ⊻ B means the same . ( ¬ A ) ⊕ A is always true , A ⊕ A is always false .

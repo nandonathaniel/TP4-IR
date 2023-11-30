@@ -1,0 +1,1 @@
+Operating an opto - mechanical mouse Moving the mouse turns the ball . X and Y rollers grip the ball and transfer movement . Optical encoding disks include light holes . Infrared LEDs shine through the disks . Sensors gather light pulses to convert to X and Y vectors .

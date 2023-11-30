@@ -1,0 +1,1 @@
+JDBC - ODBC bridge Native - API driver Network - Protocol driver ( Middleware driver ) Database - Protocol driver ( Pure Java driver ) or thin driver .

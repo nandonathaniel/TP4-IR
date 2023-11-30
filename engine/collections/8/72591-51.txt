@@ -1,0 +1,1 @@
+Shear stress = C × torque

@@ -1,0 +1,1 @@
+Stress Deformation Compatibility Finite strain Infinitesimal strain Elasticity ( linear ) Plasticity Bending Hooke 's law Material failure theory Fracture mechanics

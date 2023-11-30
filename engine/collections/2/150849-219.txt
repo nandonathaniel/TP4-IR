@@ -1,0 +1,1 @@
+Δ E t o t = Δ E k i n + Δ E p o t + Δ U . ( \ displaystyle \ Delta E ^ ( \ mathrm ( tot ) ) = \ Delta E ^ ( \ mathrm ( kin ) ) + \ Delta E ^ ( \ mathrm ( pot ) ) + \ Delta U \ , \ , . )

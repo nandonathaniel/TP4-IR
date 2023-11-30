@@ -1,0 +1,1 @@
+For SSL / TLS with mutual authentication , the SSL / TLS session is managed by the first server that initiates the connection . In situations where encryption has to be propagated along chained servers , session timeOut management becomes extremely tricky to implement .

@@ -1,0 +1,1 @@
+If Y , ... , Y are independent geometrically distributed variables ( with possibly different success parameters p ) , then their minimum

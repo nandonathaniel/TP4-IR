@@ -1,0 +1,1 @@
+Electrostatic potential energy between two bodies in space is obtained from the force exerted by a charge Q on another charge q which is given by

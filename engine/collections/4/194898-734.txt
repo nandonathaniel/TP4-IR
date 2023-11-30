@@ -1,0 +1,1 @@
+Character count ( can be enabled or disabled in Settings > Messages screen ) .

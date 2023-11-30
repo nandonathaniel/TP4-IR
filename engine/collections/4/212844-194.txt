@@ -1,0 +1,1 @@
+( − i γ μ ∂ μ + m ) ψ = 0 ( \ displaystyle ( - i \ gamma ^ ( \ mu ) \ partial _ ( \ mu ) + m ) \ psi = 0 \ , )

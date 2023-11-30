@@ -1,0 +1,1 @@
+Chromium 3.0 was released on 28 May 2009 as version 3.0. 182.2 . Chrome 3.0 followed in September 2009 and introduced a much faster JavaScript engine , a system for user - selectable themes , improvements to the Omnibox and a redesigned new tab display page .

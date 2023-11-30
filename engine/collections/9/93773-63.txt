@@ -1,0 +1,1 @@
+In digital clocks a series of integrated circuit counters or dividers add the pulses up digitally , using binary logic . Often pushbuttons on the case allow the hour and minute counters to be incremented and decremented to set the time .

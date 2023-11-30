@@ -1,0 +1,1 @@
+Parallax is also an issue in image stitching , such as for panoramas .

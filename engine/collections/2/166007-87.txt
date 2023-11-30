@@ -1,0 +1,1 @@
+Null propagator ( null - conditional operator , succinct null checking )

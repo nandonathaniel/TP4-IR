@@ -1,0 +1,1 @@
+The magnetic field of a magnetic dipole is depicted in the figure . From outside , the ideal magnetic dipole is identical to that of an ideal electric dipole of the same strength . Unlike the electric dipole , a magnetic dipole is properly modeled as a current loop having a current I and an area a . Such a current loop has a magnetic moment of :

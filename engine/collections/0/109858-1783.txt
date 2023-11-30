@@ -1,0 +1,1 @@
+Mute / silent toggle button in iPad .

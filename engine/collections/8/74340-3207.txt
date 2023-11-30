@@ -1,0 +1,1 @@
+Improved keyboard responsiveness when using Quick Reply .

@@ -1,0 +1,1 @@
+The civil year starts from the first spring month ( 1 ) , and ends at the last winter month ( 0 / 0i ) . The first and last month is called as Zhēngyuè ( 正月 , capital month ) and Làyuè ( 臘月 ; 腊月 , sacrificial month ) , and the other month is called according to the queue number ( except that the 0th month is Shi'eryue , if the Layue is a leap month ) .

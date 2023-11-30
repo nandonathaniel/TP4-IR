@@ -1,0 +1,1 @@
+IBM introduces the world 's first large - scale calculating computer , the Automatic Sequence Control Calculator ( ASCC ) . Designed in collaboration with Harvard University , the ASCC , also known as the Mark I , uses electromechanical relays to solve addition problems in less than a second , multiplication in six seconds , and division in 12 seconds .

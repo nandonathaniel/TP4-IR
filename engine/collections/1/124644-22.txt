@@ -1,0 +1,1 @@
+where A denotes that A has access to the oracle , S ( sk , ) , and Q denotes the set of the queries on S made by A , which knows the public key , pk , and the security parameter , n . Note that we require any adversary can not directly query the string , x , on S .

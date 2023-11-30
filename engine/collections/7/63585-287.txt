@@ -1,0 +1,1 @@
+3.2. 6 February 2012 Fixed data connectivity issues when coming out of airplane mode on the US 4G Motorola Xoom

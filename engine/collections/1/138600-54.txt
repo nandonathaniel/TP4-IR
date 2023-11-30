@@ -1,0 +1,1 @@
+Among those Hausdorff compactifications , there is a unique `` most general '' one , the Stone -- Čech compactification βX . It is characterised by the universal property that , given a continuous map f from X to any other compact Hausdorff space Y , there is a unique continuous map g from βX to Y that extends f in the sense that f is the composition of g and j .

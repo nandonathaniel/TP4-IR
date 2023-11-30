@@ -1,0 +1,1 @@
+Driven by an AC supply , a capacitor accumulates only a limited charge before the potential difference changes sign and the charge dissipates . The higher the frequency , the less charge accumulates and the smaller the opposition to the current .

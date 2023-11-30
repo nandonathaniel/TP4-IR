@@ -1,0 +1,1 @@
+Microsoft also offers developer extensions for download to help distribute Access 2007 applications , create database templates , and integrate source code control with Microsoft Visual SourceSafe .

@@ -1,0 +1,1 @@
+random error insufficient training examples of this class ( an isolated example appears instead of a cluster ) missing important features ( the classes are separated in other dimensions which we do not know ) too many training examples of other classes ( unbalanced classes ) that create a `` hostile '' background for the given small class

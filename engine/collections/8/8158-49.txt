@@ -1,0 +1,1 @@
+Below is description of all possible number systems with corresponding 12 - digit UPC - A numbering schema LLLLLLRRRRRR , where L denotes number system digit and R check digit .

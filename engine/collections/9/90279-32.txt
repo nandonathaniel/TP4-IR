@@ -1,0 +1,1 @@
+In many cases , E = ( \ displaystyle E = ) R ( \ displaystyle \ mathbb ( R ) ) . In some contexts , the term random element ( see Extensions ) is used to denote a random variable not of this form .

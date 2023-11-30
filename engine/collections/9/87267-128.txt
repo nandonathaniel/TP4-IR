@@ -1,0 +1,1 @@
+0 = h ′ ( c ) = f ′ ( c ) − r g ′ ( c ) = f ′ ( c ) − ( f ( b ) − f ( a ) g ( b ) − g ( a ) ) g ′ ( c ) . ( \ displaystyle 0 = h ' ( c ) = f ' ( c ) - rg ' ( c ) = f ' ( c ) - \ left ( ( \ frac ( f ( b ) - f ( a ) ) ( g ( b ) - g ( a ) ) ) \ right ) g ' ( c ) . )

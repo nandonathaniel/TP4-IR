@@ -1,0 +1,1 @@
+z c y = z s x = z c x − s c x ( \ displaystyle \ zcy = zsx = zcx - scx )

@@ -1,0 +1,1 @@
+L3 - Cache : 2 MB ( shared )

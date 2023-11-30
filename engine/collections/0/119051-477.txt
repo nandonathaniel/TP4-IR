@@ -1,0 +1,1 @@
+ε A ε B ≥ 1 2 ⟨ ( A ^ , B ^ ) ⟩ ( \ displaystyle \ varepsilon _ ( A ) \ , \ varepsilon _ ( B ) \ , \ geq \ , ( \ frac ( 1 ) ( 2 ) ) \ , \ left \ langle ( ( \ hat ( A ) ) , ( \ hat ( B ) ) ) \ rangle \ right )

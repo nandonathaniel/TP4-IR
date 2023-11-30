@@ -1,0 +1,1 @@
+Bold font option now includes the keyboard , calculator , and many icon glyphs . Reduce Motion option now includes Weather , Messages , and multitasking UI animations . New options to display button shapes , darken app colors , and reduce white point .

@@ -1,0 +1,1 @@
+Amount Unit price of the merchandise ( if stated ) Expiry date Presentation period Latest shipment date or given period for shipment .

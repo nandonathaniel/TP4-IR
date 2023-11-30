@@ -1,0 +1,1 @@
+7 gates ( C3 , C9 , C11 , C15 , C17 -- C18 , C20 ) 14 parking slips ( Q1 - Q8 , Q10 , Q12 - Q16 ) served via 20 podiums in the terminal ( C2A -- C2H , C10A -- C10F , C16A -- C16F )

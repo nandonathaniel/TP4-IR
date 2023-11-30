@@ -1,0 +1,1 @@
+Pld = total games played W = total games won D = total games drawn ( tied ) L = total games lost GF = total goals scored ( goals for ) GA = total goals conceded ( goals against ) GD = goal difference ( GF − GA ) Pts = total points accumulated

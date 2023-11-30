@@ -1,0 +1,1 @@
+The magnetic moments of objects are typically measured with devices called magnetometers . Not all magnetometers measure magnetic moment though . Some are configured to measure magnetic field instead . If the magnetic field surrounding an object is known well enough , though , then the magnetic moment can be calculated from that magnetic field .

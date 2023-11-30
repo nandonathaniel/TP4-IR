@@ -1,0 +1,1 @@
+The ER is involved in cotranslational sorting of proteins . A polypeptide which contains an ER signal sequence is recognised by a signal recognition protein which halts the production of the protein . The SRP transports the polypeptide to the ER membrane where its released in through a membrane pore and translation resumes .

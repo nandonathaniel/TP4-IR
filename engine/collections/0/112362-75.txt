@@ -1,0 +1,1 @@
+Permutation matrices are simpler still ; they form , not a Lie group , but only a finite group , the order n ! symmetric group S. By the same kind of argument , S is a subgroup of S . The even permutations produce the subgroup of permutation matrices of determinant + 1 , the order n ! / 2 alternating group .

@@ -1,0 +1,1 @@
+Laser Lemon 60 60 100 255 255 102 # FFFF66 Same color as `` Chartreuse '' ( 1972 -- 1990 ) .

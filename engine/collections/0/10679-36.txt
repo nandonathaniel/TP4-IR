@@ -1,0 +1,1 @@
+More specialized reporting is available for load test results . This data is available directly within Visual Studio and can be exported to Excel for detailed analysis .

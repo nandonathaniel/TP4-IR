@@ -1,0 +1,1 @@
+Messages effects can play with Reduce Motion enabled .

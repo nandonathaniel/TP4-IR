@@ -1,0 +1,1 @@
+The clipboard is called `` pasteboard '' in iOS similar to OS X . Apps on this operating system can create additional pasteboards , called instances of the UIPasteboard class , which can be public or private . One instance can hold a single item or multiple items in different formats .

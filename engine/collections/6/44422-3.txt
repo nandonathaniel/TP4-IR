@@ -1,0 +1,1 @@
+Everyday pressure measurements , such as for vehicle tire pressure , are usually made relative to ambient air pressure . In other cases measurements are made relative to a vacuum or to some other specific reference . When distinguishing between these zero references , the following terms are used :

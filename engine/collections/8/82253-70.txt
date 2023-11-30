@@ -1,0 +1,1 @@
+The young generation stores short - lived objects that are created and immediately garbage collected .

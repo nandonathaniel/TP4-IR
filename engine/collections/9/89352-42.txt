@@ -1,0 +1,1 @@
+The electronic data capture ( EDC ) is an online database where the information collected on the Case Report forms ( CRF ) , or source documents is entered . These are usually created by the study sponsor or their subcontractors .

@@ -1,0 +1,1 @@
+or two sequence of digits separated by a decimal mark such as 3.14159 , 15.00 , or in full generality

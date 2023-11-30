@@ -1,0 +1,1 @@
+Users can retrieve their messages from servers using standard protocols such as POP or IMAP , or , as is more likely in a large corporate environment , with a proprietary protocol specific to Novell Groupwise , Lotus Notes or Microsoft Exchange Servers . Programs used by users for retrieving , reading , and managing email are called mail user agents ( MUAs ) .

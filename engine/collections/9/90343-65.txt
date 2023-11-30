@@ -1,0 +1,1 @@
+When developing reports ( in `` Design View '' ) additions or changes to controls cause any linked queries to execute in the background and the designer is forced to wait for records to be returned before being able to make another change . This feature can not be turned off .

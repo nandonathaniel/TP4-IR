@@ -1,0 +1,1 @@
+DNS prefetching , where Safari finds links and looks up addresses on the web page ahead of time .

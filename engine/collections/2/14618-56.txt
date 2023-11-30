@@ -1,0 +1,1 @@
+Time zone ( UTC + 2 to + 12 )

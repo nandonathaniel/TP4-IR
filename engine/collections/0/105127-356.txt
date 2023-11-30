@@ -1,0 +1,1 @@
+If the document is read by an XML parser that does not or can not read external entities , then only the five built - in XML character entities ( see above ) can safely be used , although other entities may be used if they are declared in the internal DTD subset .

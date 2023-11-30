@@ -1,0 +1,1 @@
+Here taking the square root introduces further downward bias , by Jensen 's inequality , due to the square root being a concave function . The bias in the variance is easily corrected , but the bias from the square root is more difficult to correct , and depends on the distribution in question .

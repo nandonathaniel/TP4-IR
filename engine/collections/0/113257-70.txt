@@ -1,0 +1,1 @@
+The general capabilities of the DSN have not substantially changed since the beginning of the Voyager Interstellar Mission in the early 1990s . However , many advancements in digital signal processing , arraying and error correction have been adopted by the DSN .

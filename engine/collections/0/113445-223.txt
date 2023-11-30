@@ -1,0 +1,1 @@
+is also normally distributed with mean μ and deviation σ . It follows that the normal distribution is stable ( with exponent α = 2 ) .

@@ -1,0 +1,1 @@
+Fluorescence is detected and measured in a real - time PCR machine , and its geometric increase corresponding to exponential increase of the product is used to determine the quantification cycle ( C ) in each reaction .

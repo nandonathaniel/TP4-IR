@@ -1,0 +1,1 @@
+Media Services : Integrates a media delivery platform with IIS to manage and administer delivery of rich media and other Web content .

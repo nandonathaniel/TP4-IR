@@ -1,0 +1,1 @@
+Anti-virus programs are not always effective against new viruses , even those that use non-signature - based methods that should detect new viruses . The reason for this is that the virus designers test their new viruses on the major anti-virus applications to make sure that they are not detected before releasing them into the wild .

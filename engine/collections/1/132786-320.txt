@@ -1,0 +1,1 @@
+Most restrictive standard -- accepts only so - called perfect ballots that machines somehow missed and did not count , or ballots with unambiguous expressions of voter intent .

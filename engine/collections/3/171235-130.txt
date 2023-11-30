@@ -1,0 +1,1 @@
+The higher moments m of the Poisson distribution about the origin are Touchard polynomials in λ :

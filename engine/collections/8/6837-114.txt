@@ -1,0 +1,1 @@
+The sine of an angle is the ratio of the length of the opposite side to the length of the hypotenuse . In our case

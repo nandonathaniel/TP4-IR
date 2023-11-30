@@ -1,0 +1,1 @@
+Linear optical quantum computer ( qubits realized by processing states of different modes of light through linear elements e.g. mirrors , beam splitters and phase shifters )

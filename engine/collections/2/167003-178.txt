@@ -1,0 +1,1 @@
+System path variables refer to locations of critical operating system resources , and as such generally are not user - dependent .

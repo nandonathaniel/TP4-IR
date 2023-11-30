@@ -1,0 +1,1 @@
+IPv6 is not foreseen to supplant IPv4 instantaneously . Both protocols will continue to operate simultaneously for some time . Therefore , some IPv6 transition mechanisms are needed to enable IPv6 hosts to reach IPv4 services and to allow isolated IPv6 hosts and networks to reach each other over IPv4 infrastructure .

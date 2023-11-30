@@ -1,0 +1,1 @@
+The PHP Group consists of ten people ( as of 2015 ) : Thies C. Arntzen , Stig Bakken , Shane Caraveo , Andi Gutmans , Rasmus Lerdorf , Sam Ruby , Sascha Schumann , Zeev Suraski , Jim Winstead , Andrei Zmievski .

@@ -1,0 +1,1 @@
+IP header and first 8 bytes of original datagram 's data

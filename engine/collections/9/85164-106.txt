@@ -1,0 +1,1 @@
+F = F 0 sin ⁡ ( 2 π f t ) . ( \ displaystyle F = F_ ( 0 ) \ sin ( ( 2 \ pi ft ) ). \ ! )

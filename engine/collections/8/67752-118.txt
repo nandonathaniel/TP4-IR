@@ -1,0 +1,1 @@
+p = k T ∂ ln ⁡ Z ∂ V ( \ displaystyle p = kT ( \ frac ( \ partial \ ln Z ) ( \ partial V ) ) ) ,

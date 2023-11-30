@@ -1,0 +1,1 @@
+In computing , paravirtualization is a virtualization technique that presents to virtual machines a software interface , which is similar yet not identical to the underlying hardware - software interface .

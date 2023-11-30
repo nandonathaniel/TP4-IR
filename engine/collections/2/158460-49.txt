@@ -1,0 +1,1 @@
+Pr ( X n + 1 = x ∣ X n = y ) = Pr ( X n = x ∣ X n − 1 = y ) ( \ displaystyle \ Pr ( X_ ( n + 1 ) = x \ mid X_ ( n ) = y ) = \ Pr ( X_ ( n ) = x \ mid X_ ( n - 1 ) = y ) )

@@ -1,0 +1,1 @@
+f ( g ( x ) ) − f ( g ( a ) ) = q ( g ( x ) ) r ( x ) ( x − a ) , ( \ displaystyle f ( g ( x ) ) - f ( g ( a ) ) = q ( g ( x ) ) r ( x ) ( x-a ) , )

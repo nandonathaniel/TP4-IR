@@ -1,0 +1,1 @@
+Equidistant conic , which keeps parallels evenly spaced along the meridians to preserve a constant distance scale along each meridian , typically the same or similar scale as along the standard parallels .

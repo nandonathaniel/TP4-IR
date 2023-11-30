@@ -1,0 +1,1 @@
+Type of format lossless bitmap image format

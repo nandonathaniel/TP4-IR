@@ -1,0 +1,1 @@
+The Cauchy distribution is a singular limit of a hyperbolic distribution

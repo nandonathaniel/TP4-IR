@@ -1,0 +1,1 @@
+Fixes an issue where hands - free phone calls could become disconnected

@@ -1,0 +1,1 @@
+The prefix and the Federal Reserve Routing Symbol ( XXXX ) are determined by the bank 's geographical location and treatment by the Federal Reserve type , while the remaining data ( YYYY , and Branch number , if present ) depends on the specific bank , and are unique within a Federal Reserve district .

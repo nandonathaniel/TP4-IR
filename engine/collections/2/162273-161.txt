@@ -1,0 +1,1 @@
+The data were transmitted by a radio link between Huygens and Cassini provided by Probe Data Relay Subsystem ( PDRS ) . As the probe 's mission could not be telecommanded from Earth because of the great distance , it was automatically managed by the Command Data Management Subsystem ( CDMS ) . The PDRS and CDMS were provided by the Italian Space Agency ( ASI ) .

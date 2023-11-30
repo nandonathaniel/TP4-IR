@@ -1,0 +1,1 @@
+33.0. 1 Firefox 33.0. 1 October 24 , 2014 Desktop Off - cycle stability update . Fixed : Firefox displays a black screen at startup with certain graphics drivers .

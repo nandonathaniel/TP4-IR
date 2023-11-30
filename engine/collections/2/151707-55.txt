@@ -1,0 +1,1 @@
+Bowley 's measure of skewness ( from 1901 ) , also called Yule 's coefficient ( from 1912 ) is defined as :

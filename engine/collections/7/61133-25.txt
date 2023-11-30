@@ -1,0 +1,1 @@
+When processes communicate with each other it is called `` Inter-process communication '' ( IPC ) . Processes frequently need to communicate , for instance in a shell pipeline , the output of the first process need to pass to the second one , and so on to the other process . It is preferred in a well - structured way not using interrupts .

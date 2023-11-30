@@ -1,0 +1,1 @@
+air temperature air density air mass lift generated 68 ° F , 20 ° C 1.2041 kg / m3 7517 lb , 3409.7 kg 0 lb , 0 kg 210 ° F , 99 ° C 0.9486 kg / m3 5922 lb , 2686.2 kg 1595 lb , 723.5 kg 250 ° F , 120 ° C 0.8978 kg / m3 5606 lb , 2542.4 kg 1912 lb , 867.3 kg

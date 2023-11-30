@@ -1,0 +1,1 @@
+AVRCP : Play / Pause / Stop for iPod app ( no Next / Back yet ) . Device side audio control still enabled but does not affect audio stream .

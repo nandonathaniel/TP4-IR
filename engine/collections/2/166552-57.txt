@@ -1,0 +1,1 @@
+long The long keyword is used to declare a variable that can hold a 64 - bit signed two 's complement integer . This keyword is also used to declare that a method returns a value of the primitive type long .

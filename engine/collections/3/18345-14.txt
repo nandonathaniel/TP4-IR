@@ -1,0 +1,1 @@
+Note : Exchange rates were taken on 8 January 2005 , when € 1 = US $1.30585 ; GBP 1 = US $1.87110 ; CAD 1 = US $0.811853 ; AUD 1 = US $0.757346 ; HKD 1 = US $0.1282 ; 1 INR = US $0.0228102 ; 1 CNY = 0.120831 ; 1 NOK = US $0.158526 ; 1 DKK = 0.175711 ; 1 SEK = US $0.144363 ; and 1 CHF = US $0.844131 .

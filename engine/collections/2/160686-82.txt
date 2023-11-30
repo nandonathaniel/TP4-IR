@@ -1,0 +1,1 @@
+∇ ⋅ E = ρ ε 0 , ∇ × B − 1 c 2 ∂ E ∂ t = μ 0 J ( \ displaystyle \ nabla \ cdot \ mathbf ( E ) = ( \ frac ( \ rho ) ( \ epsilon _ ( 0 ) ) ) , \ quad \ nabla \ times \ mathbf ( B ) - ( \ frac ( 1 ) ( c ^ ( 2 ) ) ) ( \ frac ( \ partial \ mathbf ( E ) ) ( \ partial t ) ) = \ mu _ ( 0 ) \ mathbf ( J ) )

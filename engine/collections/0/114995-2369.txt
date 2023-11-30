@@ -1,0 +1,1 @@
+Made the Adobe Flash plugin click - to - activate by default and allowed only on http : / / and https : / / URL schemes . ( This change will not be visible to all users immediately . )

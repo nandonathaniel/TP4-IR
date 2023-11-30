@@ -1,0 +1,1 @@
+In this network we have 4 routers A , B , C and D:

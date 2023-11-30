@@ -1,0 +1,1 @@
+Shot noise SNR Read noise SNR Dynamic range Fixed exposure Inversely proportional to crop factor No change No change DOF constrained No change Proportional to square of crop factor Proportional to square of crop factor

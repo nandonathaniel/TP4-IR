@@ -1,0 +1,1 @@
+Weapon Effective Range ( in yards ) Theoretical Rate of Fire ( in rounds / minutes )

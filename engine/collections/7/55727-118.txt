@@ -1,0 +1,1 @@
+Device parameters : ROM options : 2 -- 32 KB RAM options : 512 B -- 1 KB GPIO options : 14 , 40 pins ADC options : Slope , 14 - bit SAR Other integrated peripherals : LCD controller , multiplier

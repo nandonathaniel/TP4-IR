@@ -1,0 +1,1 @@
+Note that the values given in the table correspond to CIE 1931 color space . Approximate RGB values for use may be taken to be : India saffron # FF9933 , white # FFFFFF , India green # 138808 , navy blue # 000080 . Pantone values closest to this are 130 U , White , 2258 C and 2735 C .

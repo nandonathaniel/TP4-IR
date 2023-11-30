@@ -1,0 +1,1 @@
+Google search accepts queries as normal text , as well as individual keywords . It automatically corrects misspelled words , and yields the same results regardless of capitalization . For more customized results , one can use a wide variety of operators , including , but not limited to :

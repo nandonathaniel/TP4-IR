@@ -1,0 +1,1 @@
+V 0 = V max ( S ) K m app + ( S ) ( \ displaystyle V_ ( 0 ) = ( \ frac ( V_ ( \ max ) \ , ( S ) ) ( K_ ( m ) ^ ( \ text ( app ) ) + ( S ) ) ) )

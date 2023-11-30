@@ -1,0 +1,1 @@
+sin ⁡ x + 1 ≠ Ω − ( 1 ) ( x → ∞ ) . ( \ displaystyle \ sin x + 1 \ not = \ Omega _ ( - ) ( 1 ) \ ( x \ rightarrow \ infty ) . )

@@ -1,0 +1,1 @@
+indicates the adjusted totals based on current ticket prices ( calculated by Box Office Mojo ) .

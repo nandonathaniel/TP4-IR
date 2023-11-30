@@ -1,0 +1,1 @@
+Function pointers are invoked by name just like normal function calls . Function pointers are separate from pointers and void pointers .

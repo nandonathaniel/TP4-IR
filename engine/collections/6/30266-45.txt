@@ -1,0 +1,1 @@
+The following examples show how to use the run - time loading and linking facilities using language - specific Windows API bindings .

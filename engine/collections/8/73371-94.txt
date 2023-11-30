@@ -1,0 +1,1 @@
+Another property of a square number is that ( except 0 ) it has an odd number of positive divisors , while other natural numbers have an even number of positive divisors . An integer root is the only divisor that pairs up with itself to yield the square number , while other divisors come in pairs .

@@ -1,0 +1,1 @@
+Robocopy versions on systems older than Windows Vista do not mirror properly . They ignore changed security attributes of previously mirrored files .

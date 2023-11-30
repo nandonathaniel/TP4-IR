@@ -1,0 +1,1 @@
+x ( t ) = a ⋅ b t / τ = 1 ⋅ 2 ( 60 min ) / ( 10 min ) ( \ displaystyle x ( t ) = a \ cdot b ^ ( t / \ tau ) = 1 \ cdot 2 ^ ( ( 60 ( \ text ( min ) ) ) / ( 10 ( \ text ( min ) ) ) ) )

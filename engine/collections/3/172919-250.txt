@@ -1,0 +1,1 @@
+f l ( x ) − x x ≤ E mach . ( \ displaystyle \ left ( \ frac ( fl ( x ) - x ) ( x ) ) \ right \ leq \ mathrm ( E ) _ ( \ text ( mach ) ) . )

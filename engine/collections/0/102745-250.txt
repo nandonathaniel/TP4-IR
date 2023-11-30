@@ -1,0 +1,1 @@
+Ratio of the number of teeth to the standard pitch diameter in inches .

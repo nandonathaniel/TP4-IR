@@ -1,0 +1,1 @@
+Enhanced Emulation Module ( EEM ) The EEM provides different levels of debug features such as 2 - 8 hardware breakpoints , complex breakpoints , break when read / write occurs at specified address , and more . Embedded into all flash - based MSP430 devices .

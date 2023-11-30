@@ -1,0 +1,1 @@
+Note that there are no approximations involved in these equations , except that each stability constant is defined as a quotient of concentrations , not activities . Much more complicated expressions are required if activities are to be used .

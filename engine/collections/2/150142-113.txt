@@ -1,0 +1,1 @@
+If segments of lengths p and q emanating from vertex C trisect the hypotenuse into segments of length c / 3 , then

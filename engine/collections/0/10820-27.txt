@@ -1,0 +1,1 @@
+A hacker purchases or builds a Trojan and / or exploit kit and uses it to start infecting users ' computers , whose payload is a malicious application -- the bot .

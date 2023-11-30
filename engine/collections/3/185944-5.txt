@@ -1,0 +1,1 @@
+∑ n = 0 ∞ 1 2 n = lim x → ∞ 2 x − 1 2 x − 1 = 2 , ( \ displaystyle \ sum _ ( n = 0 ) ^ ( \ infty ) ( \ frac ( 1 ) ( 2 ^ ( n ) ) ) = \ lim _ ( x \ to \ infty ) ( \ frac ( 2 ^ ( x ) - 1 ) ( 2 ^ ( x-1 ) ) ) = 2 , )

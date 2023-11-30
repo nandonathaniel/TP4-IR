@@ -1,0 +1,1 @@
+When interpreting service blueprints , there are two basic considerations , complexity and divergence . Complexity refers to the number and intricacy of the steps required to perform the service . Divergence refers to the degree of latitude , freedom , judgment , discretion , variability or situational adaptation permitted within any step of the process .

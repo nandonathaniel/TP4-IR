@@ -1,0 +1,1 @@
+On a molecular level , there is no strict boundary between the liquid state and the vapor state . Instead , there is a Knudsen layer , where the phase is undetermined . Because this layer is only a few molecules thick , at a macroscopic scale a clear phase transition interface can not be seen .

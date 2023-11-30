@@ -1,0 +1,1 @@
+Gear teeth are designed so that the number of teeth on a gear is proportional to the radius of its pitch circle , and so that the pitch circles of meshing gears roll on each other without slipping . The speed ratio for a pair of meshing gears can be computed from ratio of the radii of the pitch circles and the ratio of the number of teeth on each gear , its gear ratio .

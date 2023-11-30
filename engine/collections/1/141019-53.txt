@@ -1,0 +1,1 @@
+A shared secret , such as a passphrase , in the content of the message .

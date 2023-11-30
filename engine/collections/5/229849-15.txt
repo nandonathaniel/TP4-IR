@@ -1,0 +1,1 @@
+A triangle 's centroid is the point that maximizes the product of the directed distances of a point from the triangle 's sidelines .

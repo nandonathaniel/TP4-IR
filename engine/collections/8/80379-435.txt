@@ -1,0 +1,1 @@
+Spyro : A Hero 's Tail Yes Yes No Yes Yes May freeze in the middle of gameplay . When attempting to save a game from the pause menu , the screen goes black . The same applies for the credits , model viewer display ( e.g. total of models included ) , concept art gallery and mini game select menu found on the extras at the title screen .

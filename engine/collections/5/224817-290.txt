@@ -1,0 +1,1 @@
+y ′ ( t ) = f ( t , y ( t ) ) , y ( t 0 ) = y 0 , ( \ displaystyle y ' ( t ) = f ( t , y ( t ) ) , \ \ y ( t_ ( 0 ) ) = y_ ( 0 ) , )

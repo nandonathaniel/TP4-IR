@@ -1,0 +1,1 @@
+Chile + 56 9 8 All carriers : Movistar , Claro , Entel , Wom , Virgin Mobile , etc . Example + 56 9 1234 5678 dialed from Chilean or foreign mobile phones , with or without blank spaces .

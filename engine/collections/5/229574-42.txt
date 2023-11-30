@@ -1,0 +1,1 @@
+The specific IP address to be assigned to the user The address pool from which the user 's IP should be chosen The maximum length of time that the user may remain connected An access list , priority queue or other restrictions on a user 's access L2TP parameters VLAN parameters Quality of Service ( QoS ) parameters

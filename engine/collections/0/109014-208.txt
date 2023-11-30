@@ -1,0 +1,1 @@
+OpenSolaris 2008.05 , 2008.11 and 2009.06 use ZFS as their default filesystem . There are over a dozen 3rd - party distributions , of which nearly a dozen are mentioned here . ( OpenIndiana and illumos are two new distributions not included on the OpenSolaris distribution reference page . )

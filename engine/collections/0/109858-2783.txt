@@ -1,0 +1,1 @@
+Fixes an issue that caused the status bar to sometimes appear when it should n't

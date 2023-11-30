@@ -1,0 +1,1 @@
+Fixes an issue where the braille table could switch unexpectedly with VoiceOver .

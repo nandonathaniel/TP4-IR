@@ -1,0 +1,1 @@
+Macromedia Flash Communication Server MX , also released in 2002 , allowed video to be streamed to Flash Player 6 ( otherwise the video could be embedded into the Flash movie ) .

@@ -1,0 +1,1 @@
+The electromotive force produced by primary ( single - use ) and secondary ( rechargeable ) cells is usually of the order of a few volts . The figures quoted below are nominal , because emf varies according to the size of the load and the state of exhaustion of the cell .

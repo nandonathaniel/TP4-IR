@@ -1,0 +1,1 @@
+Scale invariance : c ( x ) = c ( αx ) where α is a real number .

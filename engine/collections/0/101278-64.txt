@@ -1,0 +1,1 @@
+μ = ∑ i = 1 n x i p i , ( \ displaystyle \ mu = \ sum _ ( i = 1 ) ^ ( n ) x_ ( i ) p_ ( i ) , )

@@ -1,0 +1,1 @@
+8.3 7.2 12F69 April 8 , 2015 ; 2 years ago ( 2015 - 04 - 08 ) As of May 2015 , the YouTube app only works on Apple TVs that have software 7.2 or later due to an API change implemented by Google . Stability and performance Includes general performance and stability improvements . Bug fixes

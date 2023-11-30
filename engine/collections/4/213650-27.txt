@@ -1,0 +1,1 @@
+CS3 included interface updates to the Control Bar , the ability to align individual points , multiple Crop Areas , the Color Guide panel and the Live Color feature among others . CS3 was released March 27 , 2007 .

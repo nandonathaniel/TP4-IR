@@ -1,0 +1,1 @@
+m k = ∑ i = 0 k λ i ( k i ) , ( \ displaystyle m_ ( k ) = \ sum _ ( i = 0 ) ^ ( k ) \ lambda ^ ( i ) \ left \ ( ( \ begin ( matrix ) k \ \ i \ end ( matrix ) ) \ right \ ) , )

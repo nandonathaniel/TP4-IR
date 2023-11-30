@@ -1,0 +1,1 @@
+The root causes identified will depend on the way in which the problem or event is defined . Effective problem statements and event descriptions ( as failures , for example ) are helpful and usually required to ensure the execution of appropriate analyses .

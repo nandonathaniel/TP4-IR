@@ -1,0 +1,1 @@
+Drift ; the leg drifts to an intermediate position prior to the end of the full 5 seconds , but at no point touches the bed for support

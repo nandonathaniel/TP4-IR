@@ -1,0 +1,1 @@
+Continuous power dissipation -- Brakes typically get hot in use , and fail when the temperature gets too high . The greatest amount of power ( energy per unit time ) that can be dissipated through the brake without failure is the continuous power dissipation . Continuous power dissipation often depends on e.g. , the temperature and speed of ambient cooling air .

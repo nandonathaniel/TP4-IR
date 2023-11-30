@@ -1,0 +1,1 @@
+a `` Hardware Profiles '' subkey enumerating the various profiles that have been tuned ( each one with `` System '' or `` Software '' settings used to modify the default profile , either in system drivers and services or in the applications ) as well as the `` Hardware Profiles \ Current '' subkey which is dynamically linked to one of these profiles .

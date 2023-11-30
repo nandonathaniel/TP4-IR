@@ -1,0 +1,1 @@
+v ( t ) = Re ⁡ V ( t ) = A e σ t cos ⁡ ( ω t + φ ) . ( \ displaystyle v ( t ) = \ operatorname ( Re ) ( V ( t ) ) = Ae ^ ( \ sigma t ) \ cos ( \ omega t+ \ phi ) \ , . )

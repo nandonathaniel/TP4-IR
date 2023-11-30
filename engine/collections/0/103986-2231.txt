@@ -1,0 +1,1 @@
+If an installing app is paused , it now shows a pause icon .

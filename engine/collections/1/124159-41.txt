@@ -1,0 +1,1 @@
+∂ r ^ ∂ φ = − sin ⁡ θ sin ⁡ φ x ^ + sin ⁡ θ cos ⁡ φ y ^ = sin ⁡ θ φ ^ ( \ displaystyle ( \ frac ( \ partial \ mathbf ( \ hat ( r ) ) ) ( \ partial \ varphi ) ) = - \ sin \ theta \ sin \ varphi \ mathbf ( \ hat ( x ) ) + \ sin \ theta \ cos \ varphi \ mathbf ( \ hat ( y ) ) = \ sin \ theta ( \ boldsymbol ( \ hat ( \ varphi ) ) ) )

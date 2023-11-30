@@ -1,0 +1,1 @@
+Var ⁡ ( ∑ i = 1 N X i ) = ∑ i = 1 N Var ⁡ ( X i ) . ( \ displaystyle \ operatorname ( Var ) \ left ( \ sum _ ( i = 1 ) ^ ( N ) X_ ( i ) \ right ) = \ sum _ ( i = 1 ) ^ ( N ) \ operatorname ( Var ) ( X_ ( i ) ) . )

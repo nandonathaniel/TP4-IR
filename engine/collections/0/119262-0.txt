@@ -1,0 +1,1 @@
+An SQL UPDATE statement changes the data of one or more records in a table . Either all the rows can be updated , or a subset may be chosen using a condition .

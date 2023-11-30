@@ -1,0 +1,1 @@
+Improvements to text rendering to support text based graphics .

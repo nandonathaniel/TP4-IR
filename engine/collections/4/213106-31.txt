@@ -1,0 +1,1 @@
+It is relatively easy to calculate the term symbol for the ground state of an atom using Hund 's rules . It corresponds with a state with maximum S and L .

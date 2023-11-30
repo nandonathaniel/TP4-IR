@@ -1,0 +1,1 @@
+where ( J , ν ) ( \ displaystyle ( \ mathbf ( J ) , \ nu ) ) is the inner product and o ( ⋯ ) ( \ displaystyle o ( \ cdots ) ) is the little - o notation . If we use the notation of vector area Δ S = ν Δ S ( \ displaystyle \ Delta \ mathbf ( S ) = \ nu \ , \ Delta S ) then

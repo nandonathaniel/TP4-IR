@@ -1,0 +1,1 @@
+Since the inception of the agile movement , the user story technique from Extreme Programming has been so popular that many think it is the only and best solution for agile requirements of all projects . Alistair Cockburn lists five reasons why he still writes use cases in agile development .

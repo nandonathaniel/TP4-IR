@@ -1,0 +1,1 @@
+Java features standard application programming interface ( API ) support for reflection and dynamic loading of arbitrary new code .

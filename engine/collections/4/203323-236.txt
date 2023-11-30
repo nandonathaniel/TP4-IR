@@ -1,0 +1,1 @@
+C i j k l = K δ i j δ k l + μ ( δ i k δ j l + δ i l δ j k − 2 3 δ i j δ k l ) ( \ displaystyle C_ ( ijkl ) = K \ , \ delta _ ( ij ) \ , \ delta _ ( kl ) + \ mu \ , ( \ delta _ ( ik ) \ delta _ ( jl ) + \ delta _ ( il ) \ delta _ ( jk ) - ( \ frac ( 2 ) ( 3 ) ) \ , \ delta _ ( ij ) \ , \ delta _ ( kl ) ) \ , \ ! )

@@ -1,0 +1,1 @@
+is represented by the point H , namely the orthocenter of triangle ABC . From this , the following characterizations of the orthocenter H by means of free vectors can be established straightforwardly :

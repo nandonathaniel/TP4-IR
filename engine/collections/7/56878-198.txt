@@ -1,0 +1,1 @@
+If Y X ~ Poisson ( X ) where X ~ Exp ( λ ) then Y ∼ G e o m e t r i c ( 1 1 + λ ) ( \ displaystyle Y \ sim \ mathrm ( Geometric ) ( ( \ tfrac ( 1 ) ( 1 + \ lambda ) ) ) ) ( geometric distribution )

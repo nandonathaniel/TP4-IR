@@ -1,0 +1,1 @@
+It eliminates the significance of the highest group number and , as a result , the High Group List is frozen in time and can be used for validation of only those SSNs issued prior to the randomization implementation date ( see section `` Valid SSNs '' ) .

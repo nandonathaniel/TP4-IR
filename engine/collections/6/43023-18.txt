@@ -1,0 +1,1 @@
+Functional addresses identify one or more Token Ring NICs that provide a particular service , defined in IEEE 802.5 .

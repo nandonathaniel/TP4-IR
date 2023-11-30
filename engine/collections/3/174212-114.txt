@@ -1,0 +1,1 @@
+Country Gold Silver Bronze Total United States 11 7 9 27 Iceland 8 7 19 Poland 5 0 8 United Kingdom 5 8 15 Lithuania 7 0 11 Finland 5 11 Sweden 8 Netherlands 7 Norway Ukraine 0 Denmark 0 0 Canada 0 South Africa 0 Austria 0 0 Latvia 0 0 Russia 0 0

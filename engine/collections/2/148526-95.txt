@@ -1,0 +1,1 @@
+r 1 = − b + b 2 − 4 a c 2 a ( \ displaystyle r_ ( 1 ) = ( \ frac ( - b+ ( \ sqrt ( b ^ ( 2 ) - 4ac ) ) ) ( 2a ) ) )

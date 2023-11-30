@@ -1,0 +1,1 @@
+Continuous shooting 10 fps with buffer up to 1.090 JPEG frames or 31 RAW frames when using a UDMA - 7 CompactFlash card

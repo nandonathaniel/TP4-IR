@@ -1,0 +1,1 @@
+Private button : enables `` Do not track me '' feature per website within the app ; formerly , configuration appeared in Settings for every website .

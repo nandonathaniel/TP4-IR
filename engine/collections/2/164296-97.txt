@@ -1,0 +1,1 @@
+t M ( w ) = number of steps M takes to halt on input w . ( \ displaystyle t_ ( M ) ( w ) = ( \ text ( number of steps ) ) M ( \ text ( takes to halt on input ) ) w . )

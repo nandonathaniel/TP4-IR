@@ -1,0 +1,1 @@
+Visual Studio Code is a source code editor , along with other features , for Linux , macOS , and Windows . It also includes support for debugging and embedded Git Control . It is open - source , and on 14 April 2016 was released as version 1.0 .

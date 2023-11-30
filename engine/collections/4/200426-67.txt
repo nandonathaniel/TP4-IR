@@ -1,0 +1,1 @@
+In this context , and throughout , what is called the `` system '' under attack may be anything from a single application , through a complete computer and operating system , to a large network .

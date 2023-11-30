@@ -1,0 +1,1 @@
+Locate32 Windows Graphical port of Unix 's locate & updatedb BSD License

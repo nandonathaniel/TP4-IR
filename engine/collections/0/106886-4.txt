@@ -1,0 +1,1 @@
+In structural engineering , the two - dimensional radius of gyration is used to describe the distribution of cross sectional area in a column around its centroidal axis with the mass of the body . The radius of gyration is given by the following formula :

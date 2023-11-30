@@ -1,0 +1,1 @@
+d S t o t = d S + d S R ≥ 0 ( \ displaystyle dS_ ( \ mathrm ( tot ) ) = dS + dS_ ( R ) \ geq 0 )

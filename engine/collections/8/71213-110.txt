@@ -1,0 +1,1 @@
+ISO / IEC 9075 - 9 : 2016 Part 9 : Management of External Data ( SQL / MED ) . It provides extensions to SQL that define foreign - data wrappers and datalink types to allow SQL to manage external data . External data is data that is accessible to , but not managed by , an SQL - based DBMS . This part of the standard consists solely of optional features .

@@ -1,0 +1,1 @@
+A B 2 + B C 2 + C A 2 = 3 ( G A 2 + G B 2 + G C 2 ) . ( \ displaystyle AB ^ ( 2 ) + BC ^ ( 2 ) + CA ^ ( 2 ) = 3 ( GA ^ ( 2 ) + GB ^ ( 2 ) + GC ^ ( 2 ) ) . )

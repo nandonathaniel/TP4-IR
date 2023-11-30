@@ -1,0 +1,1 @@
+Exynos : Octa - core ( 4 × 7009230000000000000 ♠ 2.3 GHz M2 Mongoose & 4 × 7009170000000000000 ♠ 1.7 GHz ) Cortex - A53 ( GTS ) Snapdragon : Octa - core ( 4 × 7009235000000000000 ♠ 2.35 GHz & 4 × 7009190000000000000 ♠ 1.9 GHz ) Kryo

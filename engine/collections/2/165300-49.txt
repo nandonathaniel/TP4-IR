@@ -1,0 +1,1 @@
+F F = V L V D C = V A C p 2 2 V A C p π = π 2 2 ≈ 1.11 ( \ displaystyle FF = ( \ frac ( V_ ( \ mathrm ( L ) ) ) ( V_ ( \ mathrm ( DC ) ) ) ) = ( \ frac ( \ frac ( V_ ( \ mathrm ( AC_ ( p ) ) ) ) ( \ sqrt ( 2 ) ) ) ( \ frac ( 2V_ ( \ mathrm ( AC_ ( p ) ) ) ) ( \ pi ) ) ) = ( \ frac ( \ pi ) ( 2 ( \ sqrt ( 2 ) ) ) ) \ approx 1.11 )

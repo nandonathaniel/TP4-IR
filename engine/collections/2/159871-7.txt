@@ -1,0 +1,1 @@
+Local variables allow easy management of multiple resources within a single function : they are destroyed in the reverse order of their construction , and an object is destroyed only if fully constructed -- that is , if no exception propagates from its constructor .

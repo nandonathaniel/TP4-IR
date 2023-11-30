@@ -1,0 +1,1 @@
+SEMs do not naturally provide 3D images contrary to SPMs . However 3D data can be obtained using an SEM with different methods as follows .

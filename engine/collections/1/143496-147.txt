@@ -1,0 +1,1 @@
+d ( U + p V ) = T d S + V d p . ( \ displaystyle d ( U + pV ) = T \ , dS + V \ , dp . )

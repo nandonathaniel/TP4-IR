@@ -1,0 +1,1 @@
+Sticky keys functionality is available on Microsoft Windows as StickyKeys , on macOS as Sticky Keys , and on Unix / X11 systems as part of the AccessX utility .

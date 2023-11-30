@@ -1,0 +1,1 @@
+angle in degrees = angle in radians ⋅ 180 ∘ π ( \ displaystyle ( \ text ( angle in degrees ) ) = ( \ text ( angle in radians ) ) \ cdot ( \ frac ( 180 ^ ( \ circ ) ) ( \ pi ) ) )

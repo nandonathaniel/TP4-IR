@@ -1,0 +1,1 @@
+A menu bar is a graphical control element which contains drop - down menus .

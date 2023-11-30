@@ -1,0 +1,1 @@
+Allows recording gameplay in the background to enable sharing of short video clips of gameplay .

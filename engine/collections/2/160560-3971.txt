@@ -1,0 +1,1 @@
+Addresses an issue where touch input was unresponsive on some iPhone 6s displays because they were not serviced with genuine Apple parts

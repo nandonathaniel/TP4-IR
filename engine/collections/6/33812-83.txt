@@ -1,0 +1,1 @@
+f ( x → ) is O ( g ( x → ) ) as x → → ∞ ( \ displaystyle f ( ( \ vec ( x ) ) ) ( \ text ( is ) ) O ( g ( ( \ vec ( x ) ) ) ) ( \ text ( as ) ) ( \ vec ( x ) ) \ to \ infty )

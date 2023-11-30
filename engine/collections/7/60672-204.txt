@@ -1,0 +1,1 @@
+Flat spiral air - core coil L = r 2 N 2 20 r + 28 d ( \ displaystyle L = ( \ frac ( r ^ ( 2 ) N ^ ( 2 ) ) ( 20r + 28d ) ) ) L = inductance ( μH ) r = mean radius of coil ( cm ) N = number of turns d = depth of coil ( outer radius minus inner radius ) ( cm )

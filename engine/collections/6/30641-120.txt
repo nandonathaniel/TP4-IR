@@ -1,0 +1,1 @@
+Finding the identity operator in a basis allows the abstract state to be expressed explicitly in a basis , and more ( the inner product between two state vectors , and other operators for observables , can be expressed in the basis ) .

@@ -1,0 +1,1 @@
+Grouping the latitude and FAC altitude factors the expression most commonly found in the literature is :

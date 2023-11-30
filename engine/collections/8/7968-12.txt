@@ -1,0 +1,1 @@
+Two values allow interpolating a function by a polynomial of degree one ( that is approximating the graph of the function by a line ) . This is the basis of the secant method . Three values define a quadratic function , which approximates the graph of the function by a parabola . This is Muller 's method .

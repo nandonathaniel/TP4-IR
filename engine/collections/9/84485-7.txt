@@ -1,0 +1,1 @@
+A grid reference locates a unique square region on the map . The precision of location varies , for example a simple town plan may use a simple grid system with single letters for Eastings and single numbers for Northings . A grid reference in this system , such as ' H3 ' , locates a particular square rather than a single point .

@@ -1,0 +1,1 @@
+Android applications run in a sandbox , an isolated area of the system that does not have access to the rest of the system 's resources , unless access permissions are explicitly granted by the user when the application is installed .

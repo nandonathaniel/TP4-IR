@@ -1,0 +1,1 @@
+When ignoring a call , the user can message the caller by sending one of three customizable quick SMS responses or set a Reminder to call them back later .

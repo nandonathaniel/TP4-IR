@@ -1,0 +1,1 @@
+Between 50 V AC and 1000 V AC or 120 V and 1500 V ripple - free DC , or an electrical potential between a conductor and earth less than 600 V AC or 900 V ripple - free DC . Almost all domestic and light commercial ( e.g. , offices ) power is low voltage for regulation purposes .

@@ -1,0 +1,1 @@
+Instant WebKiosk and Webconverger are browser - based Linux distributions often used in web kiosks and digital signage . Thinstation is a minimalist distribution designed for thin clients . Rocks Cluster Distribution is tailored for high - performance computing clusters .

@@ -1,0 +1,1 @@
+connected sum connected sum of ; knot sum of ; knot composition of topology , knot theory A#B is the connected sum of the manifolds A and B. If A and B are knots , then this denotes the knot sum , which has a slightly stronger condition . A#S is homeomorphic to A , for any manifold A , and the sphere S .

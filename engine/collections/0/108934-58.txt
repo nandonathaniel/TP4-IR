@@ -1,0 +1,1 @@
+The forces between the tip and the sample strongly depend on the geometry of the tip . Various studies were exploited in the past years to write the forces as a function of the tip parameters .

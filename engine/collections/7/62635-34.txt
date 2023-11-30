@@ -1,0 +1,1 @@
+Running out of lives does not affect games that are already in progress , and these games can continue to be played in the meantime when it becomes the player 's turn .

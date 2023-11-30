@@ -1,0 +1,1 @@
+Substantially , when a malware arrives in the hands of an antivirus firm , it is analysed by malware researchers or by dynamic analysis systems . Then , once it is determined to be a malware , a proper signature of the file is extracted and added to the signatures database of the antivirus software .

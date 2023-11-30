@@ -1,0 +1,1 @@
+Format Matches Won Lost Drawn Tied No result Win / Loss ratio Test 35 21 5 9 0 0 4.2 ODI 49 38 10 0 0 3.8 T20I 11 7 0 0 0 1.75

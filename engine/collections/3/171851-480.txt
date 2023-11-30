@@ -1,0 +1,1 @@
+SG 1 Establish Supplier Agreements SP 1.1 Determine Acquisition Type SP 1.2 Select Suppliers SP 1.3 Establish Supplier Agreements

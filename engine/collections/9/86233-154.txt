@@ -1,0 +1,1 @@
+f v ( v x , v y , v z ) = ( m 2 π k T ) 3 / 2 exp ⁡ ( − m ( v x 2 + v y 2 + v z 2 ) 2 k T ) ( \ displaystyle f_ ( \ mathbf ( v ) ) ( v_ ( x ) , v_ ( y ) , v_ ( z ) ) = \ left ( ( \ frac ( m ) ( 2 \ pi kT ) ) \ right ) ^ ( 3 / 2 ) \ exp \ left ( - ( \ frac ( m ( v_ ( x ) ^ ( 2 ) + v_ ( y ) ^ ( 2 ) + v_ ( z ) ^ ( 2 ) ) ) ( 2kT ) ) \ right ) )

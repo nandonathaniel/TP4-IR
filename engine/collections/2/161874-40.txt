@@ -1,0 +1,1 @@
+Constructors that can take at least one argument are termed as parameterized constructors . For example :

@@ -1,0 +1,1 @@
+Tap and hold for select / select all menu ( copy menu in photos ) . Double tap for cut / copy / paste menu all over iOS ( SMS , email , Notes , etc . ) . Two point draggable selection handles displayed to better make a selection . Undo by shaking . In Photos options menu select the copy button to select multiple photos to copy .

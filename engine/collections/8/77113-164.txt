@@ -1,0 +1,1 @@
+m = 1 2 ∫∫∫ V r × j d V , ( \ displaystyle \ mathbf ( m ) = ( \ tfrac ( 1 ) ( 2 ) ) \ iiint _ ( V ) \ mathbf ( r ) \ times \ mathbf ( j ) \ , ( \ rm ( d ) ) V , )

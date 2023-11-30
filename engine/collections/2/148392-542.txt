@@ -1,0 +1,1 @@
+Voice over LTE support enabled for selected operators . Native Wi - Fi calling support enabled for EE UK and T - Mobile USA . Additional improvements to stability , audio quality , Wi - Fi and cellular connectivity , national roaming , and more .

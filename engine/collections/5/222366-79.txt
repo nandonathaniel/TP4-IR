@@ -1,0 +1,1 @@
+Pompeiu 's theorem states that , if P is an arbitrary point in an equilateral triangle ABC , then there exists a triangle with sides of lengths PA , PB , and PC . That is , PA , PB , and PC satisfy the triangle inequality that any two of them sum to at least as great as the third .

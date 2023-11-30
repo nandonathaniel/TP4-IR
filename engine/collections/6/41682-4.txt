@@ -1,0 +1,1 @@
+Time series analysis can be applied to real - valued , continuous data , discrete numeric data , or discrete symbolic data ( i.e. sequences of characters , such as letters and words in the English language ) .

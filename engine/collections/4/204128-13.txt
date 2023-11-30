@@ -1,0 +1,1 @@
+NA i = n sin ⁡ θ = n sin ⁡ ( arctan ⁡ ( D 2 f ) ) ≈ n D 2 f , ( \ displaystyle ( \ text ( NA ) ) _ ( \ text ( i ) ) = n \ sin \ theta = n \ sin \ left ( \ arctan \ left ( ( \ frac ( D ) ( 2f ) ) \ right ) \ right ) \ approx n ( \ frac ( D ) ( 2f ) ) , ) thus N ≈ 1 / 2NA , assuming normal use in air ( n = 1 ) .

@@ -1,0 +1,1 @@
+e = eccentricity of Earth 's ( Sun 's ) orbit or Moon 's orbit

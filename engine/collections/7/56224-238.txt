@@ -1,0 +1,1 @@
+On the Apple TV ( 2nd generation ) , digital output audio is up - sampled to 48 kHz , including lossless CD rips at 44.1 kHz . Although this is a higher frequency and the difference is not audible in most cases , it means the audio is not ' bit perfect ' which is often a goal for digital transmission of data .

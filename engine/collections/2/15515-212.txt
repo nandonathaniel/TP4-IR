@@ -1,0 +1,1 @@
+The work done against gravity by moving an infinitesimal mass from point A with U = a ( \ displaystyle U = a ) to point B with U = b ( \ displaystyle U = b ) is ( b − a ) ( \ displaystyle ( b-a ) ) and the work done going back the other way is ( a − b ) ( \ displaystyle ( a-b ) ) so that the total work done in moving from A to B and returning to A is

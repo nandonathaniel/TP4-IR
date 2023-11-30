@@ -1,0 +1,1 @@
+Critical path drag analysis has also been used to optimize schedules in processes outside of strict project - oriented contexts , such as to increase manufacturing throughput by using the technique and metrics to identify and alleviate delaying factors and thus reduce assembly lead time .

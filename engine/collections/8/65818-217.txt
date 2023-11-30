@@ -1,0 +1,1 @@
+so that for a given magnification , DOF is essentially independent of focal length . Stated otherwise , for the same subject magnification and the same f - number , all focal lengths for a given image format give approximately the same DOF . This statement is true only when the subject distance is small in comparison with the hyperfocal distance , however .

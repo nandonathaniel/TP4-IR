@@ -1,0 +1,1 @@
+Spotlight Search Suggestions now have a border , floating text no longer appears .

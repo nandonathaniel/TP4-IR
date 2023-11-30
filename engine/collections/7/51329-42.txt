@@ -1,0 +1,1 @@
+The official MIME type for JSON text is `` application / json `` , and most modern implementations have adopted this .

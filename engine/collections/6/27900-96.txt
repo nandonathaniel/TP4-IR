@@ -1,0 +1,1 @@
+In C++ , it is possible to declare a pointer or reference to a const object in order to prevent client code from modifying it . Functions and methods can also guarantee that they will not modify the object pointed to by a pointer by using the `` const '' keyword . This enforces const - correctness .

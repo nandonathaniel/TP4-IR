@@ -1,0 +1,1 @@
+Electricity consumption data in this section is based upon data mined from US DOE Energy Information Administration / Electric Power Annual 2015 files In 2015 the total US consumption of electric energy was 4,144.3 Terawatt hours ( TWh ) ( or million MWh or billion kWh ) . This was essentially flat from 2014 . This is broken down as :

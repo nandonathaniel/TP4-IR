@@ -1,0 +1,1 @@
+The identity element of a group G is often written as 1 or 1 , a notation inherited from the multiplicative identity . If a group is abelian , then one may choose to denote the group operation by + and the identity element by 0 ; in that case , the group is called an additive group . The identity element can also be written as id .

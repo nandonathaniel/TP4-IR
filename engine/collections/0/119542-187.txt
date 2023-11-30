@@ -1,0 +1,1 @@
+Mathematics : 4,294,967,297 is a Fermat number and semiprime . It is the smallest number of the form 2 2 n + 1 ( \ displaystyle 2 ^ ( 2 ^ ( n ) ) + 1 ) which is not a prime number .

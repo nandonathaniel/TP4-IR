@@ -1,0 +1,1 @@
+Connectors use either T568A or T568B pin assignments ; performance is comparable provided both ends of a cable are terminated identically .

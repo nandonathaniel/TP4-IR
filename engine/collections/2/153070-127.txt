@@ -1,0 +1,1 @@
+A ( \ displaystyle A ) is the periodic amortization payment P ( \ displaystyle P ) is the principal amount borrowed r ( \ displaystyle r ) is the rate of interest expressed as a fraction ; for a monthly payment , take the ( Annual Rate ) / 12 n ( \ displaystyle n ) is the number of payments ; for monthly payments over 30 years , 12 months x 30 years = 360 payments .

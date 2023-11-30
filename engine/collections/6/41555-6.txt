@@ -1,0 +1,1 @@
+pyruvate + P + ATP → PEP + AMP + PP PEP + CO → oxaloacetate

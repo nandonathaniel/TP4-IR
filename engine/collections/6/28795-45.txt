@@ -1,0 +1,1 @@
+L = k S V 2 C L ( \ displaystyle L = k \ ; S \ ; V ^ ( 2 ) \ ; C_ ( L ) ) L = lift in pounds k = coefficient of air pressure ( Smeaton coefficient ) S = total area of lifting surface in square feet V = velocity ( headwind plus ground speed ) in miles per hour C = coefficient of lift ( varies with wing shape )

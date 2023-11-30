@@ -1,0 +1,1 @@
+Current stable version : 10.0. 16299.19 Version 1709 KB4043961 Slow ring : October 13 , 2017 Release preview : October 13 , 2017 Public release : October 17 , 2017

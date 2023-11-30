@@ -1,0 +1,1 @@
+Complex Dynamic modulus G can be used to represent the relations between the oscillating stress and strain :

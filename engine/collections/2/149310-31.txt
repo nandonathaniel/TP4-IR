@@ -1,0 +1,1 @@
+Dpb11 also interacts with GINS and participates in the initiation and elongation steps of chromosomal DNA replication . GINS are one of the replication proteins found at the replication forks and forms a complex with Cdc45 and Mcm .

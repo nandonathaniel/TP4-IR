@@ -1,0 +1,1 @@
+The Erdős -- Rényi model , named for Paul Erdős and Alfréd Rényi , is used for generating random graphs in which edges are set between nodes with equal probabilities . It can be used in the probabilistic method to prove the existence of graphs satisfying various properties , or to provide a rigorous definition of what it means for a property to hold for almost all graphs .

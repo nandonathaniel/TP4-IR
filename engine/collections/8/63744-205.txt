@@ -1,0 +1,1 @@
+A specific instance of such a force that is associated with dynamic pressure is fluid resistance : a body force that resists the motion of an object through a fluid due to viscosity . For so - called `` Stokes ' drag '' the force is approximately proportional to the velocity , but opposite in direction :

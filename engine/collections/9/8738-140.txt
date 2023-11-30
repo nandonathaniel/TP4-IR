@@ -1,0 +1,1 @@
+Three - digit area codes always have seven - digit subscriber numbers and always begin 011x or 01x1 .

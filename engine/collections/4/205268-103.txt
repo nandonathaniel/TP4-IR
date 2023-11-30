@@ -1,0 +1,1 @@
+Synchronous orbit : An orbit where the satellite has an orbital period equal to the average rotational period ( earth 's is : 23 hours , 56 minutes , 4.091 seconds ) of the body being orbited and in the same direction of rotation as that body . To a ground observer such a satellite would trace an analemma ( figure 8 ) in the sky .

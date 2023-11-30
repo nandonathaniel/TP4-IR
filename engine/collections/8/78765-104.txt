@@ -1,0 +1,1 @@
+Let λ be an eigenvalue of an n by n matrix A . The algebraic multiplicity μ ( λ ) of the eigenvalue is its multiplicity as a root of the characteristic polynomial , that is , the largest integer k such that ( λ − λ ) divides evenly that polynomial .

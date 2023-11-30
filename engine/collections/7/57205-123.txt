@@ -1,0 +1,1 @@
+π 4 = 44 arctan ⁡ 1 57 + 7 arctan ⁡ 1 239 − 12 arctan ⁡ 1 682 + 24 arctan ⁡ 1 12943 ( \ displaystyle ( \ frac ( \ pi ) ( 4 ) ) = 44 \ arctan ( \ frac ( 1 ) ( 57 ) ) + 7 \ arctan ( \ frac ( 1 ) ( 239 ) ) - 12 \ arctan ( \ frac ( 1 ) ( 682 ) ) + 24 \ arctan ( \ frac ( 1 ) ( 12943 ) ) )

@@ -1,0 +1,1 @@
+From these we can form the resulting 32 bit IEEE 754 binary32 format representation of real number 0.375 as : 0 - 01111101 - 10000000000000000000000 = 3ec00000

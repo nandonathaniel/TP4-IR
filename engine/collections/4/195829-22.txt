@@ -1,0 +1,1 @@
+F = m a ( \ displaystyle \ mathbf ( F ) = m \ mathbf ( a ) ) ( Newton 's second law of motion in non-relativistic case , i.e. valid only at ion velocity much lower than the speed of light ) .

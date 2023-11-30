@@ -1,0 +1,1 @@
+Osiris is a program that allows its users to create anonymous and autonomous web portals distributed via P2P network .

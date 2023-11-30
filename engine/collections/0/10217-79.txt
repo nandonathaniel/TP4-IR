@@ -1,0 +1,1 @@
+positive semi-definite : σ ( X ) = cov ( X , X ) ≥ 0 for all random variables X , and cov ( X , X ) = 0 implies that X is a constant random variable ( K ) .

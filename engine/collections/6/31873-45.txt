@@ -1,0 +1,1 @@
+`` So - called `` universal socket '' which meets no standard but accepts a number of different plug types. ( criticized as unsafe )

@@ -1,0 +1,1 @@
+X − n p n p ( 1 − p ) ( \ displaystyle ( \ frac ( X-np ) ( \ sqrt ( np ( 1 - p ) ) ) ) )

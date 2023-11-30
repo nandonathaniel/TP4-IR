@@ -1,0 +1,1 @@
+Classical WSD for other languages uses their respective WordNet as sense inventories and sense annotated corpora tagged in their respective languages . Often researchers will also tapped on the SemCor corpus and aligned bitexts with English as its source language

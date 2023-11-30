@@ -1,0 +1,1 @@
+Media Stream API ( getUserMedia ) enabled by default . ( E.g. webcam access via JavaScript . ) Gamepad API prototype available by default . Support for ( pointer ) and ( hover ) CSS media queries so sites can optimize their user interface for touch when touch - screen support is available . HTML5 audio / video and WebAudio now support 24 - bit PCM wave files

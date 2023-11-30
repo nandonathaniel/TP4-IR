@@ -1,0 +1,1 @@
+The linear and angular momentum of a collection of particles can be simplified by measuring the position and velocity of the particles relative to the center of mass . Let the system of particles P , i = 1 , ... , n of masses m be located at the coordinates r with velocities v. Select a reference point R and compute the relative position and velocity vectors ,

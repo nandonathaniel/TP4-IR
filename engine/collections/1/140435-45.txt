@@ -1,0 +1,1 @@
+If there are not enough dots in a minuend position , a bar is replaced by five dots . If there are not enough bars , a dot is removed from the next higher minuend symbol in the column and four bars are added to the minuend symbol which is being worked on .

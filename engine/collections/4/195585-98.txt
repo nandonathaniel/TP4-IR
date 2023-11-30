@@ -1,0 +1,1 @@
+It will also be necessary to generate the list of footnotes ( where the citation text is actually displayed ) ; for this , see the previous section .

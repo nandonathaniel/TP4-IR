@@ -1,0 +1,1 @@
+Symbol rate in baud , pulses / s or symbols / s

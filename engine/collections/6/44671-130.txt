@@ -1,0 +1,1 @@
+g ( r ) = ( G M r R 3 , if r < R G M r 2 , if r ≥ R ( \ displaystyle \ mathbf ( g ( r ) ) = ( \ begin ( cases ) ( \ dfrac ( GMr ) ( R ^ ( 3 ) ) ) , & ( \ mbox ( if ) ) r < R \ \ \ \ ( \ dfrac ( GM ) ( r ^ ( 2 ) ) ) , & ( \ mbox ( if ) ) r \ geq R \ end ( cases ) ) )

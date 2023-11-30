@@ -1,0 +1,1 @@
+A = ⋃ r ∈ Q ( ( r y , y ) ∣ y ∈ R ) , ( \ displaystyle A = \ bigcup _ ( r \ in \ mathbb ( Q ) ) \ ( ( ry , y ) \ mid y \ in \ mathbb ( R ) \ ) , )

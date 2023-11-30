@@ -1,0 +1,1 @@
+Ruby uses a = = = b to mean `` b is a member of the set a '' , though the details of what it means to be a member vary considerably depending on the data types involved . = = = is here known as the `` case equality '' or `` case subsumption '' operator .

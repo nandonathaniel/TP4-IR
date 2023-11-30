@@ -1,0 +1,1 @@
+Choose Notification Type : Banner notifications , the classic pop - up notifications , or no notification at all ( selectable on an app - by - app basis ) .

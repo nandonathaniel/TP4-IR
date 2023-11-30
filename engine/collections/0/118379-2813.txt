@@ -1,0 +1,1 @@
+Improves accessibility of widgets , glossary , and navigation in books made with iBooks Author

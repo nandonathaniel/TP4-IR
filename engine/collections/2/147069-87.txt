@@ -1,0 +1,1 @@
+The calculation for the partial R is relatively straightforward after estimating two models and generating the ANOVA tables for them . The calculation for the partial R is

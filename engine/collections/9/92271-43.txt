@@ -1,0 +1,1 @@
+From the relationships , it may be possible to constrain the date that lineages first appeared . For instance , if fossils of B or C date to X million years ago and the calculated `` family tree '' says A was an ancestor of B and C , then A must have evolved more than X million years ago .

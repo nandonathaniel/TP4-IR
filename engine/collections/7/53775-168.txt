@@ -1,0 +1,1 @@
+Faraday performed early experiments on induction between coils of wire , including winding a pair of coils around an iron ring , thus creating the first toroidal closed - core transformer . However he only applied individual pulses of current to his transformer , and never discovered the relation between the turns ratio and EMF in the windings .

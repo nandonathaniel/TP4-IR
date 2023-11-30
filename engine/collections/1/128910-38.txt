@@ -1,0 +1,1 @@
+where l is the mean free path , n is the number of target particles per unit volume , and σ is the effective cross-sectional area for collision .

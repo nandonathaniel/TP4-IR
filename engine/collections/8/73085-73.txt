@@ -1,0 +1,1 @@
+Nmap was originally distributed under the GNU Public License ( GPL ) . In later releases , Nmap 's authors added clarifications and specific interpretations to the license where they felt the GPL was unclear or lacking . For instance , Nmap 3.50 specifically revoked the license of SCO Group to distribute Nmap software because of their views on the SCO - Linux controversies .

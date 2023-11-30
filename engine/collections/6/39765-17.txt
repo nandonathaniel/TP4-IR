@@ -1,0 +1,1 @@
+Moreover , the dependence of the option value to price , volatility and time is not linear -- which makes the analysis even more complex .

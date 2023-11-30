@@ -1,0 +1,1 @@
+Leap years have two Sunday Letters , so for January and February calculate the day of the week for 1 January and for March to December calculate the day of the week for 1 October .

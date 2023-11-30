@@ -1,0 +1,1 @@
+The image distances are measured from the camera 's image plane to the lens 's image nodal plane , which is not always easy to locate . The harmonic mean is always less than the arithmentic mean , but when the difference between the near and far image distances is reasonably small , the two means are close to equal , and focus can be set with sufficient accuracy using

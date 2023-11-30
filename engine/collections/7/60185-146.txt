@@ -1,0 +1,1 @@
+( show ) ( Non-Server Models ) Mode 100 V 115 V 230 V Off 0.21 W 0.21 W 0.23 W Sleep 1.16 W 1.14 W 1.16 W Idle 12.97 W 12.97 W 12.85 W

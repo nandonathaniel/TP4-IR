@@ -1,0 +1,1 @@
+Lenses do not form perfect images , and a lens always introduces some degree of distortion or aberration that makes the image an imperfect replica of the object . Careful design of the lens system for a particular application minimizes the aberration . Several types of aberration affect image quality , including spherical aberration , coma , and chromatic aberration .

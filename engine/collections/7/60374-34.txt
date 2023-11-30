@@ -1,0 +1,1 @@
+Greengenes is a quality controlled , comprehensive 16S reference database and taxonomy based on a de novo phylogeny that provides standard operational taxonomic unit sets . The official home page for the site is http://greengenes.secondgenome.com , and is licensed under the Creative Commons BY - SA 3.0 license .

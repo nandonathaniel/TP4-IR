@@ -1,0 +1,1 @@
+where the momentum is obtained by differentiating the Lagrangian as above . The Hamiltonian equations of motion are

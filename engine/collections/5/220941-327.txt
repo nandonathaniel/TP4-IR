@@ -1,0 +1,1 @@
+( E ⁡ X s ) 1 / s ≤ ( E ⁡ X t ) 1 / t . ( \ displaystyle ( \ Bigl ( ) \ operatorname ( E ) X ^ ( s ) ( \ Bigr ) ) ^ ( 1 / s ) \ leq \ left ( \ operatorname ( E ) X ^ ( t ) \ right ) ^ ( 1 / t ) . )

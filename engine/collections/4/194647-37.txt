@@ -1,0 +1,1 @@
+Palindrome : a word or phrase that reads the same in either direction

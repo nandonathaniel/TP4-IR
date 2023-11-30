@@ -1,0 +1,1 @@
+V = 4 3 π R 3 → d V ≈ 4 π R 2 d R , ( \ displaystyle V = ( \ tfrac ( 4 ) ( 3 ) ) \ pi R ^ ( 3 ) \ quad \ rightarrow \ quad dV \ approx 4 \ pi R ^ ( 2 ) \ , dR , )

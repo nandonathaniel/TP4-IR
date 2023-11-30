@@ -1,0 +1,1 @@
+The number 48 in ASCII is what you add to any single digit integer to convert to its ASCII value

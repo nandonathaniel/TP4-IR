@@ -1,0 +1,1 @@
+W = E E A + E C − E F ( \ displaystyle W = E_ ( \ rm ( EA ) ) + E_ ( \ rm ( C ) ) - E_ ( \ rm ( F ) ) )

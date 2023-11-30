@@ -1,0 +1,1 @@
+F = S X 2 S Y 2 ( \ displaystyle F = ( \ frac ( S_ ( X ) ^ ( 2 ) ) ( S_ ( Y ) ^ ( 2 ) ) ) )

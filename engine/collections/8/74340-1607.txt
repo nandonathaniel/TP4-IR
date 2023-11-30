@@ -1,0 +1,1 @@
+Locks the home button from being used , so as to function like a kiosk .

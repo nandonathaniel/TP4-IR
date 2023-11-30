@@ -1,0 +1,1 @@
+V = n h 12 ( a 1 2 + a 1 a 2 + a 2 2 ) cot ⁡ π n ( \ displaystyle V = ( \ frac ( nh ) ( 12 ) ) ( a_ ( 1 ) ^ ( 2 ) + a_ ( 1 ) a_ ( 2 ) + a_ ( 2 ) ^ ( 2 ) ) \ cot ( \ frac ( \ pi ) ( n ) ) )

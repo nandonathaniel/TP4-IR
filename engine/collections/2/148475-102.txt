@@ -1,0 +1,1 @@
+A new `` Core ML '' software framework will speed up app tasks involving artificial intelligence , such as image recognition .

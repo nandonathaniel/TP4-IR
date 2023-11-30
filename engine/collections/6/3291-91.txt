@@ -1,0 +1,1 @@
+Gain of dipole antennas length L in λ ( \ displaystyle \ scriptstyle ( \ lambda ) ) Gain Gain ( dBi ) ≪ ( \ displaystyle \ scriptstyle ( \ ll ) ) 0.5 1.50 1.76 0.5 1.64 2.15 1.25 3.3 5.2

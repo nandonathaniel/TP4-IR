@@ -1,0 +1,1 @@
+Largest cities ( Metro areas ) 1 . Mexico City 2 . São Paulo 3 . Buenos Aires 4 . Rio de Janeiro 5 . Bogotá 6 . Lima 7 . Santiago 8 . Belo Horizonte 9 . Guadalajara 10 . Monterrey

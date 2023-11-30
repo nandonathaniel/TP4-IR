@@ -1,0 +1,1 @@
+Music It is now possible to rearrange songs while repeat mode is turned on .

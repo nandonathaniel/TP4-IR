@@ -1,0 +1,1 @@
+∂ 2 Δ ( x ) = i δ ( x ) ( \ displaystyle \ partial ^ ( 2 ) \ Delta ( x ) = i \ delta ( x ) \ , )

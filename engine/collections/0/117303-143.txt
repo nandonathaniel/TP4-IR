@@ -1,0 +1,1 @@
+G94 Feedrate per minute T ( B ) On group type A lathes , feedrate per minute is G98 .

@@ -1,0 +1,1 @@
+Folders in Favorites now show icons for the bookmarks contained within

@@ -1,0 +1,1 @@
+One of the first programming languages to provide single - and double - precision floating - point data types was Fortran . Before the widespread adoption of IEEE 754 - 1985 , the representation and properties of the double float data type depended on the computer manufacturer and computer model .

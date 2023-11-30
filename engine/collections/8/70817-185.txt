@@ -1,0 +1,1 @@
+Skolelinux A Linux distribution from Norway , now the basepoint for and now synonymous to Debian EDU . It provides as a thin client distribution for schools .

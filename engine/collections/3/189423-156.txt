@@ -1,0 +1,1 @@
+Oracle REST Data Services ( ORDS ) function as a Java EE - based alternative to Oracle HTTP Server , providing a REST - based interface to relational data .

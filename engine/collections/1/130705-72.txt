@@ -1,0 +1,1 @@
+Message delivery at the network layer is not necessarily guaranteed to be reliable ; a network layer protocol may provide reliable message delivery , but it need not do so .

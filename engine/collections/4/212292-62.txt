@@ -1,0 +1,1 @@
+Option to insert special characters , including Geresh , Gershayim , Maqaf for Hebrew and Kashida for Arabic texts ;

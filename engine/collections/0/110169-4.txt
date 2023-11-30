@@ -1,0 +1,1 @@
+Team Leader : Frank Heart Software : Willy Crowther , Dave Walden , Bernie Cosell and Paul Wexelblat Hardware : Severo Ornstein , Ben Barker Theory and collaboration with the above on the overall system design : Bob Kahn Other : Hawley Rising Added to IMP team later : Marty Thrope ( hardware ) , Jim Geisman , Truett Thach ( installation ) , Bill Bertell ( Honeywell )

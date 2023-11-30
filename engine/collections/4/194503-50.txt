@@ -1,0 +1,1 @@
+In all of the papers co-written by Neyman and Pearson the expression H always signifies `` the hypothesis to be tested '' .

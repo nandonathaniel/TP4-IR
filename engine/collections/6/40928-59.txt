@@ -1,0 +1,1 @@
+On top of the Linux kernel , there are the middleware , libraries and APIs written in C , and application software running on an application framework which includes Java - compatible libraries . Development of the Linux kernel continues independently of Android 's other source code projects .

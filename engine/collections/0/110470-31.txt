@@ -1,0 +1,1 @@
+Type I : ( small ) Low threshold , slow adapting in both static and dynamic settings Type II : ( medium ) Low threshold , rapidly adapting in dynamic settings Type III : ( large ) High threshold , slowly adapting in dynamic settings Type IV : ( very small ) High threshold pain receptors that communicate injury

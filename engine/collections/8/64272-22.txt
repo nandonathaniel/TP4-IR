@@ -1,0 +1,1 @@
+Display Internal : 176 × 220 pixel ( 2.2 inch ) TFT LCD , 262,144 colors External : 96 × 80 pixel STN 65,536 colors

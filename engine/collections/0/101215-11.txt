@@ -1,0 +1,1 @@
+A content management application ( CMA ) is the front - end user interface that allows a user , even with limited expertise , to add , modify , and remove content from a website without the intervention of a webmaster .

@@ -1,0 +1,1 @@
+In the Avenues neighborhood , north - south streets are given letters of the alphabet , and east - west streets are numbered in 2.5 - acre ( 1.0 ha ) blocks , smaller than those in the rest of the city .

@@ -1,0 +1,1 @@
+Δ W = ∫ θ 1 θ 2 τ d θ ( \ displaystyle \ Delta W = \ int _ ( \ theta _ ( 1 ) ) ^ ( \ theta _ ( 2 ) ) \ left ( \ boldsymbol ( \ tau ) ) \ right \ mathrm ( d ) \ theta ) .

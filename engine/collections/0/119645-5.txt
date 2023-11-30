@@ -1,0 +1,1 @@
+In Opera and Safari , the address bar can double as a progress bar that indicates how much of the contents of the page has been loaded .

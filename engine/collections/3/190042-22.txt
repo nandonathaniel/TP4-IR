@@ -1,0 +1,1 @@
+A = t 2 25 + 10 5 4 = 5 t 2 tan ⁡ ( 54 ∘ ) 4 ≈ 1.720 t 2 . ( \ displaystyle A = ( \ frac ( t ^ ( 2 ) ( \ sqrt ( 25 + 10 ( \ sqrt ( 5 ) ) ) ) ) ( 4 ) ) = ( \ frac ( 5t ^ ( 2 ) \ tan ( 54 ^ ( \ circ ) ) ) ( 4 ) ) \ approx 1.720 t ^ ( 2 ) . )

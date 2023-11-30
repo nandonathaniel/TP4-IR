@@ -1,0 +1,1 @@
+Δ E ∝ 1 ( L + ħ ) 2 − 1 L 2 ≈ − 2 ħ L 3 ∝ − E 3 2 . ( \ displaystyle \ Delta E \ propto ( 1 \ over ( L+ \ hbar ) ^ ( 2 ) ) - ( 1 \ over L ^ ( 2 ) ) \ approx - ( 2 \ hbar \ over L ^ ( 3 ) ) \ propto - E ^ ( 3 \ over 2 ) . )

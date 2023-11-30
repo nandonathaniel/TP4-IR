@@ -1,0 +1,1 @@
+The purpose of this standard is to provide guidance the safe use of lasers and laser systems found in research , development , or testing environments , where safety controls common for commercial lasers may either be missing or disabled .

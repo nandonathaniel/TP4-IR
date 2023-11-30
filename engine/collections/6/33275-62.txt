@@ -1,0 +1,1 @@
+F ( s , t , u ) = ( u tan ⁡ s cos ⁡ t , u tan ⁡ s sin ⁡ t , u ) ( \ displaystyle F ( s , t , u ) = \ left ( u \ tan s \ cos t , u \ tan s \ sin t , u \ right ) )

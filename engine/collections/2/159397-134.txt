@@ -1,0 +1,1 @@
+LL = London League SL = Southern League Div 1 = Football League First Division Div 2 = Football League Second Division Prem = Premier League Champ = Football League Championship n / a = Not applicable

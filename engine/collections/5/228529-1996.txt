@@ -1,0 +1,1 @@
+Passbook Scan and recognize barcodes / QR codes . Add gift cards as a folder .

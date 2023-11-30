@@ -1,0 +1,1 @@
+( V S I S ) = ( A B C D ) ( V R I R ) ( \ displaystyle ( \ begin ( bmatrix ) V_ ( \ mathrm ( S ) ) \ \ I_ ( \ mathrm ( S ) ) \ \ \ end ( bmatrix ) ) = ( \ begin ( bmatrix ) A&B \ \ C&D \ \ \ end ( bmatrix ) ) ( \ begin ( bmatrix ) V_ ( \ mathrm ( R ) ) \ \ I_ ( \ mathrm ( R ) ) \ \ \ end ( bmatrix ) ) )

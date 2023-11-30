@@ -1,0 +1,1 @@
+Fixes an issue that was allowing Activity Sharing to update over cellular when manually disabled .

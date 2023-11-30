@@ -1,0 +1,1 @@
+h ( t ) ∼ h 0 − 350 t ( \ displaystyle h ( t ) \ sim h_ ( 0 ) - 350 ( \ sqrt ( t ) ) )

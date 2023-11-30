@@ -1,0 +1,1 @@
+1966 -- sum of totient function for first 80 integers

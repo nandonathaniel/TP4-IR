@@ -1,0 +1,1 @@
+Fixed issue with the Springboard and 3rd party apps not recognizing the gyroscope on the iPad 2 .

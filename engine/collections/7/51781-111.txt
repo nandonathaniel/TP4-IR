@@ -1,0 +1,1 @@
+Provides most of the benefits of storage virtualization

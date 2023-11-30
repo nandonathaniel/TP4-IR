@@ -1,0 +1,1 @@
+Airplay : Send stereo audio from video content on Apple TV to AirPlay - enabled speakers / devices ( including AirPort Express and other Apple TVs ) .

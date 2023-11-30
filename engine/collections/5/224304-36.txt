@@ -1,0 +1,1 @@
+10 / 0 Oxaloacetate + Acetyl CoA + H O Citrate + CoA - SH Citrate synthase Aldol condensation This is the same as step 0 and restarts the cycle . The reaction is irreversible and extends the 4C oxaloacetate to a 6C molecule

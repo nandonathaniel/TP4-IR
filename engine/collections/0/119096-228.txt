@@ -1,0 +1,1 @@
+It may be clearer to understand if ( x ) = ( Ψ ) ( q ) ( \ displaystyle ( \ begin ( Bmatrix ) x \ end ( Bmatrix ) ) = ( \ begin ( bmatrix ) \ Psi \ end ( bmatrix ) ) ( \ begin ( Bmatrix ) q \ end ( Bmatrix ) ) ) is written as :

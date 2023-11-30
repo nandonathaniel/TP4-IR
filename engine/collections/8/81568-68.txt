@@ -1,0 +1,1 @@
+engine type max . power max . torque top speed ( saloon ) 0 -- 100 km / h ( 62 mph ) ( saloon ) ( manual ) years CO emissions

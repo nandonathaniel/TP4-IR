@@ -1,0 +1,1 @@
+Find any string that begins with the letter ' S ' SELECT ename FROM emp WHERE ename LIKE ' S % ' ;

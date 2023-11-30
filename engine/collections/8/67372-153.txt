@@ -1,0 +1,1 @@
+L = I ω ( \ displaystyle \ mathbf ( L ) = I ( \ boldsymbol ( \ omega ) ) )

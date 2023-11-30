@@ -1,0 +1,1 @@
+d S θ = r sin ⁡ θ d φ d r . ( \ displaystyle \ mathrm ( d ) S_ ( \ theta ) = r \ sin \ theta \ , \ mathrm ( d ) \ varphi \ , \ mathrm ( d ) r . )

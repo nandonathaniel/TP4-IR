@@ -1,0 +1,1 @@
+B ( θ ) ≈ 1 − Φ ( 1.64 − θ σ ^ D / n ) . ( \ displaystyle B ( \ theta ) \ approx 1 - \ Phi \ left ( 1.64 - ( \ frac ( \ theta ) ( ( \ hat ( \ sigma ) ) _ ( D ) / ( \ sqrt ( n ) ) ) ) \ right ) . )

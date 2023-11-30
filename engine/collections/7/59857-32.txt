@@ -1,0 +1,1 @@
+For comparison : the required speed for low Earth orbit is approximately 7.5 km / s = Mach 25.4 in air at high altitudes .

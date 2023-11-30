@@ -1,0 +1,1 @@
+c i d e a l = γ ⋅ R ∗ ⋅ 273.15 ⋅ 1 + θ 273.15 , ( \ displaystyle c_ ( \ mathrm ( ideal ) ) = ( \ sqrt ( \ gamma \ cdot R_ ( * ) \ cdot 273.15 ) ) \ cdot ( \ sqrt ( 1 + ( \ frac ( \ vartheta ) ( 273.15 ) ) ) ) , )

@@ -1,0 +1,1 @@
+`` NP - complete problems are the most difficult known problems . '' Since NP - complete problems are in NP , their running time is at most exponential . However , some problems provably require more time , for example Presburger arithmetic .

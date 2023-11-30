@@ -1,0 +1,1 @@
+condition positive ( P ) the number of real positive cases in the data condition negative ( N ) the number of real negative cases in the data

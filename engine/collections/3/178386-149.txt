@@ -1,0 +1,1 @@
+μ α ( φ ) = sec ⁡ φ ( sin ⁡ α sin ⁡ β ) . ( \ displaystyle \ mu _ ( \ alpha ) ( \ phi ) = \ sec \ phi \ left ( ( \ frac ( \ sin \ alpha ) ( \ sin \ beta ) ) \ right ) . )

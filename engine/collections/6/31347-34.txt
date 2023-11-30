@@ -1,0 +1,1 @@
+Most terminal emulators and some other applications support the key combinations Ctrl - Insert to copy and Shift - Insert to paste . This is in accordance with the IBM Common User Access ( CUA ) standard .

@@ -1,0 +1,1 @@
+sin ⁡ θ = sin ⁡ ( θ + 2 π k ) and cos ⁡ θ = cos ⁡ ( θ + 2 π k ) . ( \ displaystyle \ sin \ theta = \ sin \ left ( \ theta + 2 \ pi k \ right ) ( \ text ( and ) ) \ cos \ theta = \ cos \ left ( \ theta + 2 \ pi k \ right ) . )

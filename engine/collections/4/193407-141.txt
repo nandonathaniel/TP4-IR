@@ -1,0 +1,1 @@
+It is often convenient to suppose that some of the surrounding subsystems are so much larger than the system that the process can affect the intensive variables only of the surrounding subsystems , and they are then called reservoirs for relevant intensive variables .

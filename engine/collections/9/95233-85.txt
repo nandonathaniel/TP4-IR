@@ -1,0 +1,1 @@
+Based on sequence homology , DNA polymerases can be further subdivided into seven different families : A , B , C , D , X , Y , and RT .

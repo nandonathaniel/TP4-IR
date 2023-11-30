@@ -1,0 +1,1 @@
+There are three page layouts : Book , Full Screen , and Scroll . In Book or Full Screen layout , pages are turned by tapping or dragging the page , animated to imitate the appearance of a paper book . In Scroll , there is no page turning , and the book appears as continuous text , read vertically like a web browser .

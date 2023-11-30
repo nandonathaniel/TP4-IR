@@ -1,0 +1,1 @@
+Colour scheme Green White RAL None 9003 Signal white CMYK 100.0. 39.47 0.0. 0.0 Hexadecimals # 008753 # FFFFFF Decimals 0,135 , 83 255,255,255

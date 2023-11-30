@@ -1,0 +1,1 @@
+Adobe replaced Extended Support Release 11.2 on Linux with 24.0 on December 13 , 2016 .

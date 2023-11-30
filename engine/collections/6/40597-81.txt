@@ -1,0 +1,1 @@
+Ruby has a retry statement that restarts the entire loop from the initial iteration .

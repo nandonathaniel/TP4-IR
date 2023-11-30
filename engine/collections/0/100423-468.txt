@@ -1,0 +1,1 @@
+Can now read and write reviews for content on iTunes .

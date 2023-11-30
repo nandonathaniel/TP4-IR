@@ -1,0 +1,1 @@
+Conjunction Notation Equivalent formulas Truth table Venn diagram P ∧ Q P & Q P Q P AND Q P ↛ ( \ displaystyle \ nrightarrow ) ¬ Q ¬ P ↚ ( \ displaystyle \ nleftarrow ) Q ¬ P ↓ ¬ Q Kpq Q 0 0 0 0 1 0 1 Alternative denial Notation Equivalent formulas Truth table Venn diagram P ↑ Q P Q P NAND Q P → ¬ Q ¬ P ← Q ¬ P ∨ ¬ Q Dpq Q 0 0 1 1 1 1 0

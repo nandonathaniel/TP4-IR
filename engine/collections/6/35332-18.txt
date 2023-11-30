@@ -1,0 +1,1 @@
+J J J O 3.7 38 27 3.1 42 29 4.4 50 35 4.5 61 45 4.2 71 54 4.4 79 64 4.6 84 69 4.4 83 68 4.3 75 61 4.4 64 50 54 42 43 32 Average max. and min . temperatures in ° F Precipitation totals in inches Source : `` New York City Weatherbox NOAA ''

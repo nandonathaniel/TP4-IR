@@ -1,0 +1,1 @@
+Online monitoring of commercial heat exchangers is done by tracking the overall heat transfer coefficient . The overall heat transfer coefficient tends to decline over time due to fouling .

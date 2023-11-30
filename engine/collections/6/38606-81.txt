@@ -1,0 +1,1 @@
+The ISO Modula - 2 standard corrected this for the type cast facility by changing the type cast syntax into a function called CAST which has to be imported from pseudo-module SYSTEM . However , other unsafe facilities such as variant records remained available without any import from pseudo-module SYSTEM .

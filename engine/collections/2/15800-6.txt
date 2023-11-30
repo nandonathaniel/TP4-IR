@@ -1,0 +1,1 @@
+Every time we repeat a measurement with a sensitive instrument , we obtain slightly different results . The common statistical model used is that the error has two additive parts :

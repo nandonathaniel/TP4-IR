@@ -1,0 +1,1 @@
+Equivalent CSS for font attributes : < font size = '' N `` > corresponds to ( font - size : Y units ) ( the HTML specification does not define the relationship between size N and unit - size Y , nor does it define a unit ) . < font color = `` red '' > corresponds to ( color : red ) < font face = `` Courier '' > corresponds to ( font - family : `` Courier '' )

@@ -1,0 +1,1 @@
+f ( k ; λ ) = Pr ( X = k ) = λ k e − λ k ! , ( \ displaystyle \ ! f ( k ; \ lambda ) = \ Pr ( X = k ) = ( \ frac ( \ lambda ^ ( k ) e ^ ( - \ lambda ) ) ( k ! ) ) , )

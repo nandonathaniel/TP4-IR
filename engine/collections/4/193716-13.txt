@@ -1,0 +1,1 @@
+A human - machine interface ( HMI ) is typically local to one machine or piece of equipment , and is the interface method between the human and the equipment / machine . An operator interface is the interface method by which multiple equipment that are linked by a host control system is accessed or controlled .

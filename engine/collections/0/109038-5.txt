@@ -1,0 +1,1 @@
+( 100 * ) indicates a batsman scored 100 runs and was not out .

@@ -1,0 +1,1 @@
+Fixes an issue where albums may play in an unexpected order .

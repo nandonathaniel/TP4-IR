@@ -1,0 +1,1 @@
+ISO / IEC 7666 X. 25 ( LAPB ) Token Bus X. 222 ISO / IEC 8802 - 2 LLC ( type 1 / 2 )

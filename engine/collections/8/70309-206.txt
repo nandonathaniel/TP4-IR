@@ -1,0 +1,1 @@
+Entropy can be defined for any Markov processes with reversible dynamics and the detailed balance property .

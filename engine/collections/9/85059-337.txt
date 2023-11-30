@@ -1,0 +1,1 @@
+Double tap for cut / copy / paste menu all over iOS ( SMS , email , Notes , etc . ) . Two point draggable selection handles displayed to better make a selection .

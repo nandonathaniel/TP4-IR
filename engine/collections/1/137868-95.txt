@@ -1,0 +1,1 @@
+Partition identifier MBR / EBR : FAT16 : 0x 04 e.a. BDP : EBD0A0A2 - B9E5 - 4433 - 87C0 - 68B6B72699C7

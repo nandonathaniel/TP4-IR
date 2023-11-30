@@ -1,0 +1,1 @@
+x86 virtualization ( Intel Pentium 4 , models 6x2 )

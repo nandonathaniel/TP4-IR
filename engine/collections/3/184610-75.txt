@@ -1,0 +1,1 @@
+Delay skew : different pairs within the cable have different delays , due to different twist rates used to minimize crosstalk between the pairs . This can degrade image quality when multiple pairs are used to carry components of a video signal . Low skew cable is available to mitigate this problem .

@@ -1,0 +1,1 @@
+is continuous . ( The points where g ( x ) is zero are discarded , as they are not in the domain of f / g . ) For example , the function ( pictured )

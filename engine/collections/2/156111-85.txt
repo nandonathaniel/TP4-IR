@@ -1,0 +1,1 @@
+Low frequency oscillator ( LFO ) -- an oscillator of adjustable frequency that can be used to modulate the sound rhythmically , for example to create tremolo or vibrato or to control a filter 's operating frequency . LFOs are used in most forms of synthesis .

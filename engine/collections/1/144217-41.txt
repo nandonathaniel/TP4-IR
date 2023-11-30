@@ -1,0 +1,1 @@
+I ( r ) = I 0 e − r / R D ( \ displaystyle I ( r ) = I_ ( 0 ) e ^ ( - r / R_ ( D ) ) )

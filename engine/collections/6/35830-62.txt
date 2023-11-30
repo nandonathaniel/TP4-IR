@@ -1,0 +1,1 @@
+The Maclaurin series of an odd function includes only odd powers .

@@ -1,0 +1,1 @@
+In C++ , there is no void& ( reference to void ) to complement void * ( pointer to void ) , because references behave like aliases to the variables they point to , and there can never be a variable whose type is void .

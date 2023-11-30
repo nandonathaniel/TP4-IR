@@ -1,0 +1,1 @@
+When the developed plate is illuminated by the reference beam , the light transmitted through the plate , U is equal to the transmittance T multiplied by the reference beam amplitude U , giving

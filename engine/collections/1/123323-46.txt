@@ -1,0 +1,1 @@
+D 2 = l 1 2 + l 2 2 + ⋯ + l n 2 + 2 ( l 1 ⋅ l 2 + l 1 ⋅ l 3 + ⋯ ) ( \ displaystyle D ^ ( 2 ) = l_ ( 1 ) ^ ( 2 ) + l_ ( 2 ) ^ ( 2 ) + \ cdots + l_ ( n ) ^ ( 2 ) + 2 ( \ mathbf ( l_ ( 1 ) \ cdot l_ ( 2 ) + l_ ( 1 ) \ cdot l_ ( 3 ) + \ cdots ) ) )

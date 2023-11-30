@@ -1,0 +1,1 @@
+f ^ ( ξ ) = ∫ − ∞ ∞ f ( x ) e − 2 π i x ξ d x . ( \ displaystyle ( \ hat ( f ) ) ( \ xi ) = \ int _ ( - \ infty ) ^ ( \ infty ) f ( x ) e ^ ( - 2 \ pi ix \ xi ) \ , dx . )

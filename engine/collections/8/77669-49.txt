@@ -1,0 +1,1 @@
+Input Current Rating : Input current rating is the amount of current the powerbank is able to draw at its maximum level while getting charged .

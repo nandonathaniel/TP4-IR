@@ -1,0 +1,1 @@
+Data manipulation language ( DML ) -- performs tasks such as inserting , updating , or deleting data occurrences ;

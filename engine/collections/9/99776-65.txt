@@ -1,0 +1,1 @@
+g h = G m E a r t h / ( r E a r t h + h ) 2 ( \ displaystyle g_ ( h ) = G \ , m_ ( \ mathrm ( Earth ) ) / \ left ( r_ ( \ mathrm ( Earth ) ) + h \ right ) ^ ( 2 ) )

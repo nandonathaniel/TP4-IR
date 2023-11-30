@@ -1,0 +1,1 @@
+dynamic cast conversion dynamic_cast < type > ( a ) No No N / A

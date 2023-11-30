@@ -1,0 +1,1 @@
+∃ M ∃ C > 0 such that for all x → with x i ≥ M for some i , f ( x → ) ≤ C g ( x → ) . ( \ displaystyle \ exists M \ , \ exists C > 0 ( \ text ( such that for all ) ) ( \ vec ( x ) ) ( \ text ( with ) ) x_ ( i ) \ geq M ( \ text ( for some ) ) i , f ( ( \ vec ( x ) ) ) \ leq C g ( ( \ vec ( x ) ) ) . )

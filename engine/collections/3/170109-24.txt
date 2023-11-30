@@ -1,0 +1,1 @@
+There are 54 cyclically ordered combinations of such angles that add up to 360 degrees at a vertex , but the rules of the tiling allow only seven of these combinations to appear ( although one of these arises in two ways ) .

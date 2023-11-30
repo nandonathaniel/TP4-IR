@@ -1,0 +1,1 @@
+p 1 ⋅ V 1 T 1 ⋅ n 1 = p 2 ⋅ V 2 T 2 ⋅ n 2 = constant , ( \ displaystyle ( \ frac ( p_ ( 1 ) \ cdot V_ ( 1 ) ) ( T_ ( 1 ) \ cdot n_ ( 1 ) ) ) = ( \ frac ( p_ ( 2 ) \ cdot V_ ( 2 ) ) ( T_ ( 2 ) \ cdot n_ ( 2 ) ) ) = ( \ text ( constant ) ) , )

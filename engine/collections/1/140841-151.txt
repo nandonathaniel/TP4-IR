@@ -1,0 +1,1 @@
+Most elements take the language - related attribute dir to specify text direction , such as with `` rtl '' for right - to - left text in , for example , Arabic , Persian or Hebrew .

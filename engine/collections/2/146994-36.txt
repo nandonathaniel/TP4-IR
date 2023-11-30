@@ -1,0 +1,1 @@
+Michael Kaply from IBM is reported saying the following when the Mozilla Foundation was considering the removal of P3P support from their browser - line in 2004 :

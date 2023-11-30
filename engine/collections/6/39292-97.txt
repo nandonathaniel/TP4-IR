@@ -1,0 +1,1 @@
+S / MIME GPG , an implementation of OpenPGP Internet Key Exchange PGP ZRTP , a secure VoIP protocol Secure Socket Layer , now codified as the IETF standard Transport Layer Security ( TLS ) SILC SSH Bitcoin Off - the - Record Messaging

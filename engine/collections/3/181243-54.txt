@@ -1,0 +1,1 @@
+There are advantages as well as disadvantages to shared storage in big data analytics , but big data analytics practitioners as of 2011 did not favour it .

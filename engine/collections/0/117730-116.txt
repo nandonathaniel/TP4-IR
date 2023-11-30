@@ -1,0 +1,1 @@
+In the early days of Twitter , tweets were stored in MySQL databases that were temporally sharded ( large databases were split based on time of posting ) . After the huge volume of tweets coming in caused problems reading from and writing to these databases , the company decided that the system needed re-engineering .

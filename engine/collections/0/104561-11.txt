@@ -1,0 +1,1 @@
+In Version 7 , controls 3 , 4 , and 5 were reshuffled . Controls 1 - 6 are considered `` Basic '' , 7 - 16 are `` Foundational '' and 17 - 20 are `` Organizational '' . It also released CIS RAM , an information security risk assessment method to help implement CIS Controls .

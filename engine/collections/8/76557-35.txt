@@ -1,0 +1,1 @@
+J = − D ∇ n , J i = − D ∂ n ∂ x i . ( \ displaystyle \ mathbf ( J ) = - D \ , \ nabla n \ , \ ; \ ; J_ ( i ) = - D ( \ frac ( \ partial n ) ( \ partial x_ ( i ) ) ) \ . )

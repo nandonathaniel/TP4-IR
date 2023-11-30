@@ -1,0 +1,1 @@
+Jlime Linux distribution for the HP Jornada 6xx and 7xx and NEC MobilePro 900 ( c ) handhelds .

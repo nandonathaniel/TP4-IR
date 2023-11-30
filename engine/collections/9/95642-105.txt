@@ -1,0 +1,1 @@
+Ethernet -- General purpose networking standard using twisted pair and fiber optic links in conjunction with hubs or switches .

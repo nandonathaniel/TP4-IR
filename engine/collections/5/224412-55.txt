@@ -1,0 +1,1 @@
+x i − μ i = l i 1 F 1 + ⋯ + l i k F k + ε i . ( \ displaystyle x_ ( i ) - \ mu _ ( i ) = l_ ( i1 ) F_ ( 1 ) + \ cdots + l_ ( ik ) F_ ( k ) + \ varepsilon _ ( i ). \ , )

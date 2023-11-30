@@ -1,0 +1,1 @@
+gcd ( a , lcm ( b , c ) ) = lcm ( gcd ( a , b ) , gcd ( a , c ) ) lcm ( a , gcd ( b , c ) ) = gcd ( lcm ( a , b ) , lcm ( a , c ) ) .

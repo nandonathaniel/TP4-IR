@@ -1,0 +1,1 @@
+E : only - child an E element , only child of its parent

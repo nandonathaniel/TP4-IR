@@ -1,0 +1,1 @@
+Contactors are used to control electric motors , lighting , heating , capacitor banks , thermal evaporators , and other electrical loads .

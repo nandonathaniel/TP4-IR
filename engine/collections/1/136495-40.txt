@@ -1,0 +1,1 @@
+Real income ( abs . ) = Real output -- Real input

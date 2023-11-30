@@ -1,0 +1,1 @@
+Fixed rendering glitches on H. 264 video only in FF23 on Vista . Fixed spellchecking that was broken with non-ASCII characters in profile path . Fixed audio static / `` burble '' / breakup in Firefox to Firefox WebRTC calls .

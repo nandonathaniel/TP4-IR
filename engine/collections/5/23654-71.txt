@@ -1,0 +1,1 @@
+Since cooling pumps require electricity to cool a reactor after a SCRAM , in the event of a power grid failure , Chernobyl 's reactors had three backup diesel generators ; these could start up in 15 seconds , but took 60 -- 75 seconds to attain full speed and reach the 5.5 ‐ megawatt ( MW ) output required to run one main pump .

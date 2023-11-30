@@ -1,0 +1,1 @@
+Altitude , ft ( m ) Boiling point of water , ° F ( ° C )

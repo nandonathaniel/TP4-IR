@@ -1,0 +1,1 @@
+A-DEP ( Auto Depth - of - field AE ) : The camera automatically selects the aperture and shutter speed to keep most of the image in focus . ( Only recommended in high light conditions as the camera tends to choose smaller f / stops )

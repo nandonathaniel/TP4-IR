@@ -1,0 +1,1 @@
+The ISO prescribes Monday as the first day of the week with ISO - 8601 for software date formats .

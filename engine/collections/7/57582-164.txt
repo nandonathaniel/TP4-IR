@@ -1,0 +1,1 @@
+Hydro excludes pumped storage ( not an energy source , used by all sources , other than hydro ) .

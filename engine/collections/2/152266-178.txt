@@ -1,0 +1,1 @@
+a a + b b ≥ a b + b a . ( \ displaystyle a ^ ( a ) + b ^ ( b ) \ geq a ^ ( b ) + b ^ ( a ) . )

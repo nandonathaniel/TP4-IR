@@ -1,0 +1,1 @@
+Fixed mail message view and orientation when quickly selecting a message and hitting edit mode .

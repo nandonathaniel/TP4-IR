@@ -1,0 +1,1 @@
+Since all information is expressed in terms of ratios ( the individual numbers denoted by α , β , γ , ( \ displaystyle \ alpha , \ beta , \ gamma , ) x , y , and z have no meaning by themselves ) , a triangle analysis using barycentric or trilinear coordinates applies regardless of the size of the triangle .

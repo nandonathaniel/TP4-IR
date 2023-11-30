@@ -1,0 +1,1 @@
+Improved framerate stability Games utilizing a dynamic resolution will hit their max resolution more often / all the time . 16xAF texture filtering will be automatically applied . Forced v - sync Variable refresh rate ( VRR ) compatibility ( if one has a compatible display )

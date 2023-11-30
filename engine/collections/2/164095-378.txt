@@ -1,0 +1,1 @@
+cosh ⁡ c R = cosh ⁡ a R cosh ⁡ b R − sinh ⁡ a R sinh ⁡ b R cos ⁡ γ , ( \ displaystyle \ cosh ( \ frac ( c ) ( R ) ) = \ cosh ( \ frac ( a ) ( R ) ) \ \ cosh ( \ frac ( b ) ( R ) ) - \ sinh ( \ frac ( a ) ( R ) ) \ \ sinh ( \ frac ( b ) ( R ) ) \ \ cos \ gamma \ , )

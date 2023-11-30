@@ -1,0 +1,1 @@
+Limit check Unlike range checks , data are checked for one limit only , upper OR lower , e.g. , data should not be greater than 2 ( < = 2 ) .

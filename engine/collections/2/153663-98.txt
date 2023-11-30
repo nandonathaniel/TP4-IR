@@ -1,0 +1,1 @@
+ε = T s − T o T s ( \ displaystyle \ epsilon = ( \ frac ( T_ ( s ) - T_ ( o ) ) ( T_ ( s ) ) ) )

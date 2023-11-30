@@ -1,0 +1,1 @@
+`` kk '' represent the IBAN checksum `` a '' represents an alphabetic character `` n '' represents a numeric character `` b '' represents a bank code character `` c '' represents an account digit . `` 0 '' represents a `` 0 '' character .

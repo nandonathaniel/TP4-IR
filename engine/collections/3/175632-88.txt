@@ -1,0 +1,1 @@
+sgn ⁡ ( x ) = x x = x x . ( \ displaystyle \ operatorname ( sgn ) ( x ) = ( \ frac ( x ) ( x ) ) = ( \ frac ( x ) ( x ) ) . )

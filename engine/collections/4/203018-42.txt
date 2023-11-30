@@ -1,0 +1,1 @@
+conventions for amplitude normalization and frequency scaling / units transform properties tabulated transforms of specific functions an extension / generalization for functions of multiple dimensions , such as images .

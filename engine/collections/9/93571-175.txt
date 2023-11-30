@@ -1,0 +1,1 @@
+Notify The right to request change notifications for Registry keys or subkeys .

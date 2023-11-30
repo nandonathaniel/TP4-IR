@@ -1,0 +1,1 @@
+Micro connector , power segment Pin # Mating Function 3rd 3.3 V Power 2nd 1st Ground 1st 5 2nd 5 V Power 6 3rd 7 3rd Reserved -- Coding notch 8 3rd Vendor specific 9 2nd

@@ -1,0 +1,1 @@
+YouTube Ability to play 480p / 720p videos over 3G ( iPhone only ) . Scrolling titles for YouTube videos . Seek bar fine scrubbing visual notification has been added .

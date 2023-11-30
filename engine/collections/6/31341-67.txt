@@ -1,0 +1,1 @@
+Cloud computing can involve subdividing CPU operation into virtual central processing units ( vCPUs ) .

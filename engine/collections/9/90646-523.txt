@@ -1,0 +1,1 @@
+Embeds a Java applet in the page . Deprecated in favour of < object > , as it could only be used with Java applets , and had accessibility limitations .

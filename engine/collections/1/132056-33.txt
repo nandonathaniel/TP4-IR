@@ -1,0 +1,1 @@
+τ = l ∑ i = 1 N σ i n i , ( \ displaystyle \ tau = \ ell \ sum _ ( i = 1 ) ^ ( N ) \ sigma _ ( i ) n_ ( i ) , ) A = l ∑ i = 1 N ε i c i . ( \ displaystyle A = \ ell \ sum _ ( i = 1 ) ^ ( N ) \ varepsilon _ ( i ) c_ ( i ) . )

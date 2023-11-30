@@ -1,0 +1,1 @@
+MSK and GMSK are particular cases of continuous phase modulation . Indeed , MSK is a particular case of the sub-family of CPM known as continuous - phase frequency shift keying ( CPFSK ) which is defined by a rectangular frequency pulse ( i.e. a linearly increasing phase pulse ) of one - symbol - time duration ( total response signaling ) .

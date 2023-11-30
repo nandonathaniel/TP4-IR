@@ -1,0 +1,1 @@
+RAID 1 Mirroring without parity or striping 1 / n n − 1 drive failures n

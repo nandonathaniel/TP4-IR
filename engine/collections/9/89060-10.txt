@@ -1,0 +1,1 @@
+T B = ( 1 T 0 − R ln ⁡ P P 0 Δ H vap ) − 1 , ( \ displaystyle T_ ( \ text ( B ) ) = ( \ Bigg ( ) ( \ frac ( 1 ) ( T_ ( 0 ) ) ) - ( \ frac ( R \ , \ ln ( \ frac ( P ) ( P_ ( 0 ) ) ) ) ( \ Delta H_ ( \ text ( vap ) ) ) ) ( \ Bigg ) ) ^ ( - 1 ) , )

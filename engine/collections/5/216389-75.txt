@@ -1,0 +1,1 @@
+Unix popularized a syntax for regular expressions that found widespread use . The Unix programming interface became the basis for a widely implemented operating system interface standard ( POSIX , see above ) . The C programming language soon spread beyond Unix , and is now ubiquitous in systems and applications programming .

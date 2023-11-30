@@ -1,0 +1,1 @@
+M49 Feedrate override NOT allowed Prevent MFO ( manual feedrate overide ) . This rule is also usually called ( automatically ) within tapping cycles or single - point threading cycles , where feed is precisely correlated to speed . Same with SSO ( spindle speed override ) and feed hold button . Some controls are capable of providing SSO and MFO during threading .

@@ -1,0 +1,1 @@
+Z resistor = R ( \ displaystyle Z_ ( \ text ( resistor ) ) = R )

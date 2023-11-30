@@ -1,0 +1,1 @@
+No astronomical year has an integer number of days or lunar months , so any calendar that follows an astronomical year must have a system of intercalation such as leap years . Financial and scientific calculations often use a 365 - day calendar to simplify daily rates .

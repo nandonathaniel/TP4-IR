@@ -1,0 +1,1 @@
+Introduction of ActionScript Virtual Machine 2 ( AVM2 ) with AVM1 retained for compatibility ActionScript 3 ( a superset of ECMAScript 3 ) via AVM2 E4X , which is a new approach to parsing XML Support for binary sockets Support for regular expressions and namespaces AVM2 donated to Mozilla Foundation as open - source virtual machine named Tamarin

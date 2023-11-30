@@ -1,0 +1,1 @@
+Voting system simple majority for the first question first - past - the - post for the second question

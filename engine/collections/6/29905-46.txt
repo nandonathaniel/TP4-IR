@@ -1,0 +1,1 @@
+Do not manoeuver in a direction opposite to that indicated by the RA because this may result in a collision .

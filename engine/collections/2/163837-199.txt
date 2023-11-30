@@ -1,0 +1,1 @@
+Address mask can be set to 0

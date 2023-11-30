@@ -1,0 +1,1 @@
+An eight - by - eight chessboard with all four corners removed .

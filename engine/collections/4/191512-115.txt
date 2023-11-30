@@ -1,0 +1,1 @@
+= ∫ − π 2 π 2 r 2 ( 1 − sin 2 ⁡ θ ) ⋅ r cos ⁡ θ d θ ( \ displaystyle = \ int _ ( - ( \ frac ( \ pi ) ( 2 ) ) ) ^ ( \ frac ( \ pi ) ( 2 ) ) ( \ sqrt ( r ^ ( 2 ) ( 1 - \ sin ^ ( 2 ) \ theta ) ) ) \ cdot r \ cos \ theta \ , d \ theta )

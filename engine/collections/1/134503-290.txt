@@ -1,0 +1,1 @@
+cot ⁡ A 2 s − a = cot ⁡ B 2 s − b = cot ⁡ C 2 s − c . ( \ displaystyle ( \ frac ( \ cot ( \ dfrac ( A ) ( 2 ) ) ) ( s-a ) ) = ( \ frac ( \ cot ( \ dfrac ( B ) ( 2 ) ) ) ( s-b ) ) = ( \ frac ( \ cot ( \ dfrac ( C ) ( 2 ) ) ) ( s-c ) ) . )

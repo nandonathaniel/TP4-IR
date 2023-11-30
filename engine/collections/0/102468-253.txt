@@ -1,0 +1,1 @@
+r , n ( \ displaystyle r , n ) are defined as above , r is a suboptimal estimator , r can also be obtained by maximizing log ( f ( r ) ) , r has minimum variance for large values of n , r has a bias of order 1 / ( n − 1 ) .

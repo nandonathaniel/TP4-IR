@@ -1,0 +1,1 @@
+It is computationally elegant and relatively robust against violations of its assumptions .

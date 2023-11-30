@@ -1,0 +1,1 @@
+By applying the transformation above from the stationary to the rotating frame three times , the absolute acceleration of the particle can be written as :

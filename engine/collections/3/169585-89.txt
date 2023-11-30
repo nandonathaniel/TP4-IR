@@ -1,0 +1,1 @@
+Note that in both cases we are dealing with triangular matrices ( L and U ) , which can be solved directly by forward and backward substitution without using the Gaussian elimination process ( however we do need this process or equivalent to compute the LU decomposition itself ) .

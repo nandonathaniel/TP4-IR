@@ -1,0 +1,1 @@
+While simple , flat file systems become awkward as the number of files grows and makes it difficult to organize data into related groups of files .

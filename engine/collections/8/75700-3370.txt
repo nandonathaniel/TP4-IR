@@ -1,0 +1,1 @@
+Support for Spanish ( Latin America ) display language . Siri support for Finnish , Hebrew , and Malay .

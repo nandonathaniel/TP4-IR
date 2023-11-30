@@ -1,0 +1,1 @@
+Enthalpy H ( S , p ) = U + p V ( \ displaystyle H ( S , p ) = U + pV )

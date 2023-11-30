@@ -1,0 +1,1 @@
+In electrical engineering , this approximate symmetric response is known as the universal resonance curve , a concept introduced by Frederick E. Terman in 1932 to simplify the approximate analysis of radio circuits with a range of center frequencies and Q values .

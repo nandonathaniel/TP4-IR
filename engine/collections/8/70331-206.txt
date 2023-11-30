@@ -1,0 +1,1 @@
+s is the last two digits of the year ( i.e. if the year is 1987 , s = 87 )

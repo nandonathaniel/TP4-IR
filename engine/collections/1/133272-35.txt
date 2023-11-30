@@ -1,0 +1,1 @@
+Groupings with a specific number of bits are used to represent varying things and have specific names .

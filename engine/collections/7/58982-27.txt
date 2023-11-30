@@ -1,0 +1,1 @@
+Since the early 1970s , the increase in capacity of microprocessors has followed Moore 's law ; this originally suggested that the number of components that can be fitted onto a chip doubles every year . With present technology , it is actually every two years , and as such Moore later changed the period to two years .

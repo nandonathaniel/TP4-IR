@@ -1,0 +1,1 @@
+( α 2 − β 2 ) u j , i j + β 2 u i , m m = − F i . ( \ displaystyle ( \ alpha ^ ( 2 ) - \ beta ^ ( 2 ) ) u_ ( j , ij ) + \ beta ^ ( 2 ) u_ ( i , mm ) = - F_ ( i ). \ , \ ! )

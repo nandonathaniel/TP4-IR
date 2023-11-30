@@ -1,0 +1,1 @@
+The physical consequence , about the uncertainty in simultaneous position and momentum observations of a quantum mechanical system , is discussed below . The appearance of π in the formulae of Fourier analysis is ultimately a consequence of the Stone -- von Neumann theorem , asserting the uniqueness of the Schrödinger representation of the Heisenberg group .

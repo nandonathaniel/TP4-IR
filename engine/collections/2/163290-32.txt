@@ -1,0 +1,1 @@
+The score of games within a set is counted in the ordinary manner , except when a player or team has a score of no games it is read as `` love '' . The score is written using digits separated by a dash . This score is announced by the judge or server at the start of each game .

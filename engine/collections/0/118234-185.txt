@@ -1,0 +1,1 @@
+A lot of work has been done in building a mathematical model of reinforcement . This model is known as MPR , short for mathematical principles of reinforcement . Peter Killeen has made key discoveries in the field with his research on pigeons .

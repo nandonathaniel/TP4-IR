@@ -1,0 +1,1 @@
+Geary ( software ) -- Email client based on WebKitGTK+

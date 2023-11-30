@@ -1,0 +1,1 @@
+Digitize the speech that we want to recognize

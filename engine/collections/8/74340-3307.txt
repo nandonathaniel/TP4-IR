@@ -1,0 +1,1 @@
+Fixes an issue for VoiceOver users using the Alex voice , where the device switches to a different voice to announce punctuation or spaces .

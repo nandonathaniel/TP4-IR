@@ -1,0 +1,1 @@
+Stability and performance Further improvements to Touch ID fingerprint recognition Fixes a bug that could impact keyboard responsiveness Fixes the bug in which the `` 1 '' badge was stuck on the Settings app even after updating to the latest version of iOS Fixes an issue when using Bluetooth keyboards with VoiceOver enabled

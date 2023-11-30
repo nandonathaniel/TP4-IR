@@ -1,0 +1,1 @@
+It is important to note that when there is a repeated number in the data ( such as two 72s ) then the plot must reflect such ( so the plot would look like 7 2 2 5 6 7 when it has the numbers 72 72 75 76 77 ) .

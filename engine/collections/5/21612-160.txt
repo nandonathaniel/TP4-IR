@@ -1,0 +1,1 @@
+Another aspect of physical database design is security . It involves both defining access control to database objects as well as defining security levels and methods for the data itself .

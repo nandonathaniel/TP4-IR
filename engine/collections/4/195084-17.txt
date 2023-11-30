@@ -1,0 +1,1 @@
+Persons are classified as unemployed if they do not have a job , have actively looked for work in the prior 4 weeks , and are currently available for work .

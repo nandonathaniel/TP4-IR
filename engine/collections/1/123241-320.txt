@@ -1,0 +1,1 @@
+Considering that the Pearson correlation coefficient falls between ( − 1 , 1 ) , the Pearson distance lies in ( 0 , 2 ) . The Pearson distance has been used in cluster analysis and data detection for communications and storage with unknown gain and offset

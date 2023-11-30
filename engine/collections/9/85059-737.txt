@@ -1,0 +1,1 @@
+Unified inboxes . Edit from outbox . Support for multiple Exchange accounts . File & delete Mail search results . Organise by thread in Mail . Quick look attachments . Open attachments by registered filetype with corresponding apps from the App Store . Smart links for dates and addresses . Contact pictures in emails . Create Calendar events from dates within emails .

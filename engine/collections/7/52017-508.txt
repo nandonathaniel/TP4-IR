@@ -1,0 +1,1 @@
+The two optional steps allow the evaluation of the logarithm in the last step to be avoided in most cases . These steps can be greatly improved so that the logarithm is rarely evaluated .

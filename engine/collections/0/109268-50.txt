@@ -1,0 +1,1 @@
+Creates aggregation groups that share the same speed and duplex settings . Utilizes all slave network interfaces in the active aggregator group according to the 802.3 ad specification . This mode is similar to the XOR mode above and supports the same balancing policies . The link is set up dynamically between two LACP - supporting peers .

@@ -1,0 +1,1 @@
+Since momentum of a body is defined as its mass multiplied by its velocity , we can rewrite the above equation as :

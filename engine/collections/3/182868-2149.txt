@@ -1,0 +1,1 @@
+7.0. 4 11B554a 04.12. 09 3.0. 04 5.0. 02 4.1. 02 5.02. 00 1.03. 01 November 14 , 2013 ; 4 years ago ( 2013 - 11 - 14 ) Bug fixes Bug fixes and improvements , including a fix for an issue that causes FaceTime calls to fail for some users . Security Notes http://support.apple.com/kb/HT6058

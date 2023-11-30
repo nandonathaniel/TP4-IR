@@ -1,0 +1,1 @@
+Once a system has been stabilized through adequate testing , the SDLC ensures that proper training on the system is performed or documented before transitioning the system to its support staff and end users .

@@ -1,0 +1,1 @@
+Distribution Default Linux kernel Default file system Default init system Install - time desktop environment or window manager selection

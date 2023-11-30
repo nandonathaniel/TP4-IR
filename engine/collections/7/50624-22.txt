@@ -1,0 +1,1 @@
+Margin of error at 99 % confidence ≈ 1.29 / n ( \ displaystyle \ approx 1.29 / ( \ sqrt ( n ) ) \ , )

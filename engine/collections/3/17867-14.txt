@@ -1,0 +1,1 @@
+Continents each country resides in : Asia North America Europe South America Oceania Africa Transcontinental

@@ -1,0 +1,1 @@
+Then , a n → S ( \ displaystyle a_ ( n ) \ rightarrow ( \ sqrt ( S ) ) ) ( while c n → 0 ( \ displaystyle c_ ( n ) \ rightarrow 0 ) ) .

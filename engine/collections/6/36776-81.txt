@@ -1,0 +1,1 @@
+f ( E ( x ) ) ≤ E ( f ( x ) ) ( \ displaystyle f ( E ( x ) ) \ leq E ( f ( x ) ) )

@@ -1,0 +1,1 @@
+Connectivity Bluetooth Accessory connector port ( 400 kHz I2C )

@@ -1,0 +1,1 @@
+lim x → 0 ( 1 + x ) 1 x = lim r → ∞ ( 1 + 1 r ) r = e ( \ displaystyle \ lim _ ( x \ to 0 ) ( 1 + x ) ^ ( \ frac ( 1 ) ( x ) ) = \ lim _ ( r \ to \ infty ) \ left ( 1 + ( \ frac ( 1 ) ( r ) ) \ right ) ^ ( r ) = e )

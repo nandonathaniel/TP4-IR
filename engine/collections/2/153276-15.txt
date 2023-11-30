@@ -1,0 +1,1 @@
+Recommendations for markup languages , such as Hypertext Markup Language ( HTML ) , Extensible Hypertext Markup Language ( XHTML ) , and Scalable Vector Graphics ( SVG ) from W3C .

@@ -1,0 +1,1 @@
+Guideline 3 : Use markup and style sheets , and do so properly

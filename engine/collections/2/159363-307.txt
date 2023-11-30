@@ -1,0 +1,1 @@
+S ( r , t ) = ε 0 c 2 E ( r , t ) × B ( r , t ) . ( \ displaystyle \ mathbf ( S ) ( \ mathbf ( r ) , t ) = \ epsilon _ ( 0 ) c ^ ( 2 ) \ mathbf ( E ) ( \ mathbf ( r ) , t ) \ times \ mathbf ( B ) ( \ mathbf ( r ) , t ) . )

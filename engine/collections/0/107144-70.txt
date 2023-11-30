@@ -1,0 +1,1 @@
+Solving the differential equation above produces a solution that is a sinusoidal function .

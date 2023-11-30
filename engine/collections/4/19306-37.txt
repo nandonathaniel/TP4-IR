@@ -1,0 +1,1 @@
+Error - correcting codes are usually distinguished between convolutional codes and block codes :

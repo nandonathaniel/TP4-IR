@@ -1,0 +1,1 @@
+Δ e 4 + ( ( A + C ) 2 − 4 Δ ) e 2 − ( ( A + C ) 2 − 4 Δ ) = 0 , ( \ displaystyle \ Delta e ^ ( 4 ) + ( ( A + C ) ^ ( 2 ) - 4 \ Delta ) e ^ ( 2 ) - ( ( A + C ) ^ ( 2 ) - 4 \ Delta ) = 0 , )

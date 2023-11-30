@@ -1,0 +1,1 @@
+g ( p 1 , p 2 , ⋯ , p n ) = ∑ j = 1 n p j = 1 . ( \ displaystyle g ( p_ ( 1 ) , p_ ( 2 ) , \ cdots , p_ ( n ) ) = \ sum _ ( j = 1 ) ^ ( n ) p_ ( j ) = 1 . )

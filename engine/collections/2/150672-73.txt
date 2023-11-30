@@ -1,0 +1,1 @@
+For example , for a three - line poem , there is only one rhyming scheme in which every line rhymes with at least one other ( AAA ) , while for a four - line poem , there are four such schemes ( AABB , ABAB , ABBA , and AAAA ) .

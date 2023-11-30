@@ -1,0 +1,1 @@
+The issuing of a British Passport by the authorities in the Crown Dependencies can not be inferred from the machine readable zone as the issuing country code and citizenship code ( both GBR ) is identical to passports issued by the United Kingdom for British Citizens .

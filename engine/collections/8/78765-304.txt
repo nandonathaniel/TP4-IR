@@ -1,0 +1,1 @@
+While the definition of an eigenvector used in this article excludes the zero vector , it is possible to define eigenvalues and eigenvectors such that the zero vector is an eigenvector .

@@ -1,0 +1,1 @@
+The amount of heat applied to the metal is a function of the welding tip size , the speed of travel , and the welding position . The flame size is determined by the welding tip size . The proper tip size is determined by the metal thickness and the joint design .

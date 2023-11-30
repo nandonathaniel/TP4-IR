@@ -1,0 +1,1 @@
+In the section of that page marked filters , click on the button labeled `` Hide links '' to filter to redirects to the prior name . For each redirect , change its target to the new page title .

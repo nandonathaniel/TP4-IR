@@ -1,0 +1,1 @@
+Most consecutive matches scoring at least two goals

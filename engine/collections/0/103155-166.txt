@@ -1,0 +1,1 @@
+JavaScript form validation only provides convenience for users , not security . If a site verifies that the user agreed to its terms of service , or filters invalid characters out of fields that should only contain numbers , it must do so on the server , not only the client .

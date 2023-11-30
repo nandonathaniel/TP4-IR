@@ -1,0 +1,1 @@
+P D C = 3 ⋅ 3 ⋅ V p e a k π ⋅ 3 ⋅ 3 ⋅ I p e a k π ( \ displaystyle P_ ( \ mathrm ( DC ) ) = ( \ frac ( 3 \ cdot ( \ sqrt ( 3 ) ) \ cdot V_ ( \ mathrm ( peak ) ) ) ( \ pi ) ) \ cdot ( \ frac ( 3 \ cdot ( \ sqrt ( 3 ) ) \ cdot I_ ( \ mathrm ( peak ) ) ) ( \ pi ) ) )

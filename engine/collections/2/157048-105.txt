@@ -1,0 +1,1 @@
+∮ ∂ S ⁡ B ⋅ d l = μ 0 ∫ S ( J + ε 0 ∂ E ∂ t ) ⋅ d S ( \ displaystyle \ oint _ ( \ partial S ) ( \ boldsymbol ( B ) ) \ cdot d ( \ boldsymbol ( \ ell ) ) = \ mu _ ( 0 ) \ int _ ( S ) \ left ( ( \ boldsymbol ( J ) ) + \ epsilon _ ( 0 ) ( \ frac ( \ partial ( \ boldsymbol ( E ) ) ) ( \ partial t ) ) \ right ) \ cdot d ( \ boldsymbol ( S ) ) \ , )

@@ -1,0 +1,1 @@
+eukaryotic 80S 60S ( 5S : 121 nt , 5.8 S : 156 nt , 28S : 5070 nt ) 40S ( 18S : 1869 nt )

@@ -1,0 +1,1 @@
+Improved plugin performance and reliability

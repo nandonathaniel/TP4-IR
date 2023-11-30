@@ -1,0 +1,1 @@
+( p + v : v is any solution to A x = 0 ) . ( \ displaystyle \ left \ ( ( \ textbf ( p ) ) + ( \ textbf ( v ) ) : ( \ textbf ( v ) ) ( \ text ( is any solution to ) ) A ( \ textbf ( x ) ) = ( \ textbf ( 0 ) ) \ right \ ) . )

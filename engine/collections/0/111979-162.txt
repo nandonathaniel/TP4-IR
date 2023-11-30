@@ -1,0 +1,1 @@
+E t o t a l = K E s y s t e m + P E s y s t e m + U s y s t e m ( \ displaystyle E_ ( \ rm ( total ) ) = \ mathrm ( KE ) _ ( \ rm ( system ) ) + \ mathrm ( PE ) _ ( \ rm ( system ) ) + U_ ( \ rm ( system ) ) )

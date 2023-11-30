@@ -1,0 +1,1 @@
+the second derivative ( d x / dt = ( dx / dt ) / dt , acceleration ) has dimension LT .

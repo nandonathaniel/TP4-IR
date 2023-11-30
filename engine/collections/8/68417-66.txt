@@ -1,0 +1,1 @@
+TRIAC -- Triode for Alternating Current -- A bidirectional switching device containing two thyristor structures with common gate contact

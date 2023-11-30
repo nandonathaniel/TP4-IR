@@ -1,0 +1,1 @@
+Fixes an issue related to the Messages app where the app would freeze and crash upon receiving a long text message .

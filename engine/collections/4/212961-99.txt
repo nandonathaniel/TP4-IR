@@ -1,0 +1,1 @@
+if the last digit of a number is 3 or 7 , its square ends in 9 ;

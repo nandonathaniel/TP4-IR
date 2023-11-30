@@ -1,0 +1,1 @@
+It exists , however , in many variations on this theme , such as the Cross Industry Standard Process for Data Mining ( CRISP - DM ) which defines six phases :

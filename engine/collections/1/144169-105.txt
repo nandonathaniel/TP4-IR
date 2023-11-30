@@ -1,0 +1,1 @@
+ISO / IEC 9075 - 2 : 2016 Part 2 : Foundation ( SQL / Foundation ) . It contains the most central elements of the language and consists of both mandatory and optional features .

@@ -1,0 +1,1 @@
+If player A does not have the possibility of checkmating B then the game is a draw ( Schiller 2003 : 28 ) .

@@ -1,0 +1,1 @@
+A monotonic strictly increasing sequence number ( incremented by 1 for every packet sent ) to prevent replay attacks . When replay detection is enabled , sequence numbers are never reused , because a new security association must be renegotiated before an attempt to increment the sequence number beyond its maximum value .

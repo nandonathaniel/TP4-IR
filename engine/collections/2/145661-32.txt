@@ -1,0 +1,1 @@
+In response to the read command ( with address equal to PC ) , the memory returns the data stored at the memory location indicated by PC on the data bus

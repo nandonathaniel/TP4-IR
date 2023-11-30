@@ -1,0 +1,1 @@
+The trajectory of an airplane in flight has three degrees of freedom and its attitude along the trajectory has three degrees of freedom , for a total of six degrees of freedom .

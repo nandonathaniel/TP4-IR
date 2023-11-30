@@ -1,0 +1,1 @@
+G T 2 ⊖ ≈ G T 1 ⊖ + ( C p ⊖ − S T 1 ⊖ ) ( T 2 − T 1 ) − T 2 ln ⁡ ( T 2 T 1 ) C p ⊖ ( \ displaystyle G_ ( T_ ( 2 ) ) ^ ( \ ominus ) \ approx G_ ( T_ ( 1 ) ) ^ ( \ ominus ) + ( C_ ( p ) ^ ( \ ominus ) - S_ ( T_ ( 1 ) ) ^ ( \ ominus ) ) ( T_ ( 2 ) - T_ ( 1 ) ) - T_ ( 2 ) \ ln \ left ( ( \ frac ( T_ ( 2 ) ) ( T_ ( 1 ) ) ) \ right ) C_ ( p ) ^ ( \ ominus ) )

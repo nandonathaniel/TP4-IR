@@ -1,0 +1,1 @@
+Let x be the average of x and S / x ( using the arithmetic mean to approximate the geometric mean ) .

@@ -1,0 +1,1 @@
+Oracle Corporation releases Critical Patch Updates ( CPUs ) or Security Patch Updates ( SPUs ) and Security Alerts to close security holes that could be used for data theft . Critical Patch Updates ( CPUs ) and Security Alerts come out quarterly on the Tuesday closest to 17th day of the month .

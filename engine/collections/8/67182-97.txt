@@ -1,0 +1,1 @@
+Earlies and lates with double shift example , seven 6 - hour shifts in six days , twelve groups Shift Time Mon Tue Wed Thu Fri Sat Sun Earlies 08 : 00 -- 14 : 00 ABCDEF G ABCDEF H ABCDEF I ABCDEF J ABCDEF K ABCDEF L Off Lates 14 : 00 -- 20 : 00 A GHIJKL B GHIJKL C GHIJKL D GHIJKL E GHIJKL F GHIJKL Off

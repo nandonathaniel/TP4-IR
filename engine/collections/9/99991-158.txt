@@ -1,0 +1,1 @@
+A tetrahedron is a 3 - simplex . Unlike the case of the other Platonic solids , all the vertices of a regular tetrahedron are equidistant from each other ( they are the only possible arrangement of four equidistant points in 3 - dimensional space ) .

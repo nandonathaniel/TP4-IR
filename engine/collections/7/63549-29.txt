@@ -1,0 +1,1 @@
+E ⁡ ( X ) = ∑ i = 1 ∞ x i p i ( \ displaystyle \ operatorname ( E ) ( X ) = \ sum _ ( i = 1 ) ^ ( \ infty ) x_ ( i ) \ , p_ ( i ) ) .

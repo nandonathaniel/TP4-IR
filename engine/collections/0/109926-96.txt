@@ -1,0 +1,1 @@
+Single Specific Primer - PCR ( SSP - PCR ) : allows the amplification of double - stranded DNA even when the sequence information is available at one end only . This method permits amplification of genes for which only a partial sequence information is available , and allows unidirectional genome walking from known into unknown regions of the chromosome .

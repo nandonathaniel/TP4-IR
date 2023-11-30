@@ -1,0 +1,1 @@
+Model Released Chipset CPU FSB RAM type RAM speed RAM Max Chassis Comments PCI / PCIe USB

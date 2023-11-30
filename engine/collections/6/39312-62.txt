@@ -1,0 +1,1 @@
+Many games studied by game theorists ( including the famed prisoner 's dilemma ) are non-zero - sum games , because the outcome has net results greater or less than zero . Informally , in non-zero - sum games , a gain by one player does not necessarily correspond with a loss by another .

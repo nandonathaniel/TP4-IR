@@ -1,0 +1,1 @@
+For a twin prime pair of the form ( 6n − 1 , 6n + 1 ) for some natural number n > 1 , n must have units digit 0 , 2 , 3 , 5 , 7 , or 8 ( A002822 ) .

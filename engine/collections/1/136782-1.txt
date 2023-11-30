@@ -1,0 +1,1 @@
+calculate the Sun 's position in the ecliptic coordinate system , convert to the equatorial coordinate system , and convert to the horizontal coordinate system , for the observer 's local time and position .

@@ -1,0 +1,1 @@
+Two events can not occur at exactly the same instant ; instead , at each very small sub-interval exactly one event either occurs or does not occur .

@@ -1,0 +1,1 @@
+Ω = ( 0 − z θ y θ z θ 0 − x θ − y θ x θ 0 ) . ( \ displaystyle \ Omega = ( \ begin ( bmatrix ) 0& - z \ theta &y \ theta \ \ z \ theta &0& - x \ theta \ \ - y \ theta &x \ theta &0 \ end ( bmatrix ) ) . )

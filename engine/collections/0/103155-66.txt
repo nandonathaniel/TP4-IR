@@ -1,0 +1,1 @@
+With the rise of single - page applications and JavaScript - heavy sites , it is increasingly being used as a compile target for source - to - source compilers from both dynamic languages and static languages .

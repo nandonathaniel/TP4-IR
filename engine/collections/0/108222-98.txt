@@ -1,0 +1,1 @@
+r i = y i − f k ( x i , β ) − ∑ k = 1 m J i k Δ β k = Δ y i − ∑ j = 1 m J i j Δ β j . ( \ displaystyle r_ ( i ) = y_ ( i ) - f ^ ( k ) ( x_ ( i ) , ( \ boldsymbol ( \ beta ) ) ) - \ sum _ ( k = 1 ) ^ ( m ) J_ ( ik ) \ , \ Delta \ beta _ ( k ) = \ Delta y_ ( i ) - \ sum _ ( j = 1 ) ^ ( m ) J_ ( ij ) \ , \ Delta \ beta _ ( j ) . )

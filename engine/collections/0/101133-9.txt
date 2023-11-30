@@ -1,0 +1,1 @@
+( 300 -- 3 ) indicates that a team scored 300 runs for three wickets and the innings was closed , either due to a successful run chase or if no playing time remained

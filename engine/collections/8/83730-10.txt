@@ -1,0 +1,1 @@
+This is an example of an esterification reaction where one molecule acetic acid reacts with one molecule ethanol , yielding one molecule ethyl acetate ( a bimolecular second - order reaction of the type A + B → C ) :

@@ -1,0 +1,1 @@
+Perform the original operation on the condensed operands , and sum digits : 2 × 7 = 14 ; 1 + 4 = 5

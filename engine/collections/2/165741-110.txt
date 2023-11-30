@@ -1,0 +1,1 @@
+Δ L B = 1 det ( g ) ∑ i = 1 m ∂ ∂ x i ( det ( g ) ∑ j = 1 m g i j ∂ ∂ x j ) , ( \ displaystyle \ Delta _ ( \ mathrm ( LB ) ) = ( \ frac ( 1 ) ( \ sqrt ( \ det ( g ) ) ) ) \ sum _ ( i = 1 ) ^ ( m ) ( \ frac ( \ partial ) ( \ partial x_ ( i ) ) ) \ left ( ( \ sqrt ( \ det ( g ) ) ) \ sum _ ( j = 1 ) ^ ( m ) g ^ ( ij ) ( \ frac ( \ partial ) ( \ partial x_ ( j ) ) ) \ right ) , )

@@ -1,0 +1,1 @@
+Conjectures disproven through counterexample are sometimes referred to as false conjectures ( cf . the Pólya conjecture and Euler 's sum of powers conjecture ) . In the case of the latter , the first counterexample found for the n = 4 case involved numbers in the millions , although subsequently it has been found that the minimal counterexample is smaller than that .

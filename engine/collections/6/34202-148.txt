@@ -1,0 +1,1 @@
+More generally , for any e and d satisfying ed ≡ 1 ( mod λ ( n ) ) , the same conclusion follows from Carmichael 's generalization of Euler 's theorem , which states that m ≡ 1 ( mod n ) for all m relatively prime to n .

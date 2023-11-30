@@ -1,0 +1,1 @@
+Cut through : the switch starts forwarding after the frame 's destination address is received . There is no error checking with this method . When the outgoing port is busy at the time , the switch falls back to store - and - forward operation . Also , when the egress port is running at a faster data rate than the ingress port , store - and - forward is usually used .

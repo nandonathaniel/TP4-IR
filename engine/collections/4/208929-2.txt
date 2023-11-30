@@ -1,0 +1,1 @@
+A network node may have multiple NICs and each NIC must have a unique MAC address . Sophisticated network equipment such as a multilayer switch or router may require one or more permanently assigned MAC addresses .

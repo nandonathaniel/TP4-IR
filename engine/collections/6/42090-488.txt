@@ -1,0 +1,1 @@
+The Box -- Muller method uses two independent random numbers U and V distributed uniformly on ( 0 , 1 ) . Then the two random variables X and Y

@@ -1,0 +1,1 @@
+λ 2 − ( A + C ) λ + ( A C − ( B / 2 ) 2 ) = 0 ( \ displaystyle \ lambda ^ ( 2 ) - ( A + C ) \ lambda + ( AC - ( B / 2 ) ^ ( 2 ) ) = 0 )

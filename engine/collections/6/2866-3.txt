@@ -1,0 +1,1 @@
+A NAND gate is an inverted AND gate . It has the following truth table :

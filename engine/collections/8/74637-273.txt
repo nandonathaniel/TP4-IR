@@ -1,0 +1,1 @@
+Game weather : clear , 73 ° F ( 23 ° C ) , 56 % humidity , wind WNW 13 miles per hour ( 21 km / h )

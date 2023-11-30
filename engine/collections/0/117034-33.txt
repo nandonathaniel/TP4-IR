@@ -1,0 +1,1 @@
+meaning that the three scalar components of the resulting vector s = s i + s j + s k = u × v are

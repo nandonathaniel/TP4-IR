@@ -1,0 +1,1 @@
+`` Barberpole Flanger '' are algorithms that offers simple Barberpole Flanging implementation , and is known also as `` infinite flanging '' . Similar to the Shepard tone effect , the sweep of the `` flanged sound seems to move in only one direction ( '' up '' or `` down '' ) infinitely , instead of sweeping back - and - forth . ''

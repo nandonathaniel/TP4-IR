@@ -1,0 +1,1 @@
+Target Practice : While standing on rotating platforms , players must try and throw balls across to their respective goals to score points . If any player falls off , their competitor can continue the round until they fall off or run out of balls . After two rounds , the player with the most points win . Played by : Cory vs. Matt

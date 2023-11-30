@@ -1,0 +1,1 @@
+setvbuf Sets the buffer and its size for a file stream

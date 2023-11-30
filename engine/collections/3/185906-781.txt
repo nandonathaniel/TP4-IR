@@ -1,0 +1,1 @@
+All models support : MMX , SSE , SSE2 , SSE3 , SSSE3 , SSE4. 1 , SSE4. 2 , AVX , AVX2 , FMA3 , SGX , MPX , Enhanced Intel SpeedStep Technology ( EIST ) , Intel 64 , XD bit ( an NX bit implementation ) , Intel VT - x , Intel VT - d , Turbo Boost , Hyper - threading , AES - NI , Smart Cache , and configurable TDP ( cTDP ) down .

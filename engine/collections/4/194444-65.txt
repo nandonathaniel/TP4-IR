@@ -1,0 +1,1 @@
+E n = − h c R ∞ Z 2 n 2 ( \ displaystyle E_ ( n ) = - hcR_ ( \ infty ) ( \ frac ( Z ^ ( 2 ) ) ( n ^ ( 2 ) ) ) )

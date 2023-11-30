@@ -1,0 +1,1 @@
+where Ω describes the width of the initial state but need not be the same as ω . Through integration over the propagator , we can solve for the full time - dependent solution . After many cancelations , the probability densities reduce to

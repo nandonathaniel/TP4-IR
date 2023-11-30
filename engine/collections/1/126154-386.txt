@@ -1,0 +1,1 @@
+This update adds support for the new TV app on iPhone , iPad , iPod touch , and Apple TV .

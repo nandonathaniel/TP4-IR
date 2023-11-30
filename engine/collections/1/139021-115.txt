@@ -1,0 +1,1 @@
+A = ∫ a b ( f ( x ) − g ( x ) ) d x , ( \ displaystyle A = \ int _ ( a ) ^ ( b ) ( f ( x ) - g ( x ) ) \ , dx , ) where f ( x ) ( \ displaystyle f ( x ) ) is the curve with the greater y - value .

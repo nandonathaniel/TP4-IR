@@ -1,0 +1,1 @@
+`` time in zone A '' − `` UTC offset for zone A '' = `` time in zone B '' − `` UTC offset for zone B '' ,

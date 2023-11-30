@@ -1,0 +1,1 @@
+The Darwin term affects only the s orbitals . This is because the wave function of an electron with l > 0 ( \ displaystyle l > 0 ) vanishes at the origin , hence the delta function has no effect . For example , it gives the 2s orbital the same energy as the 2p orbital by raising the 2s state by 6977145109124427590 ♠ 9.057 × 10 eV .

@@ -1,0 +1,1 @@
+In the area of mathematics , arguably the largest contribution to the study of complex systems was the discovery of chaos in deterministic systems , a feature of certain dynamical systems that is strongly related to nonlinearity . The study of neural networks was also integral in advancing the mathematics needed to study complex systems .

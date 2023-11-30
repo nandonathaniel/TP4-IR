@@ -1,0 +1,1 @@
+As a liquid is supercooled , the difference in entropy between the liquid and solid phase decreases . By extrapolating the heat capacity of the supercooled liquid below its glass transition temperature , it is possible to calculate the temperature at which the difference in entropies becomes zero . This temperature has been named the Kauzmann temperature .

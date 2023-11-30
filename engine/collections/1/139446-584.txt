@@ -1,0 +1,1 @@
+6.0 a2 Firefox 6.0 Aurora May 25 , 2011 First Firefox 6.0 Aurora build .

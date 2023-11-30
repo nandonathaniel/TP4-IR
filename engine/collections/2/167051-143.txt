@@ -1,0 +1,1 @@
+We reiterate that the extensive volume V is related to the volume per particle v = V / N where N = nN is the number of particles in the system . The equation of state does not give us all the thermodynamic parameters of the system . We can take the equation for the Helmholtz energy A

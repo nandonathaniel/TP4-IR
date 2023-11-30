@@ -1,0 +1,1 @@
+F = 1 4 π ε 0 q Q r 2 = k e q Q r 2 , ( \ displaystyle F = ( \ frac ( 1 ) ( 4 \ pi \ varepsilon _ ( 0 ) ) ) ( \ frac ( qQ ) ( r ^ ( 2 ) ) ) = k_ ( e ) ( \ frac ( qQ ) ( r ^ ( 2 ) ) ) \ , , )

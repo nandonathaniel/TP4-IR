@@ -1,0 +1,1 @@
+In radiography voltage is usually expressed in k V p ( \ displaystyle \ mathrm ( kV_ ( p ) ) ) ( thousands of volts peak ) , the effective current in mA and the time in seconds :

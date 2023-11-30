@@ -1,0 +1,1 @@
+Both of the above relations hold good for the proteins which have an even number of cysteines and all the cysteines are involved in the formation of disulfide bonds . Both of the above formulae are derived using the same logic and essentially represent a simplification of the same starting formula .

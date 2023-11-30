@@ -1,0 +1,1 @@
+This is used for situations in which processes are easily divided into different groups . For example , a common division is made between foreground ( interactive ) processes and background ( batch ) processes . These two types of processes have different response - time requirements and so may have different scheduling needs . It is very useful for shared memory problems .

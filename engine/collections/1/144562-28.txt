@@ -1,0 +1,1 @@
+sin ⁡ A a = sin ⁡ B b = sin ⁡ C c . ( \ displaystyle ( \ frac ( \ sin A ) ( a ) ) \ , = \ , ( \ frac ( \ sin B ) ( b ) ) \ , = \ , ( \ frac ( \ sin C ) ( c ) ) . )

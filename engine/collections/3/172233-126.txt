@@ -1,0 +1,1 @@
+9 ( t 2 ) + 6 ( t 1 ) + 0 ( t 0 ) . ( \ displaystyle 9 ( \ tbinom ( t ) ( 2 ) ) + 6 ( \ tbinom ( t ) ( 1 ) ) + 0 ( \ tbinom ( t ) ( 0 ) ) . )

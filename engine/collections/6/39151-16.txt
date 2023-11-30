@@ -1,0 +1,1 @@
+P is the power ( energy per unit time ) converted from electrical energy to thermal energy , I is the current traveling through the resistor or other element , V A − V B ( \ displaystyle V_ ( A ) - V_ ( B ) ) is the voltage drop across the element .

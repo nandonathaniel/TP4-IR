@@ -1,0 +1,1 @@
+In written mathematical logic , the tilde represents negation : `` ~ p '' means `` not p '' , where `` p '' is a proposition . Modern use often replaces the tilde with the negation symbol ( ¬ ) for this purpose , to avoid confusion with equivalence relations .

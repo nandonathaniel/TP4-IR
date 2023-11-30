@@ -1,0 +1,1 @@
+B x = A x B z A z ( \ displaystyle B_ ( x ) = A_ ( x ) ( \ frac ( B_ ( z ) ) ( A_ ( z ) ) ) )

@@ -1,0 +1,1 @@
+R 2 = 1 − ( L ( θ ^ ) L ( 0 ) ) 2 / n ( \ displaystyle R ^ ( 2 ) = 1 - \ left ( ( L ( ( \ hat ( \ theta ) ) ) \ over L ( 0 ) ) \ right ) ^ ( 2 / n ) )

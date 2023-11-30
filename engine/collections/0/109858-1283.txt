@@ -1,0 +1,1 @@
+Voice commands are now executable for different users on device . Device can now translate voice into text and vice versa . Available in English ( UK , US , and Australia ) , French , and German .

@@ -1,0 +1,1 @@
+Also for encodings based on ASCII , including the DOS , Windows , ISO - 8859 and Macintosh families of encodings .

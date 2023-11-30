@@ -1,0 +1,1 @@
+Cardinal / graded systems Score voting Approval voting ( Unified Primary ) Multi-winner approval voting ( Proportional , Sequential proportional , Satisfaction ) Majority judgment STAR voting

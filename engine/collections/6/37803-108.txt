@@ -1,0 +1,1 @@
+q = heat transfer rate ( W ) h = convective heat transfer coefficient ( W / ( m K ) ) t = wall thickness ( m ) k = wall thermal conductivity ( W / m K ) A = area ( m ) Δ T ( \ displaystyle \ Delta T ) = difference in temperature .

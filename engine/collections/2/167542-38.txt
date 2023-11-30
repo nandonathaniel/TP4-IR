@@ -1,0 +1,1 @@
+GPRS Coding scheme Bitrate including RLC / MAC overhead ( kbit / s / slot ) Bitrate excluding RLC / MAC overhead ( kbit / s / slot ) Modulation Code rate CS - 1 9.20 8.00 GMSK 1 / 2 CS - 2 13.55 12.00 GMSK ≈ 2 / 3 CS - 3 15.75 14.40 GMSK ≈ 3 / 4 CS - 4 21.55 20.00 GMSK

@@ -1,0 +1,1 @@
+4 x 2 − 8 x + 16 = A ( x 2 − 4 x + 8 ) + ( B x + C ) x ( \ displaystyle 4x ^ ( 2 ) - 8x + 16 = A ( x ^ ( 2 ) - 4x + 8 ) + ( Bx + C ) x )

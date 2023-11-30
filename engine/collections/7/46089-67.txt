@@ -1,0 +1,1 @@
+Commutative laws a ∨ b = b ∨ a , a ∧ b = b ∧ a . Associative laws a ∨ ( b ∨ c ) = ( a ∨ b ) ∨ c , a ∧ ( b ∧ c ) = ( a ∧ b ) ∧ c . Absorption laws a ∨ ( a ∧ b ) = a , a ∧ ( a ∨ b ) = a .

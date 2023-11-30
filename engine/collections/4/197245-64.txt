@@ -1,0 +1,1 @@
+Currency ( symbols , positions of currency markers , and reasonable amounts due to different inflation history ) - ISO 4217 codes are often used for internationalization

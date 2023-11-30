@@ -1,0 +1,1 @@
+The format of the service is similar to that of radio time signal services . At set intervals ( e.g . ten seconds ) a voice announces ( for example ) `` At the third stroke , the time will be twelve forty - six and ten seconds ... '' , with three beeps following . Some countries have sponsored time announcements and include the sponsor 's name in the message .

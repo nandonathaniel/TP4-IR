@@ -1,0 +1,1 @@
+GFR is the glomerular filtration rate . K is the filtration coefficient -- a proportionality constant P is the glomerular capillary hydrostatic pressure P is the Bowman 's capsule hydrostatic pressure π is the glomerular capillary oncotic pressure π is the Bowman 's capsule oncotic pressure

@@ -1,0 +1,1 @@
+( IATA : RDU , ICAO : KRDU , FAA LID : RDU )

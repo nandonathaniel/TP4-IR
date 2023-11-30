@@ -1,0 +1,1 @@
+The first multi-chip 16 - bit microprocessor was the National Semiconductor IMP - 16 , introduced in early 1973 . An 8 - bit version of the chipset was introduced in 1974 as the IMP - 8 .

@@ -1,0 +1,1 @@
+A flaw that was executed by mounting a maliciously crafted disk image and may lead to a device shutdown or arbitrary code execution is now fixed .

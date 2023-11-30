@@ -1,0 +1,1 @@
+A simple empirical equation for the speed of sound in sea water with reasonable accuracy for the world 's oceans is due to Mackenzie :

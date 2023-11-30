@@ -1,0 +1,1 @@
+Most of the reviews about this IGP were negative , since many games ( such as Splinter Cell : Chaos Theory or Oblivion ) need Pixel Shader 2.0 or higher , that is supported in hardware , and Vertex Shader 2.0 , that is software - emulated . Other games such as Crysis will start , but with frame rates below acceptable .

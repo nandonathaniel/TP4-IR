@@ -1,0 +1,1 @@
+e ln ⁡ x = x if x > 0 ( \ displaystyle e ^ ( \ ln x ) = x \ qquad ( \ text ( if ) ) x > 0 )

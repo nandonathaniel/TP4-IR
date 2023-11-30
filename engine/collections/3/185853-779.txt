@@ -1,0 +1,1 @@
+Pentium P6200 SLBUA ( K0 ) 2.13 GHz N / A 500 -- 667 MHz 2 × 256 KiB 3 MiB DMI 16 × 2 × DDR3 - 1066 0.775 -- 1.4 V 35 W Socket G1 September 26 , 2010 CP80617004122AW OEM

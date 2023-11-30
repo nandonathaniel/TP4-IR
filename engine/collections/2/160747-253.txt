@@ -1,0 +1,1 @@
+Batting position Player Score Opponent Venue Date

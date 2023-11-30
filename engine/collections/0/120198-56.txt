@@ -1,0 +1,1 @@
+An MSE of zero , meaning that the estimator θ ^ ( \ displaystyle ( \ hat ( \ theta ) ) ) predicts observations of the parameter θ ( \ displaystyle \ theta ) with perfect accuracy , is the ideal , but is typically not possible .

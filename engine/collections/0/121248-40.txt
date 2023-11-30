@@ -1,0 +1,1 @@
+Apart from isolated , simple phase transitions , there exist transition lines as well as multicritical points , when varying external parameters like the magnetic field or composition .

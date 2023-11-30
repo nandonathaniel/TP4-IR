@@ -1,0 +1,1 @@
+K m 1 − ( K m 1 − K m 2 ) ( X ) ( X ) + K x ( \ displaystyle K_ ( m1 ) - ( K_ ( m1 ) - K_ ( m2 ) ) ( \ cfrac ( \ ce ( ( X ) ) ) ( ( ( \ ce ( X ) ) ) + K_ ( x ) ) ) )

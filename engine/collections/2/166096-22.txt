@@ -1,0 +1,1 @@
+When software is installed using Windows Installer or other installers that are aware of System Restore

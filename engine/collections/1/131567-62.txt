@@ -1,0 +1,1 @@
+The dependence of the current density on the applied electric field is essentially quantum mechanical in nature ; ( see Classical and quantum conductivity . ) A qualitative description leading to Ohm 's law can be based upon classical mechanics using the Drude model developed by Paul Drude in 1900 .

@@ -1,0 +1,1 @@
+there exists a polynomial - time Turing machine that halts with f ( w ) on its tape on any input w .

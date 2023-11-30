@@ -1,0 +1,1 @@
+B : Normalized to ( 0 -- 255 ) ( byte ) H : Normalized to ( 0 -- 100 ) ( hundred )

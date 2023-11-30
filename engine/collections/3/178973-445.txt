@@ -1,0 +1,1 @@
+Updated info dialog for Chrome app on Windows and Linux

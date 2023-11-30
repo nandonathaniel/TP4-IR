@@ -1,0 +1,1 @@
+Subnetting in IPv6 is based on the concepts of variable - length subnet masking ( VLSM ) and the Classless Inter-Domain Routing methodology . It is used to route traffic between the global allocation spaces and within customer networks between subnets and the Internet at large .

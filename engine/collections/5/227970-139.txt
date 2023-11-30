@@ -1,0 +1,1 @@
+c n ( s ) = ∑ a = 1 gcd ( a , n ) = 1 n e 2 π i a n s . ( \ displaystyle c_ ( n ) ( s ) = \ sum _ ( a = 1 \ atop \ gcd ( a , n ) = 1 ) ^ ( n ) e ^ ( 2 \ pi i ( \ frac ( a ) ( n ) ) s ) . )

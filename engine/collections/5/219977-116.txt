@@ -1,0 +1,1 @@
+_Bool _Complex _Imaginary inline restrict

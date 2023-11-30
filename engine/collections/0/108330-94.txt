@@ -1,0 +1,1 @@
+A076336 Sierpinski numbers ( 78557 , 271129 , 271577 , 322523 , 327739 , 482719 , 575041 , 603713 , 903983 , 934909 , ... ) Odd k for which ( k ⋅ 2 + 1 : n ∈ N ) consists only of composite numbers .

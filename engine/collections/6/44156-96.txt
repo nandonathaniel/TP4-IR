@@ -1,0 +1,1 @@
+Mail can filter messages , either by unread / read , or by categories .

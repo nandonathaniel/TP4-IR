@@ -1,0 +1,1 @@
+Apple Time Capsule product codes are constructed with the 5 first characters identifying the `` product version '' and the remaining ones indicating the localization , such as country - specific power supply .

@@ -1,0 +1,1 @@
+F = G m 1 m 2 r 2 ( \ displaystyle F = G ( \ frac ( m_ ( 1 ) m_ ( 2 ) ) ( r ^ ( 2 ) ) ) \ ) where : F is the force between the masses ; G is the gravitational constant ( 6.674 × 10 N ( m / kg ) ) ; m is the first mass ; m is the second mass ; r is the distance between the centers of the masses .

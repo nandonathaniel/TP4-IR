@@ -1,0 +1,1 @@
+Partial derivative Multiple integral Line integral Surface integral Volume integral Jacobian Hessian matrix

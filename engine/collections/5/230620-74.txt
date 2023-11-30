@@ -1,0 +1,1 @@
+Suppose Q ( x ) = ( x − α ) S ( x ) and S ( α ) ≠ 0 . Then Q ( x ) has a zero α of multiplicity r , and in the partial fraction decomposition , r of the partial fractions will involve the powers of ( x − α ) . For illustration , take S ( x ) = 1 to get the following decomposition :

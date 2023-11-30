@@ -1,0 +1,1 @@
+Var ⁡ ( Z ) / Var ⁡ ( X ) ≈ 1 + 2 δ ( β − 1 ) . ( \ displaystyle \ operatorname ( Var ) ( Z ) / \ operatorname ( Var ) ( X ) \ approx 1 + 2 \ delta ( \ beta - 1 ) . )

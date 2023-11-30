@@ -1,0 +1,1 @@
+In addition to methods employed for transaction security and secrecy , all communications traffic between the ATM and the Transaction Processor may also be encrypted using methods such as SSL .

@@ -1,0 +1,1 @@
+a x + b y + c = 0 ( \ displaystyle ax + by + c = 0 )

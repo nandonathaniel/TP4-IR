@@ -1,0 +1,1 @@
+Audiobooks without artwork are now shown with a book icon instead of a note icon .

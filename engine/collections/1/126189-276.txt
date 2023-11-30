@@ -1,0 +1,1 @@
+GeeXboX Live CD media center Linux distribution , mainly to play special - encoded video files ( e.g. : . ogg , XVID ) on home theater .

@@ -1,0 +1,1 @@
+Process management Interrupts Memory management File system Device drivers Networking Security I / O

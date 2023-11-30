@@ -1,0 +1,1 @@
+The contour integral can also frequently be found with a subscript capital letter C , ∮ , denoting that a closed loop integral is , in fact , around a contour C , or sometimes dually appropriately , a circle C. In representations of Gauss 's Law , a subscript capital S , ∮ , is used to denote that the integration is over a closed surface .

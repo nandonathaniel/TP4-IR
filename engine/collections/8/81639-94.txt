@@ -1,0 +1,1 @@
+A connected storage device , such as a hard drive , is accessed through a device driver . The device driver understands the specific language of the drive and is able to translate that language into a standard language used by the operating system to access all disk drives . On UNIX , this is the language of block devices .

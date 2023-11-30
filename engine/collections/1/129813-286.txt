@@ -1,0 +1,1 @@
+p a = 2 a T a 2 + b 2 − c 2 , ( \ displaystyle p_ ( a ) = ( \ frac ( 2aT ) ( a ^ ( 2 ) + b ^ ( 2 ) - c ^ ( 2 ) ) ) , )

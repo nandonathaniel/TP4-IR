@@ -1,0 +1,1 @@
+Operation of the system is highly dependent on main controllers . In case one of the main controllers fails , events from its sub-controllers are not retrieved , and functions that require interaction between sub-controllers ( i.e. anti-passback ) stop working .

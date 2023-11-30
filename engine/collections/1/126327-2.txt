@@ -1,0 +1,1 @@
+Improved framerate stability Games utilizing a dynamic resolution will hit their max resolution more often , or at all times 16x anisotropic filtering Forced V - sync to decrease or eliminate Screen tearing . Variable refresh rate compatibility ( when used with a compatible display )

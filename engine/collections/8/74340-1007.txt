@@ -1,0 +1,1 @@
+Re-introduced the ability to cancel and delete apps that are currently downloading .

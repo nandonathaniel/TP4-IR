@@ -1,0 +1,1 @@
+Q H − Q C < ( 1 − T C T H ) Q H ( \ displaystyle Q_ ( H ) - Q_ ( C ) < \ left ( 1 - ( \ frac ( T_ ( C ) ) ( T_ ( H ) ) ) \ right ) Q_ ( H ) ) or Q C > T C T H Q H ( \ displaystyle Q_ ( C ) > ( \ frac ( T_ ( C ) ) ( T_ ( H ) ) ) Q_ ( H ) )

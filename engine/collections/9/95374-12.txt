@@ -1,0 +1,1 @@
+In the default mode , the device continuously listens to all speech , monitoring for the wake word to be spoken , which is primarily set up as `` Alexa '' ( derived from Alexa Internet , the Amazon - owned Internet indexing company ) . Echo 's microphones can be manually disabled by pressing a mute button to turn off the audio processing circuit .

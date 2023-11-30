@@ -1,0 +1,1 @@
+Bug fixes and improvements , including a fix for an issue that causes FaceTime calls to fail for some users .

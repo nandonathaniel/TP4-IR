@@ -1,0 +1,1 @@
+Does LP admit a strongly polynomial - time algorithm ?

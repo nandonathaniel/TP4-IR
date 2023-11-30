@@ -1,0 +1,1 @@
+Both a database and its DBMS conform to the principles of a particular database model . `` Database system '' refers collectively to the database model , database management system , and database .

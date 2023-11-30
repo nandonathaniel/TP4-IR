@@ -1,0 +1,1 @@
+Gradient : The gradient g r a d φ ( \ displaystyle \ mathrm ( grad \ , ) \ varphi ) of the scalar field φ ( \ displaystyle \ varphi ) is a vector , which is symbolically expressed by the multiplication of ∇ and scalar field φ ( \ displaystyle \ varphi ) ,

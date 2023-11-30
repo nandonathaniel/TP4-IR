@@ -1,0 +1,1 @@
+Variable refresh rate compatibility ( when used with a compatible display )

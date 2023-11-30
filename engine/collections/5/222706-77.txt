@@ -1,0 +1,1 @@
+Modern communications environments use full - duplex ( both directions simultaneously ) modems . In that environment , DTEs have no reason to deassert RTS . However , due to the possibility of changing line quality , delays in processing of data , etc. , there is a need for symmetric , bidirectional flow control .

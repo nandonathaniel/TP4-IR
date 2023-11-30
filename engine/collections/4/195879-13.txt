@@ -1,0 +1,1 @@
+The windings of a 3 phase alternator may be connected using either the Delta or Star ( Wye ) connection regime set - up .

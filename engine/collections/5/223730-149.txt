@@ -1,0 +1,1 @@
+More support for touch and stylus in Windows Presentation Foundation ( WPF )

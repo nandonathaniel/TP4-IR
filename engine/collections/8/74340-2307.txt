@@ -1,0 +1,1 @@
+Can swipe all the way across the screen to the right to mark as read / unread .

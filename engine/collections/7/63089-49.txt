@@ -1,0 +1,1 @@
+In the row - major order layout ( adopted by C for statically declared arrays ) , the elements in each row are stored in consecutive positions and all of the elements of a row have a lower address than any of the elements of a consecutive row :

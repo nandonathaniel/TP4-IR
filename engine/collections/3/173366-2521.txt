@@ -1,0 +1,1 @@
+`` Display and Brightness '' : Brightness settings were moved here and Text Size and Bold Text from General and Accessibility is now included . `` Wallpapers '' is now a standalone menu .

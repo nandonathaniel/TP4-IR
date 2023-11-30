@@ -1,0 +1,1 @@
+39 Add 4 times the last digit to the rest . 351 : 35 + ( 1 × 4 ) = 39

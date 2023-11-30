@@ -1,0 +1,1 @@
+For a regular tetrahedron with side length a , radius R of its circumscribing sphere , and distances d from an arbitrary point in 3 - space to its four vertices , we have

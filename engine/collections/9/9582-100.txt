@@ -1,0 +1,1 @@
+P j = C j ⊕ O j ( \ displaystyle P_ ( j ) = C_ ( j ) \ oplus O_ ( j ) )

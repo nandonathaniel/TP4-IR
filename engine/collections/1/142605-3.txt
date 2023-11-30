@@ -1,0 +1,1 @@
+u ^ = u u ( \ displaystyle \ mathbf ( \ hat ( u ) ) = ( \ frac ( \ mathbf ( u ) ) ( \ mathbf ( u ) ) ) )

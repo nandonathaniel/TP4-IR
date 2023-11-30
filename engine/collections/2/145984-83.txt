@@ -1,0 +1,1 @@
+Processor Intel Atom Z520 ( 1.33 GHz ) Intel Atom Z530 ( 1.60 GHz ) Intel Atom N450 ( 1.66 GHz ) Intel Atom N270 ( 1.60 GHz ) Intel Atom N280 ( 1.66 GHz ) Intel Atom N455 ( 1.66 GHz )

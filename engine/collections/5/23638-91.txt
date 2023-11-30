@@ -1,0 +1,1 @@
+Type of tool ( a small drill or a large drill , high speed or carbide , a boxtool or recess , a thin form tool or wide form tool , a slide knurl or a turret straddle knurl ) .

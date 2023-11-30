@@ -1,0 +1,1 @@
+The Cpf1 - crRNA complex cleaves target DNA or RNA by identification of a protospacer adjacent motif 5 ' - YTN - 3 ' ( where `` Y '' is a pyrimidine and `` N '' is any nucleobase ) or 5 ' - TTN - 3 ' , in contrast to the G - rich PAM targeted by Cas9 . After identification of PAM , Cpf1 introduces a sticky - end - like DNA double - stranded break of 4 or 5 nucleotides overhang .

@@ -1,0 +1,1 @@
+Most Wi - Fi certified devices default to regdomain 0 , which means least common denominator settings , i.e. , the device will not transmit at a power above the allowable power in any nation , nor will it use frequencies that are not permitted in any nation .

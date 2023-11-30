@@ -1,0 +1,1 @@
+σ = ∫ X ( x − μ ) 2 p ( x ) d x , w h e r e μ = ∫ X x p ( x ) d x , ( \ displaystyle \ sigma = ( \ sqrt ( \ int _ ( \ mathbf ( X ) ) ( x - \ mu ) ^ ( 2 ) \ , p ( x ) \ , ( \ rm ( d ) ) x ) ) , ( \ rm ( \ \ where \ \ ) ) \ mu = \ int _ ( \ mathbf ( X ) ) x \ , p ( x ) \ , ( \ rm ( d ) ) x , )

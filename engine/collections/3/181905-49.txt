@@ -1,0 +1,1 @@
+F ( 0 ) = a ( \ displaystyle F ( 0 ) = a ) F ( n + 1 ) = f ( F ( n ) ) ( \ displaystyle F ( n + 1 ) = f ( F ( n ) ) )

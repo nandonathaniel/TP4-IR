@@ -1,0 +1,1 @@
+D v D t = − ∇ p + 1 R e ∇ 2 v + f . ( \ displaystyle ( \ frac ( D \ mathbf ( v ) ) ( Dt ) ) = - \ nabla p+ ( \ frac ( 1 ) ( \ mathrm ( Re ) ) ) \ nabla ^ ( 2 ) \ mathbf ( v ) + \ mathbf ( f ) . )

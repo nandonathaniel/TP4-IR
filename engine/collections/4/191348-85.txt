@@ -1,0 +1,1 @@
+a × ( b − c ) = 0 a ⋅ ( b − c ) = 0 , ( \ displaystyle ( \ begin ( aligned ) \ mathbf ( a ) \ times ( \ mathbf ( b ) - \ mathbf ( c ) ) & = \ mathbf ( 0 ) \ \ \ mathbf ( a ) \ cdot ( \ mathbf ( b ) - \ mathbf ( c ) ) & = 0 , \ end ( aligned ) ) )

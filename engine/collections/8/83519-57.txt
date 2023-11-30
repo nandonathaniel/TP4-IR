@@ -1,0 +1,1 @@
+CAS is converted to equivalent airspeed ( EAS ) by allowing for compressibility effects .

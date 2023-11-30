@@ -1,0 +1,1 @@
+A status line which includes the status code and reason message ( e.g. , HTTP / 1.1 200 OK , which indicates that the client 's request succeeded ) . Response header fields ( e.g. , Content - Type : text / html ) . An empty line . An optional message body .

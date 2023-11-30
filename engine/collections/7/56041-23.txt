@@ -1,0 +1,1 @@
+d ( E ) d t = d ( ES ) d t = d ( EI ) d t = 0 . ( \ displaystyle ( \ frac ( d ( ( \ ce ( E ) ) ) ) ( dt ) ) = ( \ frac ( d ( ( \ ce ( ES ) ) ) ) ( dt ) ) = ( \ frac ( d ( ( \ ce ( EI ) ) ) ) ( dt ) ) = 0 . )

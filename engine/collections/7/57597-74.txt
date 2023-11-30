@@ -1,0 +1,1 @@
+10.0. 8 March 26 , 2013 Sony XAVC codec support Arri Alexa Log C to Rec 709 LUT Bug Fixes and Performance Enhancements .

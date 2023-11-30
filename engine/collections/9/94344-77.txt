@@ -1,0 +1,1 @@
+NIST hash function competition MD5 Bernstein hash Fowler - Noll - Vo hash function ( 32 , 64 , 128 , 256 , 512 , or 1024 bits ) Jenkins hash function ( 32 bits ) Pearson hashing ( 64 bits ) Zobrist hashing

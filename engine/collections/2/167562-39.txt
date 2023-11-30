@@ -1,0 +1,1 @@
+Wavenumber , k , is the spatial frequency analogue of angular temporal frequency and is measured in radians per meter . In the case of more than one spatial dimension , wavenumber is a vector quantity .

@@ -1,0 +1,1 @@
+Black - box testing involves testing interfaces and the integration of the database , which includes :

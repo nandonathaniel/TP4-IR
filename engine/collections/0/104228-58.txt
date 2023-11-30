@@ -1,0 +1,1 @@
+Power Built - in rechargeable Li - Po battery 1st gen : 3.7 V 2.15 W h ( 580 mA h ) 2nd gen : 3.7 V 2.73 W h ( 739 mA h ) 3rd gen : 3.7 V 2.92 W h ( 789 mA h ) 4th gen : 3.7 V 3.44 W h ( 930 mA h ) 5th gen : 3.7 V 3.8 W h ( 1030 mA h ) 6th gen : 3.83 V 3.99 W h ( 1043 mA h )

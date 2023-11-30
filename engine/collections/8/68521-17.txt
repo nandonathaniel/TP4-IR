@@ -1,0 +1,1 @@
+Numerous : AMPL , AWK , csh , C++ , C -- , C# , Objective - C , BitC , D , Go , Java , JavaScript , Julia , Limbo , LPC , Perl , PHP , Pike , Processing , Python , Rust , Seed7 , Vala , Verilog ( HDL )

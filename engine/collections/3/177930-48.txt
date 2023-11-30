@@ -1,0 +1,1 @@
+The absolute refractory period is largely responsible for the unidirectional propagation of action potentials along axons . At any given moment , the patch of axon behind the actively spiking part is refractory , but the patch in front , not having been activated recently , is capable of being stimulated by the depolarization from the action potential .

@@ -1,0 +1,1 @@
+where T = shear force Q = first moment of area of the section above / below the neutral axis w = width of the beam I = second moment of area of the beam

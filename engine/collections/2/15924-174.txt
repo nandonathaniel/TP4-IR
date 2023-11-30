@@ -1,0 +1,1 @@
+Statistics ( M , SD , variance , skewness , kurtosis ) Stem - and - leaf displays Box plots

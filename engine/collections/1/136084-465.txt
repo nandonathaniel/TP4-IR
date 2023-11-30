@@ -1,0 +1,1 @@
+Binomial random variables , associated with binary response variables ;

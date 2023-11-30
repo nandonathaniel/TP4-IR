@@ -1,0 +1,1 @@
+Effective * Horizontal * * Lethal * * * Maximum * * * * 10 shot group @ 100 meters 10 shot group @ 300 meters

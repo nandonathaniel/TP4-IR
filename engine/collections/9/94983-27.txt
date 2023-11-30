@@ -1,0 +1,1 @@
+Docking systems are shipped in their individual components , requiring the user to install and configure the device .

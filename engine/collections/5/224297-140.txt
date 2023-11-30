@@ -1,0 +1,1 @@
+All h1 elements in the document will then automatically become red without any requiring any explicit code . If the author later wanted to make h1 elements blue instead , this could be done by changing the style element to :

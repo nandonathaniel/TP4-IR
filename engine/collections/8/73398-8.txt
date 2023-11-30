@@ -1,0 +1,1 @@
+Full virtualization -- almost complete simulation of the actual hardware to allow software , which typically consists of a guest operating system , to run unmodified .

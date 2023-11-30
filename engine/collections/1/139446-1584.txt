@@ -1,0 +1,1 @@
+Fixed a problem in which users who import cookies from Google Chrome can end up with broken websites .

@@ -1,0 +1,1 @@
+Colin McRae Rally 2005 While on the main menu there is some texture flickering in the background image . Before the start of a race graphical artifacts appear on text on screen . During single and multiplayer races there are minor performance drops .

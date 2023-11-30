@@ -1,0 +1,1 @@
+R = 1 M ∫∫∫ Q ρ ( r ) r d V , ( \ displaystyle \ mathbf ( R ) = ( \ frac ( 1 ) ( M ) ) \ iiint \ limits _ ( Q ) \ rho ( \ mathbf ( r ) ) \ mathbf ( r ) dV , )

@@ -1,0 +1,1 @@
+Multi-layer switching can move traffic at wire speed and also provide layer 3 routing , which can remove the bottleneck from the network routers . This technology is based on the idea of `` route once , switch many '' .

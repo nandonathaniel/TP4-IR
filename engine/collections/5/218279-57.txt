@@ -1,0 +1,1 @@
+Income Tax rate Effective tax rate Max tax of bracket Cumulative tax $0 -- $14,000 10.5 % 10.5 % $1,470 $1,470 $14,001 -- $48,000 17.5 % 10.5 - 15.5 % $5,950 $7,420 $48,001 -- $70,000 30 % 15.5 - 20.0 % $6,600 $14,020 Over $70,000 33 % 20.0 - 33.0 % $14,020 + 33 % No - notification rate 48 % 45 %

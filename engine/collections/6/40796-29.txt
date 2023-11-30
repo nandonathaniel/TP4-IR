@@ -1,0 +1,1 @@
+Looking at the template , standard layouts are fairly self - explanatory , but if you start getting into non-standard layouts , there are a couple things you should be aware of .

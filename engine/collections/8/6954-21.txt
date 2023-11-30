@@ -1,0 +1,1 @@
+Hysteresis is essential to the workings of some memristors ( circuit components which `` remember '' changes in the current passing through them by changing their resistance ) .

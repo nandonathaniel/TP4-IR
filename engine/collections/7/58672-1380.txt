@@ -1,0 +1,1 @@
+Camera face detection now highlights all detected faces .

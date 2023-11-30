@@ -1,0 +1,1 @@
+γ = ω F 2 E i ( \ displaystyle \ gamma = ( \ frac ( \ omega F ) ( \ sqrt ( 2E_ ( i ) ) ) ) ) is the Keldysh 's adiabaticity parameter , n ∗ = 2 E i Z 2 ( \ displaystyle n ^ ( * ) = ( \ frac ( \ sqrt ( 2E_ ( i ) ) ) ( Z ^ ( 2 ) ) ) ) , F ( \ displaystyle F ) is the peak electric field of laser and l ∗ = n ∗ − 1 ( \ displaystyle l ^ ( * ) = n ^ ( * ) - 1 ) .

@@ -1,0 +1,1 @@
+More complex are aspheric lenses . These are lenses where one or both surfaces have a shape that is neither spherical nor cylindrical . The more complicated shapes allow such lenses to form images with less aberration than standard simple lenses , but they are more difficult and expensive to produce .

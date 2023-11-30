@@ -1,0 +1,1 @@
+The MVC pattern has subsequently evolved , giving rise to variants such as hierarchical model -- view -- controller ( HMVC ) , model -- view -- adapter ( MVA ) , model -- view -- presenter ( MVP ) , model -- view -- viewmodel ( MVVM ) , and others that adapted MVC to different contexts .

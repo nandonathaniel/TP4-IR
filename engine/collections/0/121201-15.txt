@@ -1,0 +1,1 @@
+For any quantities a and b and any expression F ( x ) , if a = b , then F ( a ) = F ( b ) ( if both sides make sense , i.e. are well - formed ) .

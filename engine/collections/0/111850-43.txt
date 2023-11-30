@@ -1,0 +1,1 @@
+The 2 - norm and ∞ - norm are strictly convex , and thus ( by convex optimization ) the minimizer is unique ( if it exists ) , and exists for bounded distributions . Thus standard deviation about the mean is lower than standard deviation about any other point , and the maximum deviation about the midrange is lower than the maximum deviation about any other point .

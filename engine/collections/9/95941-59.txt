@@ -1,0 +1,1 @@
+C e l l i p s e = 4 a ∫ 0 π / 2 1 − e 2 sin 2 ⁡ θ d θ , ( \ displaystyle C_ ( \ rm ( ellipse ) ) = 4a \ int _ ( 0 ) ^ ( \ pi / 2 ) ( \ sqrt ( 1 - e ^ ( 2 ) \ sin ^ ( 2 ) \ theta ) ) \ d \ theta , )

@@ -1,0 +1,1 @@
+Haiku / boot / common / settings / network / hosts

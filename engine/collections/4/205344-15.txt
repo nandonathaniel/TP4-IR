@@ -1,0 +1,1 @@
+Chemical analogs of nucleotides can take the place of proper nucleotides and establish non-canonical base - pairing , leading to errors ( mostly point mutations ) in DNA replication and DNA transcription . This is due to their isosteric chemistry . One common mutagenic base analog is 5 - bromouracil , which resembles thymine but can base - pair to guanine in its enol form .

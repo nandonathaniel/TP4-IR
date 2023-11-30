@@ -1,0 +1,1 @@
+R O C = ( z : ∑ n = − ∞ ∞ x ( n ) z − n < ∞ ) ( \ displaystyle \ mathrm ( ROC ) = \ left \ ( z : \ left \ sum _ ( n = - \ infty ) ^ ( \ infty ) x ( n ) z ^ ( - n ) \ right < \ infty \ right \ ) )

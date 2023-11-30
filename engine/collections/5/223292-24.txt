@@ -1,0 +1,1 @@
+The molar ionic conductivity of each ionic species is proportional to its electrical mobility ( μ ( \ displaystyle \ mu ) ) , or drift velocity per unit electric field , according to the equation λ = z μ F ( \ displaystyle \ lambda = z \ mu F ) , where z is the ionic charge and F is the Faraday constant .

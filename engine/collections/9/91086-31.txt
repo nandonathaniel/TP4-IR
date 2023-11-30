@@ -1,0 +1,1 @@
+max ( c T x A x ≤ b ∧ x ≥ 0 ) ( \ displaystyle \ max \ ( \ mathbf ( c ) ^ ( \ mathrm ( T ) ) \ mathbf ( x ) \ ; \ ; A \ mathbf ( x ) \ leq \ mathbf ( b ) \ land \ mathbf ( x ) \ geq 0 \ ) )

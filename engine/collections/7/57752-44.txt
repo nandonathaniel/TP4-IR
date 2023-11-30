@@ -1,0 +1,1 @@
+Older DVD drives use RPC - 1 ( `` Regional Playback Control '' ) firmware , which means the drive allows DVDs from any region to play . Newer drives use RPC - 2 firmware , which enforces the DVD region coding at the hardware level . These drives can often be reflashed or hacked with RPC - 1 firmware , effectively making the drive region - free . This may void the drive warranty .

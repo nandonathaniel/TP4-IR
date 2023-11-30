@@ -1,0 +1,1 @@
+A variation has been described in which each player tries to force his opponent to make a chain . This is a slow game . A clever proof has been discovered that the first player can win on a board with an even number of cells per side , and the second player can win on a board with an odd number .

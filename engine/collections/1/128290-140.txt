@@ -1,0 +1,1 @@
+H φ = i I δ l 4 π ( k r − i r 2 ) e − i k r sin ⁡ ( θ ) ( \ displaystyle H_ ( \ phi ) = i ( \ frac ( I \ delta \ ell ) ( 4 \ pi ) ) \ left ( ( \ frac ( k ) ( r ) ) - ( \ frac ( i ) ( r ^ ( 2 ) ) ) \ right ) e ^ ( - ikr ) \ , \ sin ( \ theta ) )

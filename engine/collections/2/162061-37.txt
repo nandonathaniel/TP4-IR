@@ -1,0 +1,1 @@
+macOS with an English keyboard layout ( Australian , British , or US ) : type ⌥ Option + U followed by ⇧ Shift + U for ⟨ Ü ⟩ or ⌥ Option + U and then U for ⟨ ü ⟩ or by keeping the U key pressed and then typing 2

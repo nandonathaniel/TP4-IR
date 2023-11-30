@@ -1,0 +1,1 @@
+The constant 5252 is the rounded value of ( 33,000 ft ⋅ lbf / min ) / ( 2π rad / rev ) .

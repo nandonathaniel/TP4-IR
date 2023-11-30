@@ -1,0 +1,1 @@
+Examples : Detects non-verbal communication cues . Estimate where a ball will land after it is thrown and then moving to the correct location to catch the ball . Adjusts heat of the stove to correct temperature by smell and taste of food . Adjusts the height of the forks on a forklift by comparing where the forks are in relation to the pallet .

@@ -1,0 +1,1 @@
+Level curves drawn on a declination map to denote the magnetic declination , described by signed degrees . Each level curve is an isogonic line . NIMA Magnetic Variation Map 2000

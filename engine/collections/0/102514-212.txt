@@ -1,0 +1,1 @@
+C i j ε i ε j = C i j ′ ε i ′ ε j ′ . ( \ displaystyle C_ ( ij ) \ varepsilon _ ( i ) \ varepsilon _ ( j ) = C_ ( ij ) ' \ varepsilon ' _ ( i ) \ varepsilon ' _ ( j ) \ , . )

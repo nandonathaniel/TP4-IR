@@ -1,0 +1,1 @@
+C P − C V = V T α ( ∂ P ∂ T ) V ( \ displaystyle C_ ( P ) - C_ ( V ) = VT \ alpha \ left ( ( \ frac ( \ partial P ) ( \ partial T ) ) \ right ) _ ( V ) \ , )

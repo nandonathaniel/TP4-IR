@@ -1,0 +1,1 @@
+When the duration of an activity is equal or less than one hour , one can use a time - weighted metabolic rate . As metabolic rates increase over 1.0 met , the evaporation of the sweat becomes an increasingly important factor , and the PMV method does not fully account for this factor .

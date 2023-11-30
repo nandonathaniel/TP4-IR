@@ -1,0 +1,1 @@
+Pr ( Y = k ) = ( 1 − p ) k p ( \ displaystyle \ Pr ( Y = k ) = ( 1 - p ) ^ ( k ) p )

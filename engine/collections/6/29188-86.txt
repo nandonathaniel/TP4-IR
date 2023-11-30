@@ -1,0 +1,1 @@
+Ultra-Low Power , as low as ( @ 2.2 V ) : 0.1 μA RAM retention 0.4 μA Standby mode ( VLO ) 0.7 μA real - time clock mode 220 μA / MIPS active Ultra-Fast Wake - Up From Standby Mode in < 1 μs

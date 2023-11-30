@@ -1,0 +1,1 @@
+18 December 1999 -- IBM mainframe patches for 2.2. 13 were published , allowing Linux kernel to be used on enterprise - class machines

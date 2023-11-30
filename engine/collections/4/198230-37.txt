@@ -1,0 +1,1 @@
+Image Packaging System ( IPS , also known as `` pkg ( 5 ) '' ) : Used by Solaris , OpenSolaris and illumos distributions like OpenIndiana and OmniOS .

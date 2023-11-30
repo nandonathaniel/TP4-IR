@@ -1,0 +1,1 @@
+α ^ , β ^ = ν ^ 2 ( 1 ± 1 1 + 16 ( ν ^ + 1 ) ( ν ^ + 2 ) 2 ( sample skewness ) 2 ) ( \ displaystyle ( \ hat ( \ alpha ) ) , ( \ hat ( \ beta ) ) = ( \ frac ( \ hat ( \ nu ) ) ( 2 ) ) \ left ( 1 \ pm ( \ frac ( 1 ) ( \ sqrt ( 1 + ( \ frac ( 16 ( ( \ hat ( \ nu ) ) + 1 ) ) ( ( ( \ hat ( \ nu ) ) + 2 ) ^ ( 2 ) ( ( \ text ( sample skewness ) ) ) ^ ( 2 ) ) ) ) ) ) \ right ) )

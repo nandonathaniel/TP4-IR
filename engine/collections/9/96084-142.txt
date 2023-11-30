@@ -1,0 +1,1 @@
+XMEGA Core ( `` avrxmega '' 2 - 6 ) ATxmega series new instructions : DES ( nothing new ) new instructions : ( from second revision silicon - AU , B , C parts ) XCH LAS LAC LAT ( nothing new )

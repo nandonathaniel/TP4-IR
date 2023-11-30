@@ -1,0 +1,1 @@
+central DNA - binding core domain ( DBD ) . Contains one zinc atom and several arginine amino acids : residues 102 - 292 . This region is responsible for binding the p53 co-repressor LMO3 .

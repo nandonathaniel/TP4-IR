@@ -1,0 +1,1 @@
+note : This equation will give the result of pressure in hPa ( 100 Pa , equivalent to the older unit millibar , 1 mbar = 0.001 bar = 0.1 kPa )

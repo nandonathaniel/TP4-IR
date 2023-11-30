@@ -1,0 +1,1 @@
+Y i = α 1 + α 2 X i + u i ( \ displaystyle Y_ ( i ) = \ alpha _ ( 1 ) + \ alpha _ ( 2 ) X_ ( i ) + u_ ( i ) )

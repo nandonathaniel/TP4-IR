@@ -1,0 +1,1 @@
+Decision Shows a conditional operation that determines which one of the two paths the program will take . The operation is commonly a yes / no question or true / false test . Represented as a diamond ( rhombus ) .

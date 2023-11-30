@@ -1,0 +1,1 @@
+sin ⁡ ( t sin ⁡ x ) = 2 ∑ k = 0 ∞ J 2 k + 1 ( t ) sin ⁡ ( ( 2 k + 1 ) x ) ( \ displaystyle \ sin ( t \ sin x ) = 2 \ sum _ ( k = 0 ) ^ ( \ infty ) J_ ( 2k + 1 ) ( t ) \ sin ( \ big ( ) ( 2k + 1 ) x ( \ big ) ) )

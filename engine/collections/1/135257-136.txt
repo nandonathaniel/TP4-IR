@@ -1,0 +1,1 @@
+Landau Potential ( Grand potential ) Ω ( \ displaystyle \ Omega ) , Φ G ( \ displaystyle \ Phi _ ( \ text ( G ) ) ) U − T S − ( \ displaystyle U-TS - ) ∑ i ( \ displaystyle \ sum _ ( i ) \ , ) μ i N i ( \ displaystyle \ mu _ ( i ) N_ ( i ) ) T , V , ( μ i ) ( \ displaystyle T , V , \ ( \ mu _ ( i ) \ ) )

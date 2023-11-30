@@ -1,0 +1,1 @@
+Attenuation over a cable run is significantly increased by the inclusion of connectors and splices . When computing the acceptable attenuation ( loss budget ) between a transmitter and a receiver one includes :

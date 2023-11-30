@@ -1,0 +1,1 @@
+Reintroduced on - screen lyrics for iPads ( this feature was absent in iOS 5 and iOS 6 ) .

@@ -1,0 +1,1 @@
+The Open Group requests that UNIX is always used as an adjective followed by a generic term such as system to help avoid the creation of a genericized trademark .

@@ -1,0 +1,1 @@
+The implementations above transition from fastest and most expensive to slowest and least costly . The square root is calculated in all cases , but processors with simple ALUs will take longer to perform the calculation because multiple ALU operations must be performed .

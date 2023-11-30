@@ -1,0 +1,1 @@
+If dividend and divisor have the same sign , the result is always positive . Another method of dividing negative numbers is that if one of the numbers being divided is a negative , the answer will be negative .

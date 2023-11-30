@@ -1,0 +1,1 @@
+The effect of an inductor in a circuit is to oppose changes in current through it by developing a voltage across it proportional to the rate of change of the current . An ideal inductor would offer no resistance to a constant direct current ; however , only superconducting inductors have truly zero electrical resistance .

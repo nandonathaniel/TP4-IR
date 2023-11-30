@@ -1,0 +1,1 @@
+i ħ ∂ ∂ t ψ ( t ) ⟩ = H ^ ψ ( t ) ⟩ ( \ displaystyle i \ hbar ( \ frac ( \ partial ) ( \ partial t ) ) \ psi ( t ) \ rangle = ( \ hat ( H ) ) \ psi ( t ) \ rangle ) Schrödinger equation

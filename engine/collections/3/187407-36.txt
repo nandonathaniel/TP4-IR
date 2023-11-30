@@ -1,0 +1,1 @@
+In this mode , also called the pass through mode , the Virtual Machine Monitor bypasses the I / O virtualization layer and passes all I / O commands directly to the device . All physical characteristics of the underlying hardware are exposed to the guest operating system . There is no file locking to provide data protection .

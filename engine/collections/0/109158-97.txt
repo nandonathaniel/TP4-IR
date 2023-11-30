@@ -1,0 +1,1 @@
+With increasing frequency the power - supply rejection usually gets worse . So it can be important to keep the supply clean of higher frequency ripples and signals , e.g. by the use of bypass capacitors .

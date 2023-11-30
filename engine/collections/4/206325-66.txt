@@ -1,0 +1,1 @@
+A coin toss at the start of overtime determines the team that first receives possession in overtime , and which end zone will be used .

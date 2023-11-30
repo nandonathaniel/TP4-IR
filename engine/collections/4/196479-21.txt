@@ -1,0 +1,1 @@
+At terminal velocity the oil drop is not accelerating . Therefore , the total force acting on it must be zero and the two forces F and w must cancel one another out ( that is , F = w ) . This implies

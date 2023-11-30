@@ -1,0 +1,1 @@
+z ^ a = ∑ p l a p F p ( \ displaystyle ( \ hat ( \ mathbf ( z ) ) ) _ ( a ) = \ sum _ ( p ) \ ell _ ( ap ) \ mathbf ( F ) _ ( p ) )

@@ -1,0 +1,1 @@
+They are normally fire - walled and restricted to run only their pre-installed software . The operating system is difficult to change and / or resides on a file server . For example , `` thin client '' machines in educational establishments may be reset to their original state between classes . Public computers are not expected to keep an individual 's data files .

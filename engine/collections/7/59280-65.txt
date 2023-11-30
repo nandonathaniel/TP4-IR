@@ -1,0 +1,1 @@
+Base lower than emitter , but collector is higher than base . It means the transistor is not letting conventional current go through from collector to emitter .

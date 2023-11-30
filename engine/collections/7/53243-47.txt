@@ -1,0 +1,1 @@
+It is useful because of two properties of the cyclomatic complexity , M , for a specific module :

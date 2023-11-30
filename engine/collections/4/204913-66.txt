@@ -1,0 +1,1 @@
+KVM , combined with QEMU , has support for virtualized TPMs . As of 2012 , it supports passing through the physical TPM chip to a single dedicated guest . QEMU 2.11 released on December 2017 also provides emulated TPMs to guests .

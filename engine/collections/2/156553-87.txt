@@ -1,0 +1,1 @@
+5 is the ASCII code of the Enquiry character , which is abbreviated to ENQ .

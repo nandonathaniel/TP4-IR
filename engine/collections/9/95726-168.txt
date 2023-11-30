@@ -1,0 +1,1 @@
+Japan Yes No No Often in the form yyyy 年 mm 月 dd 日 ; sometimes Japanese era year is used , e.g. 平成 18 年 12 月 30 日 . JIS X 0301 : 2002

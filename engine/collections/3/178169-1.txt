@@ -1,0 +1,1 @@
+The LCM is the `` lowest common denominator '' ( LCD ) that can be used before fractions can be added , subtracted or compared . The LCM of more than two integers is also well - defined : it is the smallest positive integer that is divisible by each of them .

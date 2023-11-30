@@ -1,0 +1,1 @@
+< blockquote > ... < / blockquote > presents text in an offset block .

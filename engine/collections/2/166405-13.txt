@@ -1,0 +1,1 @@
+EDLs can use either drop - frame ( DF ) or non drop - frame timecode ( NDF ) , running at 24fps ( non drop - frame only ) , 25fps ( non drop - frame only ) , and 30fps ( drop - frame and non drop - frame ) .

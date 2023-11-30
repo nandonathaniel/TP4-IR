@@ -1,0 +1,1 @@
+The exact reverse of radiative recombination is light absorption . For the same reason as above , light with a photon energy close to the band gap can penetrate much farther before being absorbed in an indirect band gap material than a direct band gap one ( at least insofar as the light absorption is due to exciting electrons across the band gap ) .

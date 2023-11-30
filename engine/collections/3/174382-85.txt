@@ -1,0 +1,1 @@
+Baselines are an important part of the systems development life cycle . These baselines are established after four of the five phases of the SDLC and are critical to the iterative nature of the model . Each baseline is considered as a milestone in the SDLC .

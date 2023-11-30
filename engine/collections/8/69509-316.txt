@@ -1,0 +1,1 @@
+Entropy unit -- a non-S.I. unit of thermodynamic entropy , usually denoted `` e.u. '' and equal to one calorie per kelvin per mole , or 4.184 joules per kelvin per mole .

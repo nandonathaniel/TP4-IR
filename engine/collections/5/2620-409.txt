@@ -1,0 +1,1 @@
+Signing into Chrome signs you into your favorite Google sites Updated look and feel with elements of Material Design Multiple performance improvements and bug fixes

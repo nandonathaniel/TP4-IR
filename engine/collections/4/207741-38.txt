@@ -1,0 +1,1 @@
+Rover : 185 kg ( 408 lb ) Lander : 348 kg ( 767 lb ) Backshell / Parachute : 209 kg ( 461 lb ) Heat Shield : 78 kg ( 172 lb ) Cruise Stage : 193 kg ( 425 lb ) Propellant : 50 kg ( 110 lb ) Instruments : 5 kg ( 11 lb )

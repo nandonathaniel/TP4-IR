@@ -1,0 +1,1 @@
+τ n e t = ( T 1 − T 2 ) r − τ f r i c t i o n = I α ( \ displaystyle \ tau _ ( \ mathrm ( net ) ) = \ left ( T_ ( 1 ) - T_ ( 2 ) \ right ) r - \ tau _ ( \ mathrm ( friction ) ) = I \ alpha )

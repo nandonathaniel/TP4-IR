@@ -1,0 +1,1 @@
+Rotary motion -- a motion about a fixed point . ( e.g. Ferris wheel ) .

@@ -1,0 +1,1 @@
+v = d s d t . ( \ displaystyle v = ( \ frac ( ds ) ( dt ) ) . )

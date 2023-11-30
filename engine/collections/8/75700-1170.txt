@@ -1,0 +1,1 @@
+If you have multiple email accounts configured in Mail. app , swipe left or right from one 's mailboxes folder list , it will take you to another account 's mailboxes .

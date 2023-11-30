@@ -1,0 +1,1 @@
+G = U + p V − T S = ( T S − p V + ∑ i μ i N i ) + p V − T S = ∑ i μ i N i . ( \ displaystyle ( \ begin ( aligned ) G& = U + pV - TS \ \ & = ( TS - pV+ \ sum _ ( i ) \ mu _ ( i ) N_ ( i ) ) + pV - TS \ \ & = \ sum _ ( i ) \ mu _ ( i ) N_ ( i ). \ end ( aligned ) ) )

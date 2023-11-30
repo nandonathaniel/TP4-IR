@@ -1,0 +1,1 @@
+4.2. 1 4.1. 1 8C154 ( 1553 ) 2010 - 12 - 14 Bug fixes Addresses an issue that causes some high - definition TVs to incorrectly display at 480p . Addresses an issue that may cause a movie or TV show to be re-downloaded .

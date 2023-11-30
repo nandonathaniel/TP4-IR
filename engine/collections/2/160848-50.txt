@@ -1,0 +1,1 @@
+⟨ σ v ⟩ ( \ displaystyle \ langle \ sigma v \ rangle ) increases from virtually zero at room temperatures up to meaningful magnitudes at temperatures of 10 -- 100 keV . At these temperatures , well above typical ionization energies ( 13.6 eV in the hydrogen case ) , the fusion reactants exist in a plasma state .

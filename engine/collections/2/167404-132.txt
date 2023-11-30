@@ -1,0 +1,1 @@
+Software is often localized by translating a list of strings out of context , and the translator may choose the wrong translation for an ambiguous source string .

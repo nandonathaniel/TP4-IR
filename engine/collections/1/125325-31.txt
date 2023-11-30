@@ -1,0 +1,1 @@
+Nationality Passengers Crew Ground Total Argentina - - Belgium - - Bolivia - - Canada - - France - West Germany - Hungary - - India - - Ireland - - Israel - - Italy - - Jamaica - - Japan - - Philippines - - South Africa - - Spain - - Sweden - Switzerland - - Trinidad and Tobago - - United Kingdom 31 11 43 United States 179 11 - 190 Total 243 16 11 270

@@ -1,0 +1,1 @@
+6 - bit color ( 2 = 64 colors ) : Original Amiga chipset

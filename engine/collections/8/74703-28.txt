@@ -1,0 +1,1 @@
+Country 2016 2015 China 66,984 123,805 Sri Lanka 44,367 37,546 United States 42,687 49,830 Thailand 30,953 33,422 United Kingdom 29,730 36,759 Australia 18,619 24,516 South Korea 18,112 23,205 Japan 17,613 25,829 France 16,405 24,097 Germany 16,405 18,028 Total 538,970 790,118

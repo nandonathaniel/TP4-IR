@@ -1,0 +1,1 @@
+Δ r ( α i , j , k ) = α i + 1 , j , k − α i , j , k ( \ displaystyle \ \ Delta ^ ( r ) ( \ alpha _ ( i , j , k ) ) = \ alpha _ ( i + 1 , j , k ) - \ alpha _ ( i , j , k ) ) ,

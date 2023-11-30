@@ -1,0 +1,1 @@
+Performance and stability improvements . Extends the battery life of iOS devices by an extra hour . Minimizes iOS update file size to 1.3 GB . Improves performance on iOS devices by utilising Metal API throughout iOS to deliver faster scrolling , smoother animation , and better overall performance . Reduced touch latency from sixty milliseconds to less than thirty milliseconds .

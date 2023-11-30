@@ -1,0 +1,1 @@
+A Hjelmslev quadrilateral is a quadrilateral with two right angles at opposite vertices .

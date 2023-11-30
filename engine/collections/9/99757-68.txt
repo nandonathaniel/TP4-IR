@@ -1,0 +1,1 @@
+Used inside an instance , programming environment . For cross-instance applications , Service Broker communicates over TCP / IP and allows the different components to be synchronized , via exchange of messages . The Service Broker , which runs as a part of the database engine , provides a reliable messaging and message queuing platform for SQL Server applications .

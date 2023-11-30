@@ -1,0 +1,1 @@
+y i = β 1 x i 1 + β 2 x i 2 + ⋯ + β p x i p + ε i , ( \ displaystyle y_ ( i ) = \ beta _ ( 1 ) x_ ( i1 ) + \ beta _ ( 2 ) x_ ( i2 ) + \ cdots + \ beta _ ( p ) x_ ( ip ) + \ varepsilon _ ( i ) , )

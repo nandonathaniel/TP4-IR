@@ -1,0 +1,1 @@
+Because 2k is divisible by two and therefore even , and because 2k = b , it follows that b is also even which means that b is even .

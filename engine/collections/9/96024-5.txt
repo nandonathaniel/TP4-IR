@@ -1,0 +1,1 @@
+Lower frequency radio space waves , below 3 MHz , travel efficiently as ground waves . In ITU nomenclature , this includes ( in order ) : medium frequency ( MF ) , low frequency ( LF ) , very low frequency ( VLF ) , ultra low frequency ( ULF ) , super low frequency ( SLF ) , extremely low frequency ( ELF ) waves .

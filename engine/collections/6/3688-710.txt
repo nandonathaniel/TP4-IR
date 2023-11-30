@@ -1,0 +1,1 @@
+Load pages faster and use less memory with an updated JavaScript engine

@@ -1,0 +1,1 @@
+Multiplication in binary is similar to its decimal counterpart . Two numbers A and B can be multiplied by partial products : for each digit in B , the product of that digit in A is calculated and written on a new line , shifted leftward so that its rightmost digit lines up with the digit in B that was used . The sum of all these partial products gives the final result .

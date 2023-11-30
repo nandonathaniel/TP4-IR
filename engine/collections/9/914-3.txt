@@ -1,0 +1,1 @@
+According to convention , the demand curve is drawn with price on the vertical ( y ) axis and quantity on the horizontal ( x ) axis . The function actually plotted is the inverse demand function .

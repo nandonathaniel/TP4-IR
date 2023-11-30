@@ -1,0 +1,1 @@
+DOS 6 was the last version to contain EDLIN ; for MS - DOS 6 , it 's on the supplemental disks , while PC DOS 6 had it in the base install . Windows NT 32 - bit , and OS / 2 have Edlin .

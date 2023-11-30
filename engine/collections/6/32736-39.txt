@@ -1,0 +1,1 @@
+The assumption of unit treatment additivity was enunciated in experimental design by Kempthorne and Cox . Kempthorne 's use of unit treatment additivity and randomization is similar to the design - based analysis of finite population survey sampling .

@@ -1,0 +1,1 @@
+Primary -- secondary examples Primary m ( M ) Secondary m ( M ) ( km ) r ( km ) ( km ) r / R Earth Moon 0.0123 384,000 4,670 6,380 0.732 Pluto 0.0021 Charon 0.000254 ( 0.121 M ) 19,600 2,110 1,150 1.83 Sun 333,000 Earth 150,000,000 ( 1 AU ) 449 696,000 0.000646 Sun 333,000 Jupiter 318 ( 0.000955 M ) 778,000,000 ( 5.20 AU ) 742,000 696,000 1.07

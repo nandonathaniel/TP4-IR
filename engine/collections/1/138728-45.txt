@@ -1,0 +1,1 @@
+PKCS # 12 evolved from the personal information exchange ( PFX ) standard and is used to exchange public and private objects in a single file .

@@ -1,0 +1,1 @@
+d U = C V d T + ( T ( ∂ p ∂ T ) V − n R T V ) d V . ( \ displaystyle dU = C_ ( V ) dT+ \ left ( T \ left ( ( \ frac ( \ partial p ) ( \ partial T ) ) \ right ) _ ( V ) - ( \ frac ( nRT ) ( V ) ) \ right ) dV. \ , )

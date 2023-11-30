@@ -1,0 +1,1 @@
+Pinging . The standard `` ping '' application can be used to test if an IP address is in use . If it is , attackers may then try a port scan to detect which services are exposed .

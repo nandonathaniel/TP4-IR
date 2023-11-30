@@ -1,0 +1,1 @@
+With Microsoft FrontPage discontinued , Microsoft SharePoint Designer , which is aimed towards development of SharePoint portals , becomes part of the Office 2007 family . Its designer - oriented counterpart , Microsoft Expression Web , is targeted for general web development . However , neither application has been included in Office 2007 software suites .

@@ -1,0 +1,1 @@
+Cloud AV created problems for comparative testing of security software -- part of the AV definitions was out of testers control ( on constantly updated AV company servers ) thus making results non-repeatable . As a result , Anti-Malware Testing Standards Organisation ( AMTSO ) started working on methodology of testing cloud products which was adopted on May 7 , 2009 .

@@ -1,0 +1,1 @@
+Energy flow web - quantified fluxes of energy between nodes along links between a resource and a consumer .

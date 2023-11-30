@@ -1,0 +1,1 @@
+A derivation of the combined gas law using only elementary algebra can contain surprises . For example , starting from the three empirical laws

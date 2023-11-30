@@ -1,0 +1,1 @@
+Packet - switched data service first became available to users in the form of General Packet Radio Service ( GPRS ) . Packet - switched data speeds increased when Enhanced Data Rates for GSM Evolution ( EDGE ) was incorporated into the network . EDGE coverage was available within at least forty percent of the GSM footprint .

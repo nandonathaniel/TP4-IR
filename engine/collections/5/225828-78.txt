@@ -1,0 +1,1 @@
+p = p 0 ( 1 − L h T 0 ) g M R L ( \ displaystyle p = p_ ( 0 ) \ left ( 1 - ( \ frac ( Lh ) ( T_ ( 0 ) ) ) \ right ) ^ ( \ frac ( gM ) ( RL ) ) )

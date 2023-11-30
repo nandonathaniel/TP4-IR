@@ -1,0 +1,1 @@
+Rank Rank amongst leaders in career batting average . A blank field indicates a tie . Player Name of the player . BA Total career batting average . * Denotes elected to National Baseball Hall of Fame . Bold Denotes active player .

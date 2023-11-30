@@ -1,0 +1,1 @@
+K is the bulk modulus of the elastic materials ; G is the shear modulus of the elastic materials ; E is the Young 's modulus ; ρ is the density ; ν is Poisson 's ratio .

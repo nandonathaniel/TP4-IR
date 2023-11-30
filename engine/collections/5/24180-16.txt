@@ -1,0 +1,1 @@
+iTunes - the Create Playlist button switches to a Create Smart Playlist button . Holding Option and clicking the green Window Zoom ( + ) button at the top - left forces the iTunes window into fullscreen view , rather than switching between the user - set window size and the iTunes Mini Player .

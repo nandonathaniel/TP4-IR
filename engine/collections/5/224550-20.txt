@@ -1,0 +1,1 @@
+Aqua ions in seawater ( Salinity = 35 ) Ion Concentration / mol kg Na 0.469 0.0102 Mg 0.0528 Ca 0.0103

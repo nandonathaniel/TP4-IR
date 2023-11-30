@@ -1,0 +1,1 @@
+The average of Q over a day is the average of Q over one rotation , or the hour angle progressing from h = π to h = − π :

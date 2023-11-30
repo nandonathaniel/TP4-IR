@@ -1,0 +1,1 @@
+In manufacturing different types of sensory data such as acoustics , vibration , pressure , current , voltage and controller data are available at short time intervals . To predict down - time it may not be necessary to look at all the data but a sample may be sufficient .

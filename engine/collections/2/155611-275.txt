@@ -1,0 +1,1 @@
+CSS facilitates publication of content in multiple presentation formats based on nominal parameters . Nominal parameters include explicit user preferences , different web browsers , the type of device being used to view the content ( a desktop computer or mobile Internet device ) , the geographic location of the user and many other variables .

@@ -1,0 +1,1 @@
+For any primitive Pythagorean triple , there must be integers m and n such that these two equations are satisfied . Hence , every Pythagorean triple can be generated from some choice of these integers .

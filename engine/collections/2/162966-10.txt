@@ -1,0 +1,1 @@
+cos ⁡ ( ( k − Δ k ) x − ( ω − Δ ω ) t ) + cos ⁡ ( ( k + Δ k ) x − ( ω + Δ ω ) t ) = 2 cos ⁡ ( Δ k x − Δ ω t ) cos ⁡ ( k x − ω t ) , ( \ displaystyle \ cos ( ( k - \ Delta k ) x - ( \ omega - \ Delta \ omega ) t ) \ ; + \ ; \ cos ( ( k+ \ Delta k ) x - ( \ omega + \ Delta \ omega ) t ) = 2 \ ; \ cos ( \ Delta kx - \ Delta \ omega t ) \ ; \ cos ( kx - \ omega t ) , )

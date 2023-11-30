@@ -1,0 +1,1 @@
+Since the form of the equation will be preserved , to find the change in coefficients it is sufficient to analyze the change in the H term . In a Feynman diagram expansion , the H term in a correlation function inside a correlation has three dangling lines . Joining two of them at large wavenumber k gives a change H with one dangling line , so proportional to H :

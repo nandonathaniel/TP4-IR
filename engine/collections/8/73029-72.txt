@@ -1,0 +1,1 @@
+R e = ρ V d / μ ( \ displaystyle \ mathrm ( Re ) = \ rho \ , Vd / \ mu ) .

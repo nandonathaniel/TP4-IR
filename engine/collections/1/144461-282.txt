@@ -1,0 +1,1 @@
+Codename ( main article ) Brand name Cores / Threads L3 Cache GPU Model Socket TDP Process I / O Bus Release Date

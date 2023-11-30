@@ -1,0 +1,1 @@
+W = ∫ 0 t F ⋅ v d t = − ∫ 0 t k x v x d t = − 1 2 k x 2 . ( \ displaystyle W = \ int _ ( 0 ) ^ ( t ) \ mathbf ( F ) \ cdot \ mathbf ( v ) \ mathrm ( \ , ) ( d ) t = - \ int _ ( 0 ) ^ ( t ) kxv_ ( x ) \ mathrm ( \ , ) ( d ) t = - ( \ frac ( 1 ) ( 2 ) ) kx ^ ( 2 ) . )

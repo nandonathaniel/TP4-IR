@@ -1,0 +1,1 @@
+where r is the inradius , and s is the semiperimeter ( in fact this formula holds for all tangential polygons ) , and

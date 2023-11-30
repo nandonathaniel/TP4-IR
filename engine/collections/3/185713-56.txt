@@ -1,0 +1,1 @@
+Another Stanford project , called Merrimac , is aimed at developing a stream - based supercomputer . Merrimac intends to use a stream architecture and advanced interconnection networks to provide more performance per unit cost than cluster - based scientific computers built from the same technology .

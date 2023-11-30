@@ -1,0 +1,1 @@
+Note that for all ellipses with a given semi-major axis , the orbital period is the same , disregarding their eccentricity .

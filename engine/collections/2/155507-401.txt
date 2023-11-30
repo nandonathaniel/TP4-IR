@@ -1,0 +1,1 @@
+Taxi Service Trajectory ECML PKDD Trajectories of all taxis in a large city . Many features given , including start and stop points . 1,710,671 Text Clustering , causal - discovery 2015 M. Ferreira et al .

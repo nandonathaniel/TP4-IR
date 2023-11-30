@@ -1,0 +1,1 @@
+49.0. 1 Firefox 49.0. 1 September 23 , 2016 Off - cycle stability update . Mitigated a startup crash issue caused by Websense ( Windows only ) .

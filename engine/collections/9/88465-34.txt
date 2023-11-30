@@ -1,0 +1,1 @@
+Monthly Energy Review : Provides statistics on monthly and annual U.S. energy consumption going back in some cases to 1949 . The figures are given in units of quads ( quadrillion BTUs . )

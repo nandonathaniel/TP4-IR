@@ -1,0 +1,1 @@
+J v = K f ( ( P c − P i ) − σ ( π c − π i ) ) ( \ displaystyle \ J_ ( v ) = K_ ( f ) ( ( P_ ( c ) - P_ ( i ) ) - \ sigma ( \ pi _ ( c ) - \ pi _ ( i ) ) ) )

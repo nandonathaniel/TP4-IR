@@ -1,0 +1,1 @@
+In quantum mechanics , angular momentum is an operator with quantized eigenvalues . Angular momentum is subject to the Heisenberg uncertainty principle , meaning that only one component can be measured with definite precision ; the other two can not . Also , the `` spin '' of elementary particles does not correspond to literal spinning motion .

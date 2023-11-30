@@ -1,0 +1,1 @@
+h ∘ g ∘ f = ( h ∘ g ) ∘ f = h ∘ ( g ∘ f ) . ( \ displaystyle h \ circ g \ circ f = ( h \ circ g ) \ circ f = h \ circ ( g \ circ f ) . )

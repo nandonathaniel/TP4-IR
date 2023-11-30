@@ -1,0 +1,1 @@
+The angular frequency is related to the physical frequency , f ( \ displaystyle \ displaystyle f ) ( unit = hertz ) , which represents the number of cycles per second , by the equation ω = 2 π f ( \ displaystyle \ displaystyle \ omega = 2 \ pi f ) .

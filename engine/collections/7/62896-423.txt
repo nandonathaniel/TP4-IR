@@ -1,0 +1,1 @@
+S = S i . ( \ displaystyle ( \ sqrt ( S ) ) = ( \ sqrt ( \ vert S \ vert ) ) \ , \ , i \ , . )

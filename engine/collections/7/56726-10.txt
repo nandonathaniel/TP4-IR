@@ -1,0 +1,1 @@
+Quick Links menu : Added in Windows 8 and Windows Server 2012 . Invoked by right - clicking on the Start button , or pressing ⊞ Win + X . Grants access to several frequently used features of Windows , such as accessing the desktop or File Explorer .

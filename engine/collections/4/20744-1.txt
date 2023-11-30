@@ -1,0 +1,1 @@
+The most common measures of central tendency are the arithmetic mean , the median and the mode . A central tendency can be calculated for either a finite set of values or for a theoretical distribution , such as the normal distribution . Occasionally authors use central tendency to denote `` the tendency of quantitative data to cluster around some central value . ''

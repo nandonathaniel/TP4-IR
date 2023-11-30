@@ -1,0 +1,1 @@
+σ ^ x  ̄ = s θ n γ 2 γ 1 ( \ displaystyle ( \ hat ( \ sigma ) ) _ ( \ overline ( x ) ) = ( \ frac ( s ) ( \ theta ( \ sqrt ( n ) ) ) ) ( \ frac ( \ sqrt ( \ gamma _ ( 2 ) ) ) ( \ sqrt ( \ gamma _ ( 1 ) ) ) ) )

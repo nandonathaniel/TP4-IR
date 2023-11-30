@@ -1,0 +1,1 @@
+If the vector space V is finite - dimensional , then the linear transformation T can be represented as a square matrix A , and the vector v by a column vector , rendering the above mapping as a matrix multiplication on the left hand side and a scaling of the column vector on the right hand side in the equation

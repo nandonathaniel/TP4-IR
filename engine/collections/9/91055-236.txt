@@ -1,0 +1,1 @@
+New Greek identity cards have a number formatted like this : XX - 999999 where X is a letter , whose uppercase glyph occurs in both the Greek and the Latin alphabet ( ABEZHIKMNOPTYX ) . The letters and numbers are assigned with sequential order .

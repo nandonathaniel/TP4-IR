@@ -1,0 +1,1 @@
+In the low - frequency limit , the voltage drop around any loop is zero . This includes imaginary loops arranged arbitrarily in space -- not limited to the loops delineated by the circuit elements and conductors . In the low - frequency limit , this is a corollary of Faraday 's law of induction ( which is one of the Maxwell equations ) .

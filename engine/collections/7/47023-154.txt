@@ -1,0 +1,1 @@
+IEEE 802.11 ac : Very High Throughput < 6 GHz ; potential improvements over 802.11 n : better modulation scheme ( expected ~ 10 % throughput increase ) , wider channels ( estimate in future time 80 to 160 MHz ) , multi user MIMO ; ( December 2013 )

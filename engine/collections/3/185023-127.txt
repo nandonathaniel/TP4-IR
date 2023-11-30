@@ -1,0 +1,1 @@
+Following the definition above in formula ( 1 ) , for such a fictive ' reversible ' process , a quantity of transferred heat δQ ( an inexact differential ) is analyzed as a quantity T dS , with dS ( an exact differential ) :

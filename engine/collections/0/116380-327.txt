@@ -1,0 +1,1 @@
+Highest number of bordering countries : China : 14 ( 16 if Hong Kong and Macau are included ) Russia : 14 ( 16 if Abkhazia and South Ossetia are included )

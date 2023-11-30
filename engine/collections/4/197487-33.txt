@@ -1,0 +1,1 @@
+Ace : can be played regardless of the suit or value of the topmost card on the playing deck -- that is , the Ace may be played at any time in the game . When playing an Ace , the player can decide freely the suit that has to be played next ; from then on , play continues as normal , but on the suit selected by the player of the Ace .

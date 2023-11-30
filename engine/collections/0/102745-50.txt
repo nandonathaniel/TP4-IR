@@ -1,0 +1,1 @@
+A harmonic gear is a specialized gearing mechanism often used in industrial motion control , robotics and aerospace for its advantages over traditional gearing systems , including lack of backlash , compactness and high gear ratios .

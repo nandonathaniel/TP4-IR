@@ -1,0 +1,1 @@
+( show ) Map all coordinates using OSM Map all coordinates using Google

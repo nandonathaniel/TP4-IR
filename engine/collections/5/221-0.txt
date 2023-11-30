@@ -1,0 +1,1 @@
+In graph theory , a loop ( also called a self - loop or a `` buckle '' ) is an edge that connects a vertex to itself . A simple graph contains no loops .

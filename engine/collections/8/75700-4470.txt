@@ -1,0 +1,1 @@
+Users complained about dizziness and vertigo - like symptoms when using this operating system because of parallax motion effects . In iOS 7.1 , a new function in the Settings app named `` Reduce Motion '' was introduced to reduce the motion of the user interface and disable the parallax effects .

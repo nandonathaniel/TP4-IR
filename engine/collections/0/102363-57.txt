@@ -1,0 +1,1 @@
+A clock driven by a synchronous motor is in principle as accurate as the line frequency of its power source . ( Although small frequency drifts will occur over any given several hours , grid operators actively adjust line frequency in later periods to compensate , thereby keeping motor - driven clocks accurate ; see Utility frequency # Stability . )

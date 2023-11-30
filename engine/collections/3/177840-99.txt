@@ -1,0 +1,1 @@
+The data link layer does the setup , maintenance and release of data link connections . Errors occurring in the physical layer are detected and may be corrected . Errors are reported to the network layer . The exchange of data link units ( including flow control ) is defined by this layer .

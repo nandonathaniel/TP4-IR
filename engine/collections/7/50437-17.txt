@@ -1,0 +1,1 @@
+x 2 + b a x + ( b 2 a ) 2 = − c a + ( b 2 a ) 2 , ( \ displaystyle x ^ ( 2 ) + ( \ frac ( b ) ( a ) ) x+ \ left ( ( \ frac ( b ) ( 2a ) ) \ right ) ^ ( 2 ) = - ( \ frac ( c ) ( a ) ) + \ left ( ( \ frac ( b ) ( 2a ) ) \ right ) ^ ( 2 ) , )

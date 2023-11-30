@@ -1,0 +1,1 @@
+Quantile μ + σ 2 erf − 1 ⁡ ( 2 F − 1 ) ( \ displaystyle \ mu + \ sigma ( \ sqrt ( 2 ) ) \ operatorname ( erf ) ^ ( - 1 ) ( 2F - 1 ) )

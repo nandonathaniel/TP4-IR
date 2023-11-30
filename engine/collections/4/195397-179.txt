@@ -1,0 +1,1 @@
+Returned by ArcGIS for Server . Code 499 indicates that a token is required but was not submitted .

@@ -1,0 +1,1 @@
+λ 1 = e β J cosh ⁡ β h + e 2 β J ( sinh ⁡ β h ) 2 + e − 2 β J ( \ displaystyle \ lambda _ ( 1 ) = e ^ ( \ beta J ) \ cosh \ beta h+ ( \ sqrt ( e ^ ( 2 \ beta J ) ( \ sinh \ beta h ) ^ ( 2 ) + e ^ ( - 2 \ beta J ) ) ) )

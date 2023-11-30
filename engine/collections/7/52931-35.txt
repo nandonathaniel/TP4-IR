@@ -1,0 +1,1 @@
+The unique factorization theorem says that every positive integer greater than 1 can be written in only one way as a product of prime numbers . The prime numbers can be considered as the atomic elements which , when combined together , make up a composite number .

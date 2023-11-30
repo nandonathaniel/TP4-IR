@@ -1,0 +1,1 @@
+New parsing rules : oriented towards flexible parsing and compatibility ; not based on SGML

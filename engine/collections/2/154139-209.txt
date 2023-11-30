@@ -1,0 +1,1 @@
+Overflow and invalid exceptions can typically not be ignored , but do not necessarily represent errors : for example , a root - finding routine , as part of its normal operation , may evaluate a passed - in function at values outside of its domain , returning NaN and an invalid exception flag to be ignored until finding a useful start point .

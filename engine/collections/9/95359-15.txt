@@ -1,0 +1,1 @@
+All polynomials : if a polynomial has degree n , any terms of degree larger than n in its Taylor series expansion must immediately vanish to 0 , and so this series will be trivially convergent . Furthermore , every polynomial is its own Maclaurin series .

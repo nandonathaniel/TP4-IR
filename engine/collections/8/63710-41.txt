@@ -1,0 +1,1 @@
+complex square root the ( complex ) square root of complex numbers If z = r exp ( iφ ) is represented in polar coordinates with − π < φ ≤ π , then √ z = √ r exp ( iφ / 2 ) . √ − 1 = i

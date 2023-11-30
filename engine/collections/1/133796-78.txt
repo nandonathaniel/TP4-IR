@@ -1,0 +1,1 @@
+projector aperture ( 1.6 6 : 1 ) : 0.825 by 0.497 in ( 21 by 13 mm )

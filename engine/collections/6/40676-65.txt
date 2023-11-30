@@ -1,0 +1,1 @@
+To calculate the density of air as a function of altitude , one requires additional parameters . They are listed below , along with their values according to the International Standard Atmosphere , using for calculation the universal gas constant instead of the air specific constant :

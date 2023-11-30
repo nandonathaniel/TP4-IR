@@ -1,0 +1,1 @@
+MAP = CO ⋅ SVR ( \ displaystyle \ ! ( \ text ( MAP ) ) = ( \ text ( CO ) ) \ cdot ( \ text ( SVR ) ) )

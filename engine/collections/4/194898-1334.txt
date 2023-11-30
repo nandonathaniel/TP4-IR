@@ -1,0 +1,1 @@
+AirPlay mirroring Ability to connect with AirPlay to an Apple TV ; whatever is displayed on an iOS devices screen is mirrored on the TV .

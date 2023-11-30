@@ -1,0 +1,1 @@
+Broadwell - EP : to be marketed as Xeon E5 - 2600 v4 etc. , while using the C610 Wellsburg chipset platform . Up to 22 cores and 44 threads , up to 55 MB of total cache and 40 PCI Express 3.0 lanes , with 55 -- 160 W TDP classes . Maximum supported memory speed is quad - channel DDR4 - 2400 .

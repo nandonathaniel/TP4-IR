@@ -1,0 +1,1 @@
+Test sources , such as those used for school experiments , have an activity of < 100 kBq . Devices for nondestructive material testing use sources with activities of 1 TBq and more .

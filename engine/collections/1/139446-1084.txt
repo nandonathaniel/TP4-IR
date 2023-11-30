@@ -1,0 +1,1 @@
+Removed support for sherlock files that are loaded from application or profile directory .

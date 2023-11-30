@@ -1,0 +1,1 @@
+Petersen graph The Petersen graph is most commonly drawn as a pentagon with a pentagram inside , with five spokes . Named after Julius Petersen Vertices 10 Edges 15 Radius Diameter Girth 5 Automorphisms 120 ( S ) Chromatic number Chromatic index Fractional chromatic index Genus Properties Cubic Strongly regular Distance - transitive Snark Table of graphs and parameters

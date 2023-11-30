@@ -1,0 +1,1 @@
+Basic data partition attributes Bit Content 60 Read - only 61 Shadow copy ( of another partition ) 62 Hidden 63 No drive letter ( i.e. do not automount )

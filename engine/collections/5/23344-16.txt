@@ -1,0 +1,1 @@
+The Mann -- Whitney U test is included in most modern statistical packages . It is also easily calculated by hand , especially for small samples . There are two ways of doing this .

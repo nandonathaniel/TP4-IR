@@ -1,0 +1,1 @@
+Modulo assignment a % = b a = a % b Yes Yes R& K : : operator % = ( S b ) ; R& operator % = ( K& a , S b ) ;

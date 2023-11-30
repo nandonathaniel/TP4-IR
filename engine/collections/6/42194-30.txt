@@ -1,0 +1,1 @@
+Popular DBMS products that utilized it were Cincom Systems ' Total and Cullinet 's IDMS . IDMS gained a considerable customer base ; in the 1980s , it adopted the relational model and SQL in addition to its original tools and languages .

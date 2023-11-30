@@ -1,0 +1,1 @@
+the above vector is assumed to be normalized . The time evolution of the state ψ ( 0 ) ⟩ ( \ displaystyle \ psi ( 0 ) \ rangle ) is given by the relation

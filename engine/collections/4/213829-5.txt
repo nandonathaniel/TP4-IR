@@ -1,0 +1,1 @@
+pmf λ k e − λ k ! ( \ displaystyle ( \ frac ( \ lambda ^ ( k ) e ^ ( - \ lambda ) ) ( k ! ) ) )

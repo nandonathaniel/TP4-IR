@@ -1,0 +1,1 @@
+Most Oracle database installations come with a default schema called SCOTT . After the installation process sets up sample tables , the user logs into the database with the username scott and the password tiger . The name of the SCOTT schema originated with Bruce Scott , one of the first employees at Oracle ( then Software Development Laboratories ) , who had a cat named Tiger .

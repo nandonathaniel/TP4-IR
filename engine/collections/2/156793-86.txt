@@ -1,0 +1,1 @@
+Diameters determined from the number of teeth and the center distance at which gears operate . Example for pinion :

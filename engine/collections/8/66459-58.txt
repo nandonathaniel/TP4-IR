@@ -1,0 +1,1 @@
+Numbers with all zeros in any digit group ( 000 - # # - # # # # , # # # - 00 - # # # # , # # # - # # - 0000 ) . Numbers with 666 or 900 -- 999 ( Individual Taxpayer Identification Number ) in the first digit group .

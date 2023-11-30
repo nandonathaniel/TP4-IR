@@ -1,0 +1,1 @@
+Unix - like systems implement three specific permissions that apply to each class :

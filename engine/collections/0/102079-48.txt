@@ -1,0 +1,1 @@
+k = b G p − a G e a G e ( \ displaystyle k = ( \ frac ( b \ , \ mathbb ( G ) _ ( p ) - a \ , \ mathbb ( G ) _ ( e ) ) ( a \ , \ mathbb ( G ) _ ( e ) ) ) ) ( formula constant ) ;

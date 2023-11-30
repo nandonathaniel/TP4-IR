@@ -1,0 +1,1 @@
+π ≤ ( ∫ G ∇ u 2 ) 1 / 2 ( ∫ G u 2 ) 1 / 2 ( \ displaystyle \ pi \ leq ( \ frac ( \ left ( \ int _ ( G ) \ nabla u ^ ( 2 ) \ right ) ^ ( 1 / 2 ) ) ( \ left ( \ int _ ( G ) u ^ ( 2 ) \ right ) ^ ( 1 / 2 ) ) ) )

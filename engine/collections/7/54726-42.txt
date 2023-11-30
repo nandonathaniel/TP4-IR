@@ -1,0 +1,1 @@
+Where A / B is the ratio of the two relaxation modes ( translational and rotational ) , M contains information about the axis perpendicular to the central axis of the particle , and M contains information about the axis parallel to the central axis .

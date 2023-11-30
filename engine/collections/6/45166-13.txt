@@ -1,0 +1,1 @@
+Assume a two - dimensional random variable R = ( X , Y ) ( \ displaystyle R = ( X , Y ) ) where X shall be considered as an explanatory variable , and Y as a dependent variable . Models of family 1 `` explain '' Y in terms of X ,

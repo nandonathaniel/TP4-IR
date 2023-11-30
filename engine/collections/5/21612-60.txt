@@ -1,0 +1,1 @@
+A cloud database relies on cloud technology . Both the database and most of its DBMS reside remotely , `` in the cloud '' , while its applications are both developed by programmers and later maintained and used by end - users through a web browser and Open APIs .

@@ -1,0 +1,1 @@
+Vehicle lane change in the camera 's angle of view during license plate reading .

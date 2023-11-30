@@ -1,0 +1,1 @@
+sinh ⁡ ( x − y ) = sinh ⁡ ( x ) cosh ⁡ ( y ) − cosh ⁡ ( x ) sinh ⁡ ( y ) cosh ⁡ ( x − y ) = cosh ⁡ ( x ) cosh ⁡ ( y ) − sinh ⁡ ( x ) sinh ⁡ ( y ) ( \ displaystyle ( \ begin ( aligned ) \ sinh ( x-y ) & = \ sinh ( x ) \ cosh ( y ) - \ cosh ( x ) \ sinh ( y ) \ \ \ cosh ( x-y ) & = \ cosh ( x ) \ cosh ( y ) - \ sinh ( x ) \ sinh ( y ) \ \ \ end ( aligned ) ) )

@@ -1,0 +1,1 @@
+Number Name Year Played Won Lost Tied No result Win % Mithali Raj 2006 -- present 32 17 15 0 0 53.12 Jhulan Goswami 2008 - 2011 18 8 10 0 0 41.17 Anjum Chopra 2012 - 2012 10 7 0 0 30.00 Harmanpreet Kaur 2012 - 2016 13 9 0 0 69.23 Total 66 33 33 0 0 50.00

@@ -1,0 +1,1 @@
+This test is used only when it can be assumed that the two distributions have the same variance . ( When this assumption is violated , see below . ) Note that the previous formulae are a special case of the formulae below , one recovers them when both samples are equal in size : n = n = n .

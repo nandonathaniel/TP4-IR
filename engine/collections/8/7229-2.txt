@@ -1,0 +1,1 @@
+Serial ATA ( SATA ) Year created 2000 Supersedes Parallel ATA ( PATA ) Speed 1.5 , 3.0 , 6.0 and 16 Gbit / s Style Serial Hotplugging interface Yes External interface Optional ( eSATA )

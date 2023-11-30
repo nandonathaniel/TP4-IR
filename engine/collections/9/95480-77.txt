@@ -1,0 +1,1 @@
+a + b i i = − i ( a + b i ) = − a i − b i 2 = b − a i . ( \ displaystyle ( \ frac ( a + bi ) ( i ) ) = - i \ , ( a + bi ) = - ai - bi ^ ( 2 ) = b - ai . )

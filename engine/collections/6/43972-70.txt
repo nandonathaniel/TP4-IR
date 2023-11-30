@@ -1,0 +1,1 @@
+FLT_MAX_EXP , DBL_MAX_EXP , LDBL_MAX_EXP -- maximum positive integer such that FLT_RADIX raised to a power one less than that number is a normalized float , double , long double , respectively

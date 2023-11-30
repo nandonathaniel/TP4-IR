@@ -1,0 +1,1 @@
+a r 2 + a t 2 = a ( \ displaystyle ( \ sqrt ( a_ ( r ) ^ ( 2 ) + a_ ( t ) ^ ( 2 ) ) ) = a )

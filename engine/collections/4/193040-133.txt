@@ -1,0 +1,1 @@
+a 0 = 1 b 0 = 1 2 t 0 = 1 4 p 0 = 1 ( \ displaystyle \ scriptstyle a_ ( 0 ) = 1 \ quad b_ ( 0 ) = ( \ frac ( 1 ) ( \ sqrt ( 2 ) ) ) \ quad t_ ( 0 ) = ( \ frac ( 1 ) ( 4 ) ) \ quad p_ ( 0 ) = 1 )

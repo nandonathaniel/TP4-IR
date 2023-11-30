@@ -1,0 +1,1 @@
+0 - A1234 ( variable number of digits following letter )

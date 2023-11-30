@@ -1,0 +1,1 @@
+The relativistic energy -- momentum relationship holds even for massless particles such as photons ; by setting m = 0 it follows that

@@ -1,0 +1,1 @@
+Last release for Mac OS X Tiger and PowerPC Macs Added Out - of - process plugins Fixed several security issues Fixed several stability issues

@@ -1,0 +1,1 @@
+Rank Nat Name Years Current club Goals Apps Ratio Lionel Messi 2004 -- Barcelona 385 419 0.92 Aritz Aduriz 2002 -- Athletic Bilbao 155 407 0.38 Karim Benzema 2009 -- Real Madrid 127 275 0.46 Antoine Griezmann 2010 -- Atlético Madrid 119 282 0.42 5 Luis Suárez 2014 -- Barcelona 110 130 0.85

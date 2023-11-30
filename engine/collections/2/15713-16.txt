@@ -1,0 +1,1 @@
+if and only if there is a positive constant M such that for all sufficiently large values of x , the absolute value of f ( x ) is at most M multiplied by the absolute value of g ( x ) . That is , f ( x ) = O ( g ( x ) ) if and only if there exists a positive real number M and a real number x such that

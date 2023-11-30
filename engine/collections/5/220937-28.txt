@@ -1,0 +1,1 @@
+d ( f τ ( x ) , f τ ( y ) ) > e a τ d ( x , y ) ( \ displaystyle d ( f ^ ( \ tau ) ( x ) , f ^ ( \ tau ) ( y ) ) > \ mathrm ( e ) ^ ( a \ tau ) \ , d ( x , y ) )

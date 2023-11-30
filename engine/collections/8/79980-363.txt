@@ -1,0 +1,1 @@
+Support for the typographic apostrophe ( ' ) was introduced in several 8 - bit character encodings , such as the Apple Macintosh operating system 's Mac Roman character set ( in 1984 ) , and later in the CP1252 encoding of Microsoft Windows . There is no such character in ISO - 8859 - 1 .

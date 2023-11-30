@@ -1,0 +1,1 @@
+z k = H x k + v k ( \ displaystyle \ mathbf ( z ) _ ( k ) = \ mathbf ( Hx ) _ ( k ) + \ mathbf ( v ) _ ( k ) )

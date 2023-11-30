@@ -1,0 +1,1 @@
+L P = 1 2 ln ( P P 0 ) N p = 10 log 10 ( P P 0 ) d B . ( \ displaystyle L_ ( P ) = ( \ frac ( 1 ) ( 2 ) ) \ ln \ ! \ left ( ( \ frac ( P ) ( P_ ( 0 ) ) ) \ right ) \ ! ~ \ mathrm ( Np ) = 10 \ log _ ( 10 ) \ ! \ left ( ( \ frac ( P ) ( P_ ( 0 ) ) ) \ right ) \ ! ~ \ mathrm ( dB ) . )

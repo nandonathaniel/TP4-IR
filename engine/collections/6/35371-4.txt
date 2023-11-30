@@ -1,0 +1,1 @@
+By using computer programs , a person can open , read , change , and close a computer file . Computer files may be reopened , modified , and copied an arbitrary number of times .

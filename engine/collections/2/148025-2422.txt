@@ -1,0 +1,1 @@
+New animation when opening apps from the Lock Screen .

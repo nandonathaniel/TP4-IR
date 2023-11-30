@@ -1,0 +1,1 @@
+Cyclically braking causes the blades to slow down , which increases the stalling effect , reducing the efficiency of the blades . This way , the turbine 's rotation can be kept at a safe speed in faster winds while maintaining ( nominal ) power output . This method is usually not applied on large grid - connected wind turbines .

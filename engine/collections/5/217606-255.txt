@@ -1,0 +1,1 @@
+T 2 = T 1 ( P 2 P 1 ) γ − 1 γ ( \ displaystyle T_ ( 2 ) = T_ ( 1 ) \ left ( ( \ frac ( P_ ( 2 ) ) ( P_ ( 1 ) ) ) \ right ) ^ ( \ frac ( \ gamma - 1 ) ( \ gamma ) ) )

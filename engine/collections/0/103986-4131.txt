@@ -1,0 +1,1 @@
+iPad charge management Maintains battery health when iPad is connected to power for prolonged periods of time , such as when it is used in kiosks , point of sale systems , or stored in charging carts

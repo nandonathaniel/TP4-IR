@@ -1,0 +1,1 @@
+42 is a ( 2 , 6 ) - perfect number ( super-multiperfect ) , as σ ( n ) = σ ( σ ( n ) ) = 6n .

@@ -1,0 +1,1 @@
+P = J σ F − T ( \ displaystyle ( \ boldsymbol ( P ) ) = J ~ ( \ boldsymbol ( \ sigma ) ) ~ ( \ boldsymbol ( F ) ) ^ ( - T ) ~ )

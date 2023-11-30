@@ -1,0 +1,1 @@
+Piston stroke 120.0 mm ( 4.72 in )

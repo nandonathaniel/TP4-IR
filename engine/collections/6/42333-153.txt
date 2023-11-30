@@ -1,0 +1,1 @@
+This situation arises commonly in amplifier design , where widely separated roots are desired to ensure a stable operation ( see step response ) .

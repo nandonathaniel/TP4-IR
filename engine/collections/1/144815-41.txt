@@ -1,0 +1,1 @@
+Just as the index variable might be modified within a for - loop , so also may its bounds and direction . But to uncertain effect . A compiler may prevent such attempts , they may have no effect , or they might even work properly - though many would declare that to do so would be wrong . Consider a statement such as

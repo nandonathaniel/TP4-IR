@@ -1,0 +1,1 @@
+Note : Click header for any year to sort by total health expenditure per capita for that year . The table can be sorted in ascending or descending order . The row number column on the left stays static , and does not sort . Click the country header to return to alphabetical order .

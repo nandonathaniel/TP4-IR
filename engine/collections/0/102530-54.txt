@@ -1,0 +1,1 @@
+( d G d ξ ) T , p = ∑ i = 1 k μ i ν i = Δ r G T , p ( \ displaystyle \ left ( ( \ frac ( dG ) ( d \ xi ) ) \ right ) _ ( T , p ) = \ sum _ ( i = 1 ) ^ ( k ) \ mu _ ( i ) \ nu _ ( i ) = \ Delta _ ( \ mathrm ( r ) ) G_ ( T , p ) ) which is the `` Gibbs free energy change for the reaction .

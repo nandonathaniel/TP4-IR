@@ -1,0 +1,1 @@
+Paragraph 10 of FAS 113 makes clear that the 9a and 9b tests are based on comparing the present value of all costs to the PV of all income streams . FAS gives no guidance on the choice of a discount rate on which to base such a calculation , other than to say that all outcomes tested should use the same rate .

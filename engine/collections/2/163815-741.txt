@@ -1,0 +1,1 @@
+2 `` Excavator '' x86 cores with 1MB shared L2 cache

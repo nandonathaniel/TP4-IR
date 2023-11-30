@@ -1,0 +1,1 @@
+The standard module datetime stores and operates on the timezone information class tzinfo . The third party pytz module provides access to the full IANA time zone database . Negated time zone offset in seconds is stored time. timezone and time. altzone attributes .

@@ -1,0 +1,1 @@
+Division by zero . Arithmetic overflow or underflow . Loss of arithmetic precision due to rounding or numerically unstable algorithms .

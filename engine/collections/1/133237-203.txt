@@ -1,0 +1,1 @@
+If the degree of p is greater than the degree of q , then the limit is positive or negative infinity depending on the signs of the leading coefficients ;

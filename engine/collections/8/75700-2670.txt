@@ -1,0 +1,1 @@
+Adds instant tethering for OS X Yosemite .

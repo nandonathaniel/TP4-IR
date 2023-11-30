@@ -1,0 +1,1 @@
+Part of Windows : Hyper - V is an optional component of Windows Server 2008 and later . It is also available in x64 SKUs of Pro and Enterprise editions of Windows 8 , Windows 8.1 and Windows 10 . Hyper - V Server : It is a freeware edition of Windows Server with limited functionality and Hyper - V component .

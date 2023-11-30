@@ -1,0 +1,1 @@
+Depending on the language , some letter - diacritic combinations may be considered distinct letters , e.g. for the purposes of lexical sorting . This is the case , for example , of Romanian ș ( ( ʃ ) ) and Spanish ñ ( ( ɲ ) ) .

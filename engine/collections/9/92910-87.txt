@@ -1,0 +1,1 @@
+The classic gated latch designs have some undesirable characteristics . They require double - rail logic or an inverter . The input - to - output propagation may take up to three gate delays . The input - to - output propagation is not constant -- some outputs take two gate delays while others take three .

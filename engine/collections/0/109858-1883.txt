@@ -1,0 +1,1 @@
+Automatic Day / Night Mode that responds to ambient light and current time to switch between day and night color schemes . Turn - by - turn walking directions , with estimated time . Maps bookmarks syncing . Receives notification data sent from the new Maps app in OS X Mavericks ( version 10.9 ) . A live compass at the right top corner .

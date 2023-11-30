@@ -1,0 +1,1 @@
+U = − ∫ x 1 x 2 F → ⋅ d x → ( \ displaystyle U = - \ int \ limits _ ( x_ ( 1 ) ) ^ ( x_ ( 2 ) ) ( \ vec ( F ) ) \ cdot d ( \ vec ( x ) ) )

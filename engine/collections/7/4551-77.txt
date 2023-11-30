@@ -1,0 +1,1 @@
+MLPs are universal function approximators as showed by Cybenko 's theorem , so they can be used to create mathematical models by regression analysis . As classification is a particular case of regression when the response variable is categorical , MLPs make good classifier algorithms .

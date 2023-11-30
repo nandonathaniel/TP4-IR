@@ -1,0 +1,1 @@
+Portfolio return is the proportion - weighted combination of the constituent assets ' returns . Portfolio volatility is a function of the correlations ρ of the component assets , for all asset pairs ( i , j ) .

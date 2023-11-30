@@ -1,0 +1,1 @@
+a joystick is an indirect , relative , elastic , rate - control , translational input device with two degrees of freedom and

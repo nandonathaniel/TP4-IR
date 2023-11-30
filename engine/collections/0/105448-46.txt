@@ -1,0 +1,1 @@
+− ∫ a b E ⋅ d l ≠ V ( b ) − V ( a ) , ( \ displaystyle - \ int _ ( a ) ^ ( b ) \ mathbf ( E ) \ cdot \ mathrm ( d ) ( \ boldsymbol ( \ ell ) ) \ neq V_ ( ( b ) ) - V_ ( ( a ) ) , \ , )

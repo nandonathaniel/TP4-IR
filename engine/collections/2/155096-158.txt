@@ -1,0 +1,1 @@
+T e m = P e m ω r = P r s ω s = 3 I r ′ 2 R r ′ ω s s ( \ displaystyle T_ ( em ) = ( \ frac ( P_ ( em ) ) ( \ omega _ ( r ) ) ) = ( \ frac ( \ frac ( P_ ( r ) ) ( s ) ) ( \ omega _ ( s ) ) ) = ( \ frac ( 3I_ ( r ) ^ ( ' 2 ) R_ ( r ) ^ ( ' ) ) ( \ omega _ ( s ) s ) ) ) ( newton - meters )

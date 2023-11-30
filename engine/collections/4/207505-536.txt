@@ -1,0 +1,1 @@
+v i > 0 and ∑ i = 1 n v i < 1 ( \ displaystyle v_ ( i ) > 0 \ quad ( \ mbox ( and ) ) \ quad \ sum _ ( i = 1 ) ^ ( n ) v_ ( i ) < 1 )

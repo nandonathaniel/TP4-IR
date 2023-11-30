@@ -1,0 +1,1 @@
+⟨ A μ ( k ) A ν ( k ′ ) ⟩ = δ ( k + k ′ ) g μ ν − λ k μ k ν k 2 k 2 . ( \ displaystyle \ left \ langle A_ ( \ mu ) ( k ) A_ ( \ nu ) ( k ' ) \ right \ rangle = \ delta \ left ( k + k ' \ right ) ( \ frac ( g_ ( \ mu \ nu ) - \ lambda ( \ frac ( k_ ( \ mu ) k_ ( \ nu ) ) ( k ^ ( 2 ) ) ) ) ( k ^ ( 2 ) ) ) . )

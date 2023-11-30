@@ -1,0 +1,1 @@
+The errors in model - mean surface air temperature rarely exceed 1 ° C over the oceans and 5 ° C over the continents ; precipitation and sea level pressure errors are relatively greater but the magnitudes and patterns of these quantities are recognisably similar to observations .

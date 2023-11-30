@@ -1,0 +1,1 @@
+G -- Games ( AKA `` appearances '' ) : number of times a pitcher pitches in a season

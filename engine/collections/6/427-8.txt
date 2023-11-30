@@ -1,0 +1,1 @@
+Source model Closed source ( with open source components )

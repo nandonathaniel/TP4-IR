@@ -1,0 +1,1 @@
+Photos Albums are organized by Places , Moments , and Years , using the EXIF data as the base of the collection . Share Sheet shares photos to iCloud , social networks , and AirDrop ( if available ) . New default album `` Panorama Photos '' .

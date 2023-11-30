@@ -1,0 +1,1 @@
+When thermal resistances occur in series , they are additive . Thus , when heat flows consecutively through two components each with a resistance of 3 ° C / W , the total resistance is 3 ° C / W + 3 ° C / W = 6 ° C / W .

@@ -1,0 +1,1 @@
+Engage pedal Tells the player to put the sustaining pedal down .

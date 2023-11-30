@@ -1,0 +1,1 @@
+2.7 GHz quad - core Intel Core i7 Skylake ( 6820HQ ) , up to 3.6 GHz , 8MB L3 cache Optional 2.9 GHz i7 - 6920HQ , up to 3.8 GHz , 8 MB L3 cache 2.9 GHz quad - core Intel Core i7 Kaby Lake ( 7820HQ ) , up to 3.9 GHz , 8MB L3 cache Optional 3.1 GHz i7 - 7920HQ , up to 4.1 GHz , 8 MB L3 cache

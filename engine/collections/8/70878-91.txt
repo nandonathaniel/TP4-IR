@@ -1,0 +1,1 @@
+Energy in thermodynamics is calculated by multipying the thermal potential by the amount of entropy found at that potential : temperature times entropy .

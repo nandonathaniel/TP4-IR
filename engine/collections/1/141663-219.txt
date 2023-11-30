@@ -1,0 +1,1 @@
+Number of recorded storms affecting Bermuda Month Number of storms January February 0 March 0 April May 0 June July 9 August 30 September 70 October 53 November 10 December 0 Unspecified 7

@@ -1,0 +1,1 @@
+( Availability = 86.6 % ) * ( Performance = 93 % ) * ( Quality = 91.3 % ) = ( OEE = 73.6 % )

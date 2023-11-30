@@ -1,0 +1,1 @@
+The ring is essentially identical in shape and performance to the toroid , except that inductors commonly pass only through the center of the core , without wrapping around the core multiple times .

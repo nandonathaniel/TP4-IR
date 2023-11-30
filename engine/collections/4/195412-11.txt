@@ -1,0 +1,1 @@
+Take the sequence of matrices and separate it into two subsequences .

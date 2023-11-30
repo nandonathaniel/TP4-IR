@@ -1,0 +1,1 @@
+An element type declaration defines an element and its possible content . A valid XML document contains only elements that are defined in the DTD .

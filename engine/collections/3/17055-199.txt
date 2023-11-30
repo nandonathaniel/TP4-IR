@@ -1,0 +1,1 @@
+T = X − μ σ ( \ displaystyle T = ( \ frac ( X - \ mu ) ( \ sigma ) ) )

@@ -1,0 +1,1 @@
+m l = − l , − ( l − 1 ) , ... , 0 , 1 , ... , l . ( \ displaystyle m_ ( l ) = - l , - ( l - 1 ) , \ ldots , 0 , 1 , \ ldots , l . )

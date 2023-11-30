@@ -1,0 +1,1 @@
+XSS viruses can cause high traffic because of millions of infected browsers or web servers ;

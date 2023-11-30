@@ -1,0 +1,1 @@
+a standard physical interface ( pinout ) for NAND flash in TSOP - 48 , WSOP - 48 , LGA - 52 , and BGA - 63 packages a standard command set for reading , writing , and erasing NAND flash chips a mechanism for self - identification ( comparable to the serial presence detection feature of SDRAM memory modules )

@@ -1,0 +1,1 @@
+Installs new apps from the second home page on . You can still move the apps to the first home page manually . Screenshot browsing method has changed .

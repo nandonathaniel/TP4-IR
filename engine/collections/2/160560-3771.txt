@@ -1,0 +1,1 @@
+App Store reviews now include the publish date of when the review was published .

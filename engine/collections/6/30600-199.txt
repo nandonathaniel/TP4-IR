@@ -1,0 +1,1 @@
+M100 ( 100 -- 175 watts ) An open bottom companion to the M250 , also believed to be the first as a full cutoff .

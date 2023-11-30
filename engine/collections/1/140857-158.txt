@@ -1,0 +1,1 @@
+In 1785 , Laplace took the key forward step in using integrals of this form to transform a whole difference equation , rather than simply as a form for the solution , and found that the transformed equation was easier to solve than the original .

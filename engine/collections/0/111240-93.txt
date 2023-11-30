@@ -1,0 +1,1 @@
+Chess -- two - player board game played on a chessboard , a square - checkered board with 64 squares arranged in an eight - by - eight grid . Each player begins the game with sixteen pieces : One king , one queen , two rooks , two knights , two bishops , and eight pawns .

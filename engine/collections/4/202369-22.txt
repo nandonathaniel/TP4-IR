@@ -1,0 +1,1 @@
+Screenshots of the HP webOS can be taken . For webOS phones , simultaneously press Orange / Gray Key + Sym + P . For the HP Touchpad , press Home Key + Power + . In either case , screenshots will be saved to the `` Screen captures '' folder in the `` Photos '' app .

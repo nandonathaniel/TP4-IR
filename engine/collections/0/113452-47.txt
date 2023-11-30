@@ -1,0 +1,1 @@
+The format can be processed by most programs that claim to read CSV files . The exceptions are : ( a ) programs may not support line - breaks within quoted fields , ( b ) programs may confuse the optional header with data or interpret the first data line as an optional header and ( c ) double quotes in a field may not be parsed correctly automatically .

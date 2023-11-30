@@ -1,0 +1,1 @@
+A request line ( e.g. , GET / images / logo. png HTTP / 1.1 , which requests a resource called / images / logo. png from the server ) .

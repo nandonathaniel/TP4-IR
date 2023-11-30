@@ -1,0 +1,1 @@
+Animal type Species Endemic species Monotypic genera Bird 370 11 0 Mammal 107 11 Reptile 113 24 Amphibian 51 22 0 Sources :

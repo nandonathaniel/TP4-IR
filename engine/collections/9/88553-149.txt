@@ -1,0 +1,1 @@
+Percentage Grade / Mark Assigned Meaning Numeric Grade 90 - 100 45 Exemplary 4.0 80 - 89 36 Accomplished 3.0 70 - 79 21 Developing 2.0 0 - 69 05 Beginning 1.0

@@ -1,0 +1,1 @@
+f 1 ( aa ) = q 2 = f 0 ( a ) 2 ( \ displaystyle f_ ( 1 ) ( ( \ text ( aa ) ) ) = q ^ ( 2 ) = f_ ( 0 ) ( ( \ text ( a ) ) ) ^ ( 2 ) )

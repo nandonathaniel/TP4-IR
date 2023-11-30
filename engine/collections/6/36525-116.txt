@@ -1,0 +1,1 @@
+ln ⁡ Z = N ln ⁡ ( V − N b ′ ) + N 2 a ′ V k T − N ln ⁡ ( Λ 3 ) − ln ⁡ N ! ( \ displaystyle \ ln Z = N \ ln ( ( V - Nb ' ) ) + ( \ frac ( N ^ ( 2 ) a ' ) ( VkT ) ) - N \ ln ( ( \ Lambda ^ ( 3 ) ) ) - \ ln ( N ! ) )

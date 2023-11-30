@@ -1,0 +1,1 @@
+There will be sometimes two possible pegs : one will have disks , and the other will be empty . Place the disk in the non-empty peg .

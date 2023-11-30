@@ -1,0 +1,1 @@
+The key components of an SSD are the controller and the memory to store the data . The primary memory component in an SSD was traditionally DRAM volatile memory , but since 2009 it is more commonly NAND flash non-volatile memory .

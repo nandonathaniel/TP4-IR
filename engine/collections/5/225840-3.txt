@@ -1,0 +1,1 @@
+1 . Ensure that ports are not set to negotiate trunks automatically by disabling DTP :

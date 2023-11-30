@@ -1,0 +1,1 @@
+( n h ) ( n − h k ) = ( n k ) ( n − k h ) . ( \ displaystyle ( \ binom ( n ) ( h ) ) ( \ binom ( n-h ) ( k ) ) = ( \ binom ( n ) ( k ) ) ( \ binom ( n-k ) ( h ) ) . )

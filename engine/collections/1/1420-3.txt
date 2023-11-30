@@ -1,0 +1,1 @@
+V = V max ( S ) K m + ( S ) ( \ displaystyle V = ( \ frac ( V_ ( \ max ) ( S ) ) ( K_ ( m ) + ( S ) ) ) )

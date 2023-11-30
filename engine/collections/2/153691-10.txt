@@ -1,0 +1,1 @@
+N F = 10 log 10 ⁡ ( F ) = 10 log 10 ⁡ ( S N R in S N R out ) = S N R in , dB − S N R out , dB , ( \ displaystyle \ mathrm ( NF ) = 10 \ log _ ( 10 ) ( F ) = 10 \ log _ ( 10 ) \ left ( ( \ frac ( \ mathrm ( SNR ) _ ( \ text ( in ) ) ) ( \ mathrm ( SNR ) _ ( \ text ( out ) ) ) ) \ right ) = \ mathrm ( SNR ) _ ( \ text ( in , dB ) ) - \ mathrm ( SNR ) _ ( \ text ( out , dB ) ) , )

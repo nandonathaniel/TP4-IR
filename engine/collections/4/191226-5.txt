@@ -1,0 +1,1 @@
+AVS is a service to combat fraudulent activity for non-face - to - face transactions by cross-referencing the cardholder 's address information with the card issuer 's records . AVS is widely supported by Visa , MasterCard and American Express in the USA , Canada and United Kingdom .
