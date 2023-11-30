@@ -8,6 +8,7 @@ from nltk.stem import PorterStemmer
 from scipy.spatial.distance import cosine
 from gensim.models import LsiModel
 from gensim.corpora import Dictionary
+import nltk
 
 class LambdaMart:
     NUM_NEGATIVES = 1
@@ -47,14 +48,14 @@ class LambdaMart:
         self.stop_words_set = set(stopwords.words('english'))
 
         # train
-        self.load_documents('qrels-folder/train_docs.txt')
-        self.load_queries('qrels-folder/train_queries.txt')
-        self.load_qrels('qrels-folder/train_qrels.txt')
+        self.load_documents('engine/qrels-folder/train_docs.txt')
+        self.load_queries('engine/qrels-folder/train_queries.txt')
+        self.load_qrels('engine/qrels-folder/train_qrels.txt')
         self.construct_dataset()
 
         # validation
-        self.load_val_queries('qrels-folder/val_queries.txt')
-        self.load_val_qrels('qrels-folder/val_qrels.txt')
+        self.load_val_queries('engine/qrels-folder/val_queries.txt')
+        self.load_val_qrels('engine/qrels-folder/val_qrels.txt')
         self.construct_val_dataset()
 
         self.build_lsi_model()

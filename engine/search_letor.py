@@ -5,9 +5,9 @@ import time
 
 class SearchLetor:
     def __init__(self):
-        self.BSBI_instance = BSBIIndex(data_dir='collections',
+        self.BSBI_instance = BSBIIndex(data_dir='engine/collections',
                                 postings_encoding=VBEPostings,
-                                output_dir='index')
+                                output_dir='engine/index')
         self.BSBI_instance.load()
         self.letor = LambdaMart()
     
