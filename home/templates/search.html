@@ -195,17 +195,21 @@
     </div>
     </div>
     </div>
-
+    <h2 style="color: black;">Results for query "{{ query }}"</h3>
     {% if results %}
-    <p>Time : {{time}}</p>
-    <b style="padding-left: 50px; padding-right: 50px; color: #646464;">Web Results</b>
+    <b style="padding-left: 50px; padding-right: 50px; color: #646464;">Web Results finished with {{ time }} ms</b>
     {% for result in results %}
-    <div style="padding-left: 50px; padding-right: 50px;">
-        <h3 style="color: blue;"><a href="{{ result.1 }}">{{ result.doc }}</a></h3>
-        <h3 style="color: green;">{{ result.score }}</h3>
-    </div><br><br>
+        <div style="padding-left: 50px; padding-right: 50px;">
+            <h3 style="color: blue;"><a href="{{ result.1 }}">{{ result.doc }}</a></h3>
+            <h3 style="color: green;">{{ result.score }}</h3>
+        </div><br><br>
     {% endfor %}
+    {% else %}
+        <div style="padding-left: 50px; padding-right: 50px; text-align: center; color: #FF0000;">
+            <p>No Results Found</p>
+        </div>
     {% endif %}
+
 
     <div class="footer">
     <footer class="bottom-toolbar">

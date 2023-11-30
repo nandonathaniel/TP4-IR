@@ -40,7 +40,9 @@ class SearchLetor:
         elapsed_time = end_time - start_time
         elapsed_time_ms = elapsed_time * 1000
 
-        return {"time": elapsed_time_ms, "results": results_list}
+        elapsed_time_ms_formatted = "{:.3f}".format(elapsed_time_ms)
+
+        return {"time": elapsed_time_ms_formatted, "results": results_list}
 
 
 
