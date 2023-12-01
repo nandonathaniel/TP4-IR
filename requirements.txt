@@ -7,3 +7,6 @@ urllib3
 djangorestframework
 python-dotenv
 xmltodict
+tqdm
+nltk
+lightgbm
