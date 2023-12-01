@@ -29,7 +29,7 @@ class SearchLetor:
 
     def rankingReturn(self, query, k=10):
         start_time = time.time()
-        tf_idf_result = self.BSBI_instance.retrieve_tfidf(query, k=20)
+        tf_idf_result = self.BSBI_instance.retrieve_tfidf(query, k=25)
         reranked_with_letor = self.letor.rerank_letor(query, [t[1] for t in tf_idf_result])
 
         results_list = []
