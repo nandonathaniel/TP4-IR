@@ -10,3 +10,4 @@ xmltodict
 tqdm
 nltk
 lightgbm
+gensim

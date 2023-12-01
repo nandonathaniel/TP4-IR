@@ -145,7 +145,7 @@ class LambdaMart:
         rep = [topic_value for (_, topic_value) in self.model[self.dictionary.doc2bow(text)]]
         return rep if len(rep) == LambdaMart.NUM_LATENT_TOPICS else [0.] * LambdaMart.NUM_LATENT_TOPICS
 
-    def features(self, query: list[str], doc: list[str]):
+    def features(self, query, doc):
 
         v_q = self._vector_rep(query)
         v_d = self._vector_rep(doc)
