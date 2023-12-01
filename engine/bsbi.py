@@ -4,6 +4,7 @@ import contextlib
 import heapq
 import math
 import re
+import sys
 
 from engine.index import InvertedIndexReader, InvertedIndexWriter
 from engine.util import IdMap, merge_and_sort_posts_and_tfs
@@ -356,6 +357,9 @@ class BSBIIndex:
 
 
 if __name__ == "__main__":
+
+    engine_path = os.path.abspath('./engine/')
+    sys.path.append(engine_path)
 
     BSBI_instance = BSBIIndex(data_dir='engine/collections',
                               postings_encoding=VBEPostings,
